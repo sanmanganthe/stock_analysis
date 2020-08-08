@@ -1,0 +1,891 @@
+<tr>
+<th align="left">Stock Invested in<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">Sector<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">Sector Total<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">Value(Mn)<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">% of Total Holdings<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">1M Change<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">1Y Highest Holding<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">1Y Lowest Holding<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">Quantity<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">1M Change in Qty<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">M-Cap<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+<th align="center">GroupName<div class="filter_arw"><span class="filarw_up"></span> <span class="filarw_dwn"></span></div></th>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="7.61 check 6.08" href="https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI" target="_blank">Reliance Industries Ltd. </a></span>
+</td>
+<td>Refineries/marketing</td>
+<td>8.94</td>
+<td>527.2</td>
+<td>7.61%</td>
+<td>1.53%</td>
+<td>7.61% <span class="date">(May 2020)</span></td>
+<td>2.88% <span class="date">(Aug 2019)</span></td>
+<td>3.60 L</td>
+<td>70.00 k</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="6.23 check 7.07" href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/icicibank/ICI02" target="_blank">ICICI Bank Ltd. </a></span>
+</td>
+<td>Banks</td>
+<td>15.8</td>
+<td>431.5</td>
+<td>6.23%</td>
+<td>-0.84%</td>
+<td>7.56% <span class="date">(Jun 2019)</span></td>
+<td>6.2% <span class="date">(Aug 2019)</span></td>
+<td>13.00 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="5.48 check 5.63" href="https://www.moneycontrol.com/india/stockpricequote/computers-software/infosys/IT" target="_blank">Infosys Ltd. </a></span>
+</td>
+<td>Computers - software</td>
+<td>8.1</td>
+<td>380.1</td>
+<td>5.48%</td>
+<td>-0.15%</td>
+<td>5.72% <span class="date">(Mar 2020)</span></td>
+<td>1.57% <span class="date">(Jul 2019)</span></td>
+<td>5.50 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="4.67 check 4.87" href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01" target="_blank">HDFC Bank Ltd. </a></span>
+</td>
+<td>Banks</td>
+<td>15.8</td>
+<td>323.6</td>
+<td>4.67%</td>
+<td>-0.20%</td>
+<td>9.94% <span class="date">(Nov 2019)</span></td>
+<td>3.7% <span class="date">(Mar 2020)</span></td>
+<td>3.40 L</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="4.01 check 3.14" href="https://www.moneycontrol.com/india/stockpricequote/personal-care/hindustanunilever/HU" target="_blank">Hindustan Unilever Ltd. </a></span>
+</td>
+<td>Diversified</td>
+<td>4.01</td>
+<td>277.7</td>
+<td>4.01%</td>
+<td>0.87%</td>
+<td>4.01% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>1.35 L</td>
+<td>35.00 k</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="3.79 check 3.31" href="https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08" target="_blank">Bharti Airtel Ltd. </a></span>
+</td>
+<td>Telecom - services</td>
+<td>3.79</td>
+<td>262.5</td>
+<td>3.79%</td>
+<td>0.48%</td>
+<td>3.79% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>4.75 L</td>
+<td>25.00 k</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="3.59 check 4.11" href="https://www.moneycontrol.com/india/stockpricequote/finance-housing/housingdevelopmentfinancecorporation/HDF" target="_blank">Housing Development Finance Corporation Ltd. </a></span>
+</td>
+<td>Housing finance</td>
+<td>3.59</td>
+<td>248.8</td>
+<td>3.59%</td>
+<td>-0.52%</td>
+<td>7.45% <span class="date">(Dec 2019)</span></td>
+<td>3.59% <span class="date">(May 2020)</span></td>
+<td>1.50 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="3.1 check 3" href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/divislaboratories/DL03" target="_blank">Divis Laboratories Ltd. </a></span>
+</td>
+<td>Pharmaceuticals</td>
+<td>9.65</td>
+<td>215.1</td>
+<td>3.10%</td>
+<td>0.10%</td>
+<td>3.1% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>90.00 k</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="3.04 check 3.08" href="https://www.moneycontrol.com/india/stockpricequote/food-processing/nestleindia/NI" target="_blank">Nestle India Ltd. </a></span>
+</td>
+<td>Consumer food</td>
+<td>4.71</td>
+<td>210.5</td>
+<td>3.04%</td>
+<td>-0.04%</td>
+<td>3.17% <span class="date">(Mar 2020)</span></td>
+<td>1.47% <span class="date">(Jun 2019)</span></td>
+<td>12.00 k</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="2.93 check 2.3" href="https://www.moneycontrol.com/india/stockpricequote/auto-tractors/escorts/E" target="_blank">Escorts Ltd. </a></span>
+</td>
+<td>Tractors</td>
+<td>2.93</td>
+<td>203.2</td>
+<td>2.93%</td>
+<td>0.63%</td>
+<td>2.93% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>2.25 L</td>
+<td>0.00 </td>
+<td>Small Cap</td>
+<td>3.06</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="2.65 check 2.4" href="https://www.moneycontrol.com/india/stockpricequote/chemicals/pidiliteindustries/PI11" target="_blank">Pidilite Industries Ltd. </a></span>
+</td>
+<td>Chemicals - speciality</td>
+<td>5.18</td>
+<td>183.6</td>
+<td>2.65%</td>
+<td>0.25%</td>
+<td>2.73% <span class="date">(Feb 2020)</span></td>
+<td>1.5% <span class="date">(Jun 2019)</span></td>
+<td>1.25 L</td>
+<td>15.00 k</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="2.62 check 2.57" href="https://www.moneycontrol.com/india/stockpricequote/computers-software/hcltechnologies/HCL02" target="_blank">HCL Technologies Limited </a></span>
+</td>
+<td>Computers - software</td>
+<td>8.1</td>
+<td>181.6</td>
+<td>2.62%</td>
+<td>0.05%</td>
+<td>2.62% <span class="date">(May 2020)</span></td>
+<td>1.84% <span class="date">(Jun 2019)</span></td>
+<td>3.30 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="2.46 check 1.97" href="https://www.moneycontrol.com/india/stockpricequote/chemicals/aartiindustries/AI45" target="_blank">Aarti Industries Ltd. </a></span>
+</td>
+<td>Chemicals - speciality</td>
+<td>5.18</td>
+<td>170.8</td>
+<td>2.46%</td>
+<td>0.49%</td>
+<td>2.46% <span class="date">(May 2020)</span></td>
+<td>1.52% <span class="date">(Jan 2020)</span></td>
+<td>1.75 L</td>
+<td>50.00 k</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="2.19 check 2.31" href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/cityunionbank/CUB" target="_blank">City Union Bank Ltd. </a></span>
+</td>
+<td>Banks</td>
+<td>15.8</td>
+<td>151.9</td>
+<td>2.19%</td>
+<td>-0.12%</td>
+<td>2.77% <span class="date">(Feb 2020)</span></td>
+<td>2.05% <span class="date">(Jul 2019)</span></td>
+<td>11.20 L</td>
+<td>0.00 </td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="2.14 check 2.19" href="https://www.moneycontrol.com/india/stockpricequote/computers-software/techmahindra/TM4" target="_blank">Tech Mahindra Ltd. </a></span>
+</td>
+<td>Software -telecom</td>
+<td>2.14</td>
+<td>148.5</td>
+<td>2.14%</td>
+<td>-0.05%</td>
+<td>2.68% <span class="date">(Feb 2020)</span></td>
+<td>1.83% <span class="date">(Jun 2019)</span></td>
+<td>2.80 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="2.05 check 2.2" href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/ipcalaboratories/IL" target="_blank">Ipca Laboratories Ltd. </a></span>
+</td>
+<td>Pharmaceuticals</td>
+<td>9.65</td>
+<td>142</td>
+<td>2.05%</td>
+<td>-0.15%</td>
+<td>2.2% <span class="date">(Apr 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>95.00 k</td>
+<td>0.00 </td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.78 check 2.67" href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/axisbank/AB16" target="_blank">Axis Bank Ltd. </a></span>
+</td>
+<td>Banks</td>
+<td>15.8</td>
+<td>123.2</td>
+<td>1.78%</td>
+<td>-0.89%</td>
+<td>3.75% <span class="date">(Jun 2019)</span></td>
+<td>1.73% <span class="date">(Sep 2019)</span></td>
+<td>3.20 L</td>
+<td>-1.00 L</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.75 check 1.99" href="https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/larsentoubro/LT" target="_blank">Larsen &amp; Toubro Ltd. </a></span>
+</td>
+<td>Engineering, designing, construction</td>
+<td>1.75</td>
+<td>121.2</td>
+<td>1.75%</td>
+<td>-0.24%</td>
+<td>4.01% <span class="date">(Sep 2019)</span></td>
+<td>1.75% <span class="date">(May 2020)</span></td>
+<td>1.30 L</td>
+<td>-0.25 L</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.67 check 1.61" href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/jubilantfoodworks/JF04" target="_blank">Jubilant Foodworks Ltd. </a></span>
+</td>
+<td>Consumer food</td>
+<td>4.71</td>
+<td>116</td>
+<td>1.67%</td>
+<td>0.06%</td>
+<td>1.67% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>70.00 k</td>
+<td>0.00 </td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.67 check 1.16" href="https://www.moneycontrol.com/india/stockpricequote/steel-sponge-iron/jindalsteelpower/JSP" target="_blank">Jindal Steel &amp; Power Ltd. </a></span>
+</td>
+<td>Steel</td>
+<td>1.67</td>
+<td>115.5</td>
+<td>1.67%</td>
+<td>0.51%</td>
+<td>1.67% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>9.50 L</td>
+<td>1.00 L</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.63 check 1.76" href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/securityintelligenceservicesindia/SIS08" target="_blank">Security and Intelligence Services (India) Ltd. </a></span>
+</td>
+<td>Diversified commercial services</td>
+<td>1.63</td>
+<td>113</td>
+<td>1.63%</td>
+<td>-0.13%</td>
+<td>2.08% <span class="date">(Feb 2020)</span></td>
+<td>1.5% <span class="date">(Aug 2019)</span></td>
+<td>2.94 L</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.63 check 1.46" href="https://www.moneycontrol.com/india/stockpricequote/breweries-distilleries/unitedspirits/US" target="_blank">United Spirits Ltd. </a></span>
+</td>
+<td>Brew/distilleries</td>
+<td>1.63</td>
+<td>112.9</td>
+<td>1.63%</td>
+<td>0.17%</td>
+<td>1.63% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>1.90 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.62 check 1.46" href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/alembicpharmaceuticals/AP35" target="_blank">Alembic Pharmaceuticals Ltd. </a></span>
+</td>
+<td>Pharmaceuticals</td>
+<td>9.65</td>
+<td>112.4</td>
+<td>1.62%</td>
+<td>0.16%</td>
+<td>1.62% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>1.29 L</td>
+<td>-8.00 k</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.55 check 1.61" href="https://www.moneycontrol.com/india/stockpricequote/personal-care/daburindia/DI" target="_blank">Dabur India Ltd. </a></span>
+</td>
+<td>Personal care</td>
+<td>1.55</td>
+<td>107.3</td>
+<td>1.55%</td>
+<td>-0.06%</td>
+<td>1.68% <span class="date">(Mar 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>2.30 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.48 check 1.34" href="https://www.moneycontrol.com/india/stockpricequote/cement-major/theramcocements/MC" target="_blank">The Ramco Cements Ltd. </a></span>
+</td>
+<td>Cement</td>
+<td>2.61</td>
+<td>102.6</td>
+<td>1.48%</td>
+<td>0.14%</td>
+<td>2.68% <span class="date">(Aug 2019)</span></td>
+<td>1.34% <span class="date">(Apr 2020)</span></td>
+<td>1.70 L</td>
+<td>0.00 </td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.47 check 1.41" href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL" target="_blank">Dr. Reddys Laboratories Ltd. </a></span>
+</td>
+<td>Pharmaceuticals</td>
+<td>9.65</td>
+<td>101.8</td>
+<td>1.47%</td>
+<td>0.06%</td>
+<td>1.47% <span class="date">(May 2020)</span></td>
+<td>0.87% <span class="date">(Jun 2019)</span></td>
+<td>25.00 k</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.41 check 1.01" href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/biocon/BL03" target="_blank">Biocon Ltd. </a></span>
+</td>
+<td>Pharmaceuticals</td>
+<td>9.65</td>
+<td>97.5</td>
+<td>1.41%</td>
+<td>0.40%</td>
+<td>1.41% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>2.75 L</td>
+<td>75.00 k</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.34 check 1.37" href="https://www.moneycontrol.com/india/stockpricequote/leather-products/bataindia/BI01" target="_blank">Bata India Ltd. </a></span>
+</td>
+<td>Leather and leather products</td>
+<td>1.34</td>
+<td>92.8</td>
+<td>1.34%</td>
+<td>-0.03%</td>
+<td>1.37% <span class="date">(Apr 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>70.00 k</td>
+<td>0.00 </td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.28 check 1.39" href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/titancompany/TI01" target="_blank">Titan Company Ltd. </a></span>
+</td>
+<td>Gems, jewellery and watches</td>
+<td>1.28</td>
+<td>89</td>
+<td>1.28%</td>
+<td>-0.11%</td>
+<td>2.41% <span class="date">(Sep 2019)</span></td>
+<td>1.28% <span class="date">(May 2020)</span></td>
+<td>1.00 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.26 check 1.42" href="https://www.moneycontrol.com/india/stockpricequote/refineries/hindustanpetroleumcorporation/HPC" target="_blank">Hindustan Petroleum Corporation Ltd. </a></span>
+</td>
+<td>Refineries/marketing</td>
+<td>8.94</td>
+<td>87.6</td>
+<td>1.26%</td>
+<td>-0.16%</td>
+<td>1.42% <span class="date">(Apr 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>4.50 L</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.21 check 1.15" href="https://www.moneycontrol.com/india/stockpricequote/auto-cars-jeeps/marutisuzukiindia/MS24" target="_blank">Maruti Suzuki India Ltd. </a></span>
+</td>
+<td>Passenger/utility vehicles</td>
+<td>1.21</td>
+<td>84.2</td>
+<td>1.21%</td>
+<td>0.06%</td>
+<td>1.21% <span class="date">(May 2020)</span></td>
+<td>0.8% <span class="date">(Jul 2019)</span></td>
+<td>15.00 k</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.13 check 1.01" href="https://www.moneycontrol.com/india/stockpricequote/cement-major/ultratechcement/UTC01" target="_blank">Ultratech Cement Ltd. </a></span>
+</td>
+<td>Cement</td>
+<td>2.61</td>
+<td>78.1</td>
+<td>1.13%</td>
+<td>0.12%</td>
+<td>1.13% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>20.00 k</td>
+<td>0.00 </td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.11 check 0.83" href="https://www.moneycontrol.com/india/stockpricequote/diversified/sbilifeinsurancecompany/SLI03" target="_blank">SBI Life Insurance Co Ltd. </a></span>
+</td>
+<td>Insurance</td>
+<td>1.11</td>
+<td>76.9</td>
+<td>1.11%</td>
+<td>0.28%</td>
+<td>1.11% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>1.00 L</td>
+<td>20.00 k</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="1.09 check 1.2" href="https://www.moneycontrol.com/india/stockpricequote/sbi-cards-payment-services/sbicardspaymentservices/SCP02" target="_blank">SBI Cards and Payment Services Ltd. </a></span>
+</td>
+<td>Nbfc</td>
+<td>2.01</td>
+<td>75.4</td>
+<td>1.09%</td>
+<td>-0.11%</td>
+<td>1.2% <span class="date">(Apr 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>1.40 L</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.09 check 0.64" href="https://www.moneycontrol.com/india/stockpricequote/electricals/cromptongreavesconsumerelectrical/CGC01" target="_blank">Crompton Greaves Consumer Electricals Ltd. </a></span>
+</td>
+<td>Home appliances</td>
+<td>1.09</td>
+<td>75.4</td>
+<td>1.09%</td>
+<td>0.45%</td>
+<td>1.09% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>3.36 L</td>
+<td>1.36 L</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="1.06 check 1.01" href="https://www.moneycontrol.com/india/stockpricequote/plantations-tea-coffee/tataconsumerproducts/TT" target="_blank">Tata Consumer Products Ltd. </a></span>
+</td>
+<td>Tea &amp;  coffee</td>
+<td>1.06</td>
+<td>73.4</td>
+<td>1.06%</td>
+<td>0.05%</td>
+<td>1.06% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>2.00 L</td>
+<td>0.00 </td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="0.95 check 0.91" href="https://www.moneycontrol.com/india/stockpricequote/retail/adityabirlafashionretail/PFR" target="_blank">Aditya Birla Fashion and Retail Ltd. </a></span>
+</td>
+<td>Retailing</td>
+<td>0.95</td>
+<td>65.9</td>
+<td>0.95%</td>
+<td>0.04%</td>
+<td>2.41% <span class="date">(Feb 2020)</span></td>
+<td>0.91% <span class="date">(Apr 2020)</span></td>
+<td>5.50 L</td>
+<td>0.00 </td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="0.93 check 1.29" href="https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI" target="_blank">State Bank Of India </a></span>
+</td>
+<td>Banks</td>
+<td>15.8</td>
+<td>64.5</td>
+<td>0.93%</td>
+<td>-0.36%</td>
+<td>3.29% <span class="date">(Jul 2019)</span></td>
+<td>0.93% <span class="date">(May 2020)</span></td>
+<td>4.00 L</td>
+<td>-0.75 L</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="0.92 check 1.03" href="https://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/cholamandalaminvestmentfinancecompany/CDB" target="_blank">Cholamandalam Investment &amp; Finance Co. Ltd. </a></span>
+</td>
+<td>Nbfc</td>
+<td>2.01</td>
+<td>63.8</td>
+<td>0.92%</td>
+<td>-0.11%</td>
+<td>1.77% <span class="date">(Feb 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>4.50 L</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="0.7 check 1.35" href="https://www.moneycontrol.com/india/stockpricequote/plastics/astralpolytechnik/APT02" target="_blank">Astral Poly Technik Ltd. </a></span>
+</td>
+<td>Plastic products</td>
+<td>0.7</td>
+<td>48.4</td>
+<td>0.70%</td>
+<td>-0.65%</td>
+<td>3.01% <span class="date">(Jan 2020)</span></td>
+<td>0.7% <span class="date">(May 2020)</span></td>
+<td>55.13 k</td>
+<td>-0.45 L</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="0.36 check 1.04" href="https://www.moneycontrol.com/india/stockpricequote/paints-varnishes/kansainerolacpaints/KNP" target="_blank">Kansai Nerolac Paints Ltd. </a></span>
+</td>
+<td>Paints</td>
+<td>0.36</td>
+<td>25.1</td>
+<td>0.36%</td>
+<td>-0.68%</td>
+<td>2.05% <span class="date">(Jun 2019)</span></td>
+<td>0.36% <span class="date">(May 2020)</span></td>
+<td>69.00 k</td>
+<td>-1.06 L</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_redarw port_left mt5"></span>
+<span class="port_right"><a class="0.13 check 0.14" href="https://www.moneycontrol.com/india/stockpricequote/media-entertainment/pvr/PVR" target="_blank">PVR Ltd. </a></span>
+</td>
+<td>Flim production, distribution &amp; exhibition</td>
+<td>0.13</td>
+<td>9</td>
+<td>0.13%</td>
+<td>-0.01%</td>
+<td>0.19% <span class="date">(Mar 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>10.00 k</td>
+<td>0.00 </td>
+<td>Small Cap</td>
+<td>3.06</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">#</span>
+<span class="port_right"><a class="0.07 check 0" href="https://www.moneycontrol.com/india/stockpricequote/reliance-industries-limitedrights-entitlement/relianceindustrieslimitedrightsentitlement/RIL08" target="_blank">Reliance Industries Ltd. - Rights </a></span>
+</td>
+<td>Refineries/marketing</td>
+<td>8.94</td>
+<td>5</td>
+<td>0.07%</td>
+<td>0.07%</td>
+<td>0.07% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>24.00 k</td>
+<td>24.00 k</td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="mf_nav_sprite ic_greenarw port_left mt5"></span>
+<span class="port_right"><a class="0.07 check 0.06" href="https://www.moneycontrol.com/india/indexfutures/nifty/9" target="_blank">Aarti Surfactants Ltd. </a></span>
+</td>
+<td>Chemicals - speciality</td>
+<td>5.18</td>
+<td>4.5</td>
+<td>0.07%</td>
+<td>0.01%</td>
+<td>0.07% <span class="date">(Mar 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>9.50 k</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/sonimedicare/SM24" target="_blank">Soni Medicare Ltd. </a></span>
+</td>
+<td>Hospital</td>
+<td>0</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(Feb 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>25.00 k</td>
+<td>0.00 </td>
+<td>Small Cap</td>
+<td>3.06</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/stockpricequote/textiles-hosiery-knitwear/kansalfibres/KF03" target="_blank">Kansal Fibres Ltd. </a></span>
+</td>
+<td>Trading</td>
+<td>0</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Sep 2019)</span></td>
+<td>2.00 L</td>
+<td>0.00 </td>
+<td>Small Cap</td>
+<td>3.06</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/indexfutures/nifty/9" target="_blank">Amex Carbonates &amp; Chemicals Ltd. </a></span>
+</td>
+<td>Chemicals - organic</td>
+<td>0</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>1.49 L</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/indexfutures/nifty/9" target="_blank">Siv Industries Ltd. </a></span>
+</td>
+<td>Man made fibres/blended</td>
+<td>0</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(Apr 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>14.75 k</td>
+<td>0.00 </td>
+<td>Small Cap</td>
+<td>3.06</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/indexfutures/nifty/9" target="_blank">Accord Cotsyn Ltd. </a></span>
+</td>
+<td>Foreign equity</td>
+<td>0</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>25.00 k</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/indexfutures/nifty/9" target="_blank">Royal Industries Ltd. </a></span>
+</td>
+<td>Foreign equity</td>
+<td>0</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(Nov 2019)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>10.00 k</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/indexfutures/nifty/9" target="_blank">Western Paques (india) Ltd. </a></span>
+</td>
+<td>Power</td>
+<td>0</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(Apr 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>6.65 k</td>
+<td>0.00 </td>
+<td>Other</td>
+<td>8.45</td>
+</tr><tr>
+<td class="robo_medium">
+<span class="port_left">-</span>
+<span class="port_right"><a class="0 check 0" href="https://www.moneycontrol.com/india/indexfutures/nifty/9" target="_blank">DSQ Software Ltd </a></span>
+</td>
+<td>Computers - software</td>
+<td>8.1</td>
+<td>0</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0% <span class="date">(May 2020)</span></td>
+<td>0% <span class="date">(Jun 2019)</span></td>
+<td>8.00 k</td>
+<td>0.00 </td>
+<td>Small Cap</td>
+<td>3.06</td>
+</tr><tr style="display: none;">
+<td>
+<span class="port_right"><a class="0 check 1.34" href="https://www.moneycontrol.com/india/stockpricequote/electricals/bharatelectronics/BE03" target="_blank">Bharat Electronics Ltd.</a></span>
+</td>
+<td>Industrial electronics</td>
+<td></td>
+<td>93.7</td>
+<td>0.00%</td>
+<td>-1.34%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr><tr style="display: none;">
+<td>
+<span class="port_right"><a class="0 check 1.33" href="https://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/bajajfinance/BAF" target="_blank">Bajaj Finance Ltd.</a></span>
+</td>
+<td>Nbfc</td>
+<td>2.01</td>
+<td>92.7</td>
+<td>0.00%</td>
+<td>-1.33%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Large Cap</td>
+<td>59.36</td>
+</tr><tr style="display: none;">
+<td>
+<span class="port_right"><a class="0 check 1.02" href="https://www.moneycontrol.com/india/stockpricequote/oil-drilling-and-exploration/indraprasthagas/IG04" target="_blank">Indraprastha Gas Ltd.</a></span>
+</td>
+<td>Lpg/cng/png/lng supplier</td>
+<td></td>
+<td>71.5</td>
+<td>0.00%</td>
+<td>-1.02%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Mid Cap</td>
+<td>20.05</td>
+</tr>
