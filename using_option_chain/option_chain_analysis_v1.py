@@ -24,8 +24,8 @@ def wavg(group, avg_name, weight_name):
 #TSLA
 #F
 #MSFT
-stock="F"
-months=6
+stock="AAPL"
+months=12
 nResults=5
 
 #########################
@@ -135,5 +135,5 @@ print(finalOptionChain)
 
 #########################
 #mainCallDF.info()
-#topNCallDF.to_csv('file_name.csv')
+finalOptionChain.to_csv(stock+'_'+str(months)+'months_prediction.csv')
 #########################
