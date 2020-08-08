@@ -24,9 +24,9 @@ def wavg(group, avg_name, weight_name):
 #TSLA
 #F
 #MSFT
-stock="AAPL"
-months=12
-nResults=5
+stock="TSLA"
+months=6
+nResults=25
 
 #########################
 #latestPriceDF = si.get_live_price(stock)
@@ -40,34 +40,40 @@ d = datetime.date.today()
 #monday==0
 while d.weekday() != 4:
     d += datetime.timedelta(1)
-#print(d)
 
 expDate=d.strftime('%Y-%m-%d')
 
-#callDF = op.get_calls(stock)
-#print(callDF[['Contract Name','Strike','Open Interest']])
 
-
+#mainCallDF = op.get_calls(stock,d)
 mainCallDF = op.get_calls(stock,d)
 mainCallDF['ExpiryDate']=expDate
 mainCallDF['OptionType']='CALL'
 
 
+#mainPutDF = op.get_puts(stock,d)
+mainPutDF = op.get_puts(stock,d)
+mainPutDF['ExpiryDate']=d
+mainPutDF['OptionType']='PUT'
+
 
 for i in range(months*4):
     d += datetime.timedelta(7)
     expDate=d.strftime('%Y-%m-%d')
-    #print(d)
     try:
         callDF = op.get_calls(stock,d)
         callDF['ExpiryDate']=expDate
         callDF['OptionType']='CALL'
         mainCallDF=mainCallDF.append(callDF)
+        putDF = op.get_puts(stock,d)
+        putDF['ExpiryDate']=expDate
+        putDF['OptionType']='PUT'
+        mainPutDF=mainPutDF.append(putDF)
     except ValueError:
-        print("No option data for "+str(d))
+        pass
+        #print("No option data for "+str(d))
+        
 topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
-
-#print(topNCallDF)
+print(topNCallDF)
 #########################
 #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
 #print(callMeanDF)
@@ -81,35 +87,8 @@ for index, value in callWavgSet.items():
     cDF = cDF.append({'ExpiryDate': index, 'CallStrikePrice': value}, ignore_index=True)
 #print(cDF)
 
-##END OF CALLS
-#################################
-
-d = datetime.date.today()
-#monday==0
-while d.weekday() != 4:
-    d += datetime.timedelta(1)
-#print(d)
-
-expDate=d.strftime('%Y-%m-%d')
-
-mainPutDF = op.get_puts(stock,d)
-mainPutDF['ExpiryDate']=d
-mainPutDF['OptionType']='PUT'
-
-for i in range(months*4):
-    d += datetime.timedelta(7)
-    expDate=d.strftime('%Y-%m-%d')
-    #print(d)
-    try:
-        putDF = op.get_puts(stock,d)
-        putDF['ExpiryDate']=expDate
-        putDF['OptionType']='PUT'
-        mainPutDF=mainPutDF.append(putDF)
-    except ValueError:
-        print("No option data for "+str(d))
 topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
-
-#print(topNCallDF)
+print(topNPutDF)
 #########################
 #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
 #print(callMeanDF)
@@ -123,9 +102,6 @@ for index, value in putWavgSet.items():
     pDF = pDF.append({'ExpiryDate': index, 'PutStrikePrice': value}, ignore_index=True)
 #print(pDF)
 
-
-##END OF PUTS
-#################################
 
 
 putStrikePriceColumn = pDF["PutStrikePrice"]
