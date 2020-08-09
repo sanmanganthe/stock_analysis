@@ -33,10 +33,12 @@ stockListTelecom = ['T','TMUS','ERIC','VZ']
 stockListRE = ['CIM','O','DLR']
 stockListEnt = ['DIS','NFLX']
 stockListSmall = ['SPCE','NIO','DLR']
+stockListTest= ['AAPL']
 
-stockList = stockListTech+stockListTech2+stockListBank+stockListRetail+stockListTravel+stockListAuto+stockListIndex+stockListTelecom+stockListRE+stockListEnt+stockListSmall
+stockList = stockListTech+stockListTech2+stockListBank+stockListRetail+stockListTravel+stockListAuto
+stocklist2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt+stockListSmall
 
-months=6
+months=10
 nResults=20
 requestCount=0
 
@@ -58,53 +60,73 @@ for stock in stockList:
         d += datetime.timedelta(1)
     try:
         stockPrice = si.get_live_price(stock)
+        print(stockPrice)
         mainCallDF=pd.DataFrame()
         mainPutDF=pd.DataFrame()
         for i in range(months*4):
             expDate=d.strftime('%Y-%m-%d')
-            #print(expDate)
+            print(expDate)
             try:
                 callDF = op.get_calls(stock,d)
-                requestCount = requestCount+1
-                callDF['ExpiryDate']=expDate
-                callDF['OptionType']='CALL'
-                mainCallDF=mainCallDF.append(callDF)
+                #requestCount = requestCount+1
+                #print("Call Request Count "+str(requestCount))
+                if not callDF.empty:
+                    print("Call options "+ str(callDF.size))
+                    callDF['ExpiryDate']=expDate
+                    callDF['OptionType']='CALL'
+                    callDF['Count']=callDF.size
+                    mainCallDF=mainCallDF.append(callDF)
                 putDF = op.get_puts(stock,d)
-                requestCount = requestCount+1
-                putDF['ExpiryDate']=expDate
-                putDF['OptionType']='PUT'
-                mainPutDF=mainPutDF.append(putDF)
-                #print("Request Count "+str(requestCount))
-                d += datetime.timedelta(7)
+                #requestCount = requestCount+1
+                #print("put Request Count "+str(requestCount))
+                if not putDF.empty:
+                    print("Put Options "+ str(putDF.size))
+                    putDF['ExpiryDate']=expDate
+                    putDF['OptionType']='PUT'
+                    putDF['Count']=putDF.size
+                    mainPutDF=mainPutDF.append(putDF)
             except:
+                print("Error Call options "+ str(callDF.size))
+                print("Error Put Options "+ str(putDF.size))
                 pass
+            finally:
+                d += datetime.timedelta(7)
+        print("Collected all data for "+stock+" datasize Calls-"+str(mainCallDF.size)+" Puts-"+str(mainPutDF.size))
         topNCallDF = pd.DataFrame()
-        topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
-        #print(topNCallDF)
-        #########################
-        #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
-        #print(callMeanDF)
-        #########################
-        topNPutDF = pd.DataFrame()
-        topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
-        #print(topNPutDF)
-        #########################
-        #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
-        #print(callMeanDF)
-        #########################
+        if not mainCallDF.empty:
+            topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest']]
+            #print(topNCallDF)
+            #########################
+            #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
+            #print(callMeanDF)
+            #########################'=
+        if not mainPutDF.empty:
+            topNPutDF = pd.DataFrame()
+            topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest']]
+            #print(topNPutDF)
+            #########################
+            #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
+            #print(callMeanDF)
+            #########################
         topNPutDF = topNPutDF.append(topNCallDF)
-        wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
-        #print(putWavgSet)
-        finalDF = pd.DataFrame()
-        for index, value in wavgSet.items():
-            finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
-        finalDF['Stock']=stock
-        finalDF['StockPrice']=stockPrice
-        print(finalDF.count() +'-'+stockPrice)
-        finalCompleteDF = finalCompleteDF.append(finalDF)
-    except:
+        print(topNPutDF.size)
+        if not topNPutDF.empty:
+            wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
+            print("1")
+            #print(putWavgSet)
+            finalDF = pd.DataFrame()
+            for index, value in wavgSet.items():
+                finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
+            print("2")
+            finalDF['Stock']=stock
+            finalDF['StockPrice']=stockPrice
+            finalDF['PCR']=topNPutDF.size/topNCallDF.size
+            print("3")
+            print(finalDF.size)
+            finalCompleteDF = finalCompleteDF.append(finalDF)
+    except IndexError:
         print("Error with "+stock)
-        pass
+        break
 #########################
 #mainCallDF.info()
 print(finalCompleteDF)

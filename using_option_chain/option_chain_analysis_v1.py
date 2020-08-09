@@ -24,8 +24,8 @@ def wavg(group, avg_name, weight_name):
 #TSLA
 #F
 #MSFT
-stock="ERIC"
-months=6
+stock="AAPL"
+months=1
 nResults=25
 
 #########################
@@ -42,12 +42,13 @@ while d.weekday() != 4:
     d += datetime.timedelta(1)
 
 expDate=d.strftime('%Y-%m-%d')
-
+print(si.get_live_price(stock))
 
 #mainCallDF = op.get_calls(stock,d)
-mainCallDF = op.get_calls(stock,d)
+mainCallDF = op.get_calls(stock,'2021-01-22')
 mainCallDF['ExpiryDate']=expDate
 mainCallDF['OptionType']='CALL'
+print(mainCallDF)
 
 
 #mainPutDF = op.get_puts(stock,d)
