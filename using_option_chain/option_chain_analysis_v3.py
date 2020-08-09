@@ -106,5 +106,5 @@ for stock in stockList:
 #########################
 #mainCallDF.info()
 print(finalCompleteDF)
-finalCompleteDF.to_csv(stockType+'_prediction3.csv')
+finalCompleteDF.to_csv(stockType+'_'+datetime.date.today().strftime('%Y-%m-%d')+".csv")
 #########################
