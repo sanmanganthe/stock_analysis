@@ -100,8 +100,10 @@ for stock in stockList:
             finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
         finalDF['Stock']=stock
         finalDF['StockPrice']=stockPrice
+        print(finalDF.count() +'-'+stockPrice)
         finalCompleteDF = finalCompleteDF.append(finalDF)
     except:
+        print("Error with "+stock)
         pass
 #########################
 #mainCallDF.info()
