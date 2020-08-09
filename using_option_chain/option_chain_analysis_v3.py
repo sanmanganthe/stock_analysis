@@ -34,15 +34,16 @@ stockListRE = ['CIM','O','DLR']
 stockListEnt = ['DIS','NFLX']
 stockListSmall = ['SPCE','NIO','DLR']
 
-stockList = stockListTech+stockListTech2+stockListBank
-months=10
+stockList = stockListTech+stockListTech2+stockListBank+stockListRetail+stockListTravel+stockListAuto+stockListIndex+stockListTelecom+stockListRE+stockListEnt+stockListSmall
+
+months=6
 nResults=20
 requestCount=0
 
 finalCompleteDF = pd.DataFrame()
-stockType="Ent"
+stockType="Full"
 
-for stock in stockListEnt:
+for stock in stockList:
     #time.sleep(60)
     print(stock)
     #########################
@@ -52,56 +53,56 @@ for stock in stockListEnt:
     #print(financialsDF)
     #########################
     d = datetime.date.today()
-    stockPrice = si.get_live_price(stock)
     #monday==0
     while d.weekday() != 4:
         d += datetime.timedelta(1)
-    expDate=d.strftime('%Y-%m-%d')
-    mainCallDF=pd.DataFrame()
-    mainPutDF=pd.DataFrame()
-    for i in range(months*4):
-        expDate=d.strftime('%Y-%m-%d')
-        #print(expDate)
-        try:
-            callDF = op.get_calls(stock,d)
-            requestCount = requestCount+1
-            callDF['ExpiryDate']=expDate
-            callDF['OptionType']='CALL'
-            mainCallDF=mainCallDF.append(callDF)
-            putDF = op.get_puts(stock,d)
-            requestCount = requestCount+1
-            putDF['ExpiryDate']=expDate
-            putDF['OptionType']='PUT'
-            mainPutDF=mainPutDF.append(putDF)
-            #print("Request Count "+str(requestCount))
-            d += datetime.timedelta(7)
-        except ValueError:
-            pass
-        except IndexError:
-            pass
-    topNCallDF = pd.DataFrame()
-    topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
-    #print(topNCallDF)
-    #########################
-    #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
-    #print(callMeanDF)
-    #########################
-    topNPutDF = pd.DataFrame()
-    topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
-    #print(topNPutDF)
-    #########################
-    #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
-    #print(callMeanDF)
-    #########################
-    topNPutDF = topNPutDF.append(topNCallDF)
-    wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
-    #print(putWavgSet)
-    finalDF = pd.DataFrame()
-    for index, value in wavgSet.items():
-        finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
-    finalDF['Stock']=stock
-    finalDF['StockPrice']=stockPrice
-    finalCompleteDF = finalCompleteDF.append(finalDF)
+    try:
+        stockPrice = si.get_live_price(stock)
+        mainCallDF=pd.DataFrame()
+        mainPutDF=pd.DataFrame()
+        for i in range(months*4):
+            expDate=d.strftime('%Y-%m-%d')
+            #print(expDate)
+            try:
+                callDF = op.get_calls(stock,d)
+                requestCount = requestCount+1
+                callDF['ExpiryDate']=expDate
+                callDF['OptionType']='CALL'
+                mainCallDF=mainCallDF.append(callDF)
+                putDF = op.get_puts(stock,d)
+                requestCount = requestCount+1
+                putDF['ExpiryDate']=expDate
+                putDF['OptionType']='PUT'
+                mainPutDF=mainPutDF.append(putDF)
+                #print("Request Count "+str(requestCount))
+                d += datetime.timedelta(7)
+            except:
+                pass
+        topNCallDF = pd.DataFrame()
+        topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
+        #print(topNCallDF)
+        #########################
+        #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
+        #print(callMeanDF)
+        #########################
+        topNPutDF = pd.DataFrame()
+        topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
+        #print(topNPutDF)
+        #########################
+        #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
+        #print(callMeanDF)
+        #########################
+        topNPutDF = topNPutDF.append(topNCallDF)
+        wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
+        #print(putWavgSet)
+        finalDF = pd.DataFrame()
+        for index, value in wavgSet.items():
+            finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
+        finalDF['Stock']=stock
+        finalDF['StockPrice']=stockPrice
+        finalCompleteDF = finalCompleteDF.append(finalDF)
+    except:
+        pass
 #########################
 #mainCallDF.info()
 print(finalCompleteDF)

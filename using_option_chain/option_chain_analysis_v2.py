@@ -39,9 +39,9 @@ nResults=20
 requestCount=0
 
 finalCompleteDF = pd.DataFrame()
-stockType="ent"
+stockType="small"
 
-for stock in stockListEnt:
+for stock in stockListSmall:
     print(stock)
     #########################
     #latestPriceDF = si.get_live_price(stock)
