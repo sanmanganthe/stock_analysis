@@ -24,7 +24,7 @@ def wavg(group, avg_name, weight_name):
 #TSLA
 #F
 #MSFT
-stock="TSLA"
+stock="TQQQ"
 months=6
 nResults=25
 
@@ -59,12 +59,15 @@ mainPutDF['OptionType']='PUT'
 for i in range(months*4):
     d += datetime.timedelta(7)
     expDate=d.strftime('%Y-%m-%d')
+    print(expDate)
     try:
         callDF = op.get_calls(stock,d)
+        print(callDF.count())
         callDF['ExpiryDate']=expDate
         callDF['OptionType']='CALL'
         mainCallDF=mainCallDF.append(callDF)
         putDF = op.get_puts(stock,d)
+        print(putDF.count())
         putDF['ExpiryDate']=expDate
         putDF['OptionType']='PUT'
         mainPutDF=mainPutDF.append(putDF)
