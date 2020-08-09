@@ -24,7 +24,7 @@ def wavg(group, avg_name, weight_name):
 #TSLA
 #F
 #MSFT
-stock="TQQQ"
+stock="ERIC"
 months=6
 nResults=25
 

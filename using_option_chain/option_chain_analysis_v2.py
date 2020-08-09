@@ -25,9 +25,10 @@ stockListTech = ['AAPL','MSFT','NVDA','GOOGL']
 stockListTech2 = ['VMW','INTC','FB']
 stockListBank = ['BAC','JPM','V']
 stockListRetail = ['AMZN','WMT','COST']
-stockListTravel = ['DAL','SAVE']
 stockListAuto = ['F','BA','ABT','JNJ']
-stockListIndex = ['XLK','TQQQ','XLF','DIV','VOO','NDAQ','DOW']
+stockListIndex = ['XLK','TQQQ','XLF']
+stockListIndex2 = ['VOO','NDAQ','DOW']
+stockListTravel = ['DAL','SAVE']
 stockListTelecom = ['T','TMUS','ERIC','VZ']
 stockListRE = ['CIM','O','DLR']
 stockListEnt = ['DIS','NFLX']
@@ -38,9 +39,9 @@ nResults=20
 requestCount=0
 
 finalCompleteDF = pd.DataFrame()
-stockType="INdex"
+stockType="ent"
 
-for stock in stockListIndex:
+for stock in stockListEnt:
     print(stock)
     #########################
     #latestPriceDF = si.get_live_price(stock)
@@ -57,17 +58,22 @@ for stock in stockListIndex:
     #mainCallDF = op.get_calls(stock,d)
     mainCallDF=pd.DataFrame()
     mainPutDF=pd.DataFrame()
-    mainCallDF = op.get_calls(stock,d)
-    mainCallDF['ExpiryDate']=expDate
-    mainCallDF['OptionType']='CALL'
-    #mainPutDF = op.get_puts(stock,d)
-    mainPutDF = op.get_puts(stock,d)
-    mainPutDF['ExpiryDate']=expDate
-    mainPutDF['OptionType']='PUT'
+    try:
+        mainCallDF = op.get_calls(stock,d)
+        mainCallDF['ExpiryDate']=expDate
+        mainCallDF['OptionType']='CALL'
+        #mainPutDF = op.get_puts(stock,d)
+        mainPutDF = op.get_puts(stock,d)
+        mainPutDF['ExpiryDate']=expDate
+        mainPutDF['OptionType']='PUT'
+    except ValueError:
+        pass
+    except IndexError:
+        pass
     for i in range(months*4):
         d += datetime.timedelta(7)
         expDate=d.strftime('%Y-%m-%d')
-        #print(expDate)
+        print(expDate)
         try:
             callDF = op.get_calls(stock,d)
             requestCount = requestCount+1
@@ -81,6 +87,8 @@ for stock in stockListIndex:
             mainPutDF=mainPutDF.append(putDF)
             print("Request Count "+str(requestCount))
         except ValueError:
+            pass
+        except IndexError:
             pass
             #print("No option data for "+str(d))
     topNCallDF = pd.DataFrame()
