@@ -22,8 +22,7 @@ def wavg(group, avg_name, weight_name):
     except TypeError:
         return d.mean()
         
-stockListTech = ['AAPL','MSFT','NVDA','GOOGL']
-stockListTech2 = ['VMW','INTC','FB']
+stockListTech = ['AAPL','MSFT','NVDA','GOOGL','VMW','INTC','FB']
 stockListBank = ['BAC','JPM','V']
 stockListRetail = ['AMZN','WMT','COST']
 stockListTravel = ['DAL','SAVE']
@@ -35,8 +34,9 @@ stockListEnt = ['DIS','NFLX']
 stockListSmall = ['SPCE','NIO','DLR']
 stockListTest= ['AAPL']
 
-stockList = stockListTech+stockListTech2+stockListBank+stockListRetail+stockListTravel+stockListAuto
-stocklist2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt+stockListSmall
+stockList = stockListTech+stockListBank+stockListRetail
+stocklist2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
+stocklist3 = stockListTravel+stockListAuto+stockListSmall
 
 months=10
 nResults=20
