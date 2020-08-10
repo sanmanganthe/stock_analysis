@@ -22,30 +22,31 @@ def wavg(group, avg_name, weight_name):
     except TypeError:
         return d.mean()
         
-stockListTech = ['AAPL','MSFT','NVDA','GOOGL','VMW','INTC','FB']
+stockListTech = ['AAPL','MSFT','GOOGL','VMW','FB']
 stockListBank = ['BAC','JPM','V']
 stockListRetail = ['AMZN','WMT','COST']
 stockListTravel = ['DAL','SAVE']
-stockListAuto = ['F','BA','ABT','JNJ']
+stockListAuto = ['F','BA','GM','ABT','ABBV','JNJ','TSLA']
 stockListIndex = ['XLK','TQQQ','XLF','DIV','VOO','NDAQ','DOW']
 stockListTelecom = ['T','TMUS','ERIC','VZ']
-stockListRE = ['CIM','O','DLR']
+stockListRE = ['CIM','O']
 stockListEnt = ['DIS','NFLX']
-stockListSmall = ['SPCE','NIO','DLR']
-stockListTest= ['AAPL']
+stockListSmall = ['SPCE','NIO']
+stockListChip = ['AMD','NVDA','INTC','QCOM']
+stockListTest= ['DLR']
 
 stockList = stockListTech+stockListBank+stockListRetail
 stocklist2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
-stocklist3 = stockListTravel+stockListAuto+stockListSmall
+stocklist3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
 
 months=10
 nResults=20
 requestCount=0
 
 finalCompleteDF = pd.DataFrame()
-stockType="Full"
+stockType="Full3"
 
-for stock in stockList:
+for stock in stocklist3:
     #time.sleep(60)
     print(stock)
     #########################
@@ -65,13 +66,13 @@ for stock in stockList:
         mainPutDF=pd.DataFrame()
         for i in range(months*4):
             expDate=d.strftime('%Y-%m-%d')
-            print(expDate)
+            #print(expDate)
             try:
                 callDF = op.get_calls(stock,d)
                 #requestCount = requestCount+1
                 #print("Call Request Count "+str(requestCount))
                 if not callDF.empty:
-                    print("Call options "+ str(callDF.size))
+                    #print("Call options "+ str(callDF.size))
                     callDF['ExpiryDate']=expDate
                     callDF['OptionType']='CALL'
                     callDF['Count']=callDF.size
@@ -80,14 +81,14 @@ for stock in stockList:
                 #requestCount = requestCount+1
                 #print("put Request Count "+str(requestCount))
                 if not putDF.empty:
-                    print("Put Options "+ str(putDF.size))
+                    #print("Put Options "+ str(putDF.size))
                     putDF['ExpiryDate']=expDate
                     putDF['OptionType']='PUT'
                     putDF['Count']=putDF.size
                     mainPutDF=mainPutDF.append(putDF)
             except:
-                print("Error Call options "+ str(callDF.size))
-                print("Error Put Options "+ str(putDF.size))
+                #print("Error Call options "+ str(callDF.size))
+                #print("Error Put Options "+ str(putDF.size))
                 pass
             finally:
                 d += datetime.timedelta(7)
@@ -109,20 +110,20 @@ for stock in stockList:
             #print(callMeanDF)
             #########################
         topNPutDF = topNPutDF.append(topNCallDF)
-        print(topNPutDF.size)
+        #print(topNPutDF.size)
         if not topNPutDF.empty:
             wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
-            print("1")
+            #print("1")
             #print(putWavgSet)
             finalDF = pd.DataFrame()
             for index, value in wavgSet.items():
                 finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
-            print("2")
+            #print("2")
             finalDF['Stock']=stock
             finalDF['StockPrice']=stockPrice
             finalDF['PCR']=topNPutDF.size/topNCallDF.size
-            print("3")
-            print(finalDF.size)
+            #print("3")
+            #print(finalDF.size)
             finalCompleteDF = finalCompleteDF.append(finalDF)
     except IndexError:
         print("Error with "+stock)
