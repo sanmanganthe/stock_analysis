@@ -31,22 +31,24 @@ stockListIndex = ['XLK','TQQQ','XLF','DIV','VOO','NDAQ','DOW']
 stockListTelecom = ['T','TMUS','ERIC','VZ']
 stockListRE = ['CIM','O']
 stockListEnt = ['DIS','NFLX']
-stockListSmall = ['SPCE','NIO']
-stockListChip = ['AMD','NVDA','INTC','QCOM']
-stockListTest= ['DLR']
+stockListSmall = ['SPCE','NIO','BYND']
+stockListChip = ['AMD','NVDA','INTC','QCOM','MU','AMAT']
+stockListEnergy = ['VLO','XOM']
+stockListTest= ['JNJ','NIO','SAVE','TQQQ','TSLA','VMW']
 
-stockList = stockListTech+stockListBank+stockListRetail
-stocklist2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
-stocklist3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
+stockList = stockListTech+stockListBank+stockListRetail+stockListEnergy
+stockList2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
+stockList3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
 
-months=10
+months=4
 nResults=20
 requestCount=0
 
 finalCompleteDF = pd.DataFrame()
-stockType="Full3"
+stockType="Full2"
 
-for stock in stocklist3:
+slist = stockList+stockList2+stockList3
+for stock in stockListTest:
     #time.sleep(60)
     print(stock)
     #########################
@@ -125,9 +127,9 @@ for stock in stocklist3:
             #print("3")
             #print(finalDF.size)
             finalCompleteDF = finalCompleteDF.append(finalDF)
-    except IndexError:
+    except:
         print("Error with "+stock)
-        break
+        pass
 #########################
 #mainCallDF.info()
 print(finalCompleteDF)

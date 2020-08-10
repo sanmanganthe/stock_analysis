@@ -24,9 +24,9 @@ def wavg(group, avg_name, weight_name):
 #TSLA
 #F
 #MSFT
-stock="AAPL"
-months=1
-nResults=25
+stock="CIM"
+months=4
+nResults=20
 
 #########################
 #latestPriceDF = si.get_live_price(stock)
@@ -45,7 +45,7 @@ expDate=d.strftime('%Y-%m-%d')
 print(si.get_live_price(stock))
 
 #mainCallDF = op.get_calls(stock,d)
-mainCallDF = op.get_calls(stock,'2021-01-22')
+mainCallDF = op.get_calls(stock,d)
 mainCallDF['ExpiryDate']=expDate
 mainCallDF['OptionType']='CALL'
 print(mainCallDF)
