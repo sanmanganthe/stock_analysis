@@ -40,7 +40,7 @@ stockList = stockListTech+stockListBank+stockListRetail+stockListEnergy
 stockList2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
 stockList3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
 
-months=4
+months=6
 nResults=20
 requestCount=0
 
@@ -48,7 +48,7 @@ finalCompleteDF = pd.DataFrame()
 stockType="Full2"
 
 slist = stockList+stockList2+stockList3
-for stock in stockListTest:
+for stock in slist:
     #time.sleep(60)
     print(stock)
     #########################
