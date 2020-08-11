@@ -34,21 +34,21 @@ stockListEnt = ['DIS','NFLX']
 stockListSmall = ['SPCE','NIO','BYND']
 stockListChip = ['AMD','NVDA','INTC','QCOM','MU','AMAT']
 stockListEnergy = ['VLO','XOM']
-stockListTest= ['F']
+stockListTest= ['VMW']
 
 stockList = stockListTech+stockListBank+stockListRetail+stockListEnergy
 stockList2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
 stockList3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
 
-months=3
+months=6
 nResults=20
 requestCount=0
 
 finalCompleteDF = pd.DataFrame()
-stockType="Full_F"
+stockType="Full"
 
 slist = stockList+stockList2+stockList3
-for stock in stockListTest:
+for stock in slist:
     #time.sleep(60)
     print(stock)
     #########################
@@ -98,20 +98,17 @@ for stock in stockListTest:
         fullDF = pd.DataFrame()
         fullDF = fullDF.append(mainCallDF).append(mainPutDF)
         
-        print(fullDF.size)
+        #print(fullDF.size)
         if not fullDF.empty:
             fullDF.to_csv(stock+'_'+datetime.date.today().strftime('%Y-%m-%d')+".csv")
             wavgSet=fullDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
-            #print("1")
             #print(putWavgSet)
             finalDF = pd.DataFrame()
             for index, value in wavgSet.items():
                 finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
-            #print("2")
             finalDF['Stock']=stock
             finalDF['StockPrice']=stockPrice
             finalDF['PCR']=mainPutDF.size/mainCallDF.size
-            #print("3")
             #print(finalDF.size)
             finalCompleteDF = finalCompleteDF.append(finalDF)
     except:
