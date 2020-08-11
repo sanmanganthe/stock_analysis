@@ -95,27 +95,13 @@ for stock in stockListTest:
             finally:
                 d += datetime.timedelta(7)
         print("Collected all data for "+stock+" datasize Calls-"+str(mainCallDF.size)+" Puts-"+str(mainPutDF.size))
-        topNCallDF = pd.DataFrame()
-        if not mainCallDF.empty:
-            topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest']]
-            #print(topNCallDF)
-            #########################
-            #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
-            #print(callMeanDF)
-            #########################'=
-        if not mainPutDF.empty:
-            topNPutDF = pd.DataFrame()
-            topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest']]
-            #print(topNPutDF)
-            #########################
-            #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
-            #print(callMeanDF)
-            #########################
-        topNPutDF = topNPutDF.append(topNCallDF)
-        #print(topNPutDF.size)
-        if not topNPutDF.empty:
-            topNPutDF.to_csv(stock+'_'+datetime.date.today().strftime('%Y-%m-%d')+".csv")
-            wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
+        fullDF = pd.DataFrame()
+        fullDF = fullDF.append(mainCallDF).append(mainPutDF)
+        
+        print(fullDF.size)
+        if not fullDF.empty:
+            fullDF.to_csv(stock+'_'+datetime.date.today().strftime('%Y-%m-%d')+".csv")
+            wavgSet=fullDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
             #print("1")
             #print(putWavgSet)
             finalDF = pd.DataFrame()
@@ -124,7 +110,7 @@ for stock in stockListTest:
             #print("2")
             finalDF['Stock']=stock
             finalDF['StockPrice']=stockPrice
-            finalDF['PCR']=topNPutDF.size/topNCallDF.size
+            finalDF['PCR']=mainPutDF.size/mainCallDF.size
             #print("3")
             #print(finalDF.size)
             finalCompleteDF = finalCompleteDF.append(finalDF)
