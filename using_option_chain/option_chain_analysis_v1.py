@@ -49,6 +49,7 @@ mainCallDF = op.get_calls(stock,d)
 mainCallDF['ExpiryDate']=expDate
 mainCallDF['OptionType']='CALL'
 print(mainCallDF)
+mainCallDF.info()
 
 
 #mainPutDF = op.get_puts(stock,d)
