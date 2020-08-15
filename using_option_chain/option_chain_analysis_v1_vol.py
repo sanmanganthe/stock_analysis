@@ -43,12 +43,15 @@ stockList3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
 months=2
 nResults=30
 requestCount=0
+optionField ="Volume"
+
 
 finalCompleteDF = pd.DataFrame()
-stockType="Full"
+stockType="FullVol"
+
 
 slist = stockList+stockList2+stockList3
-for stock in slist:
+for stock in stockListTest:
     #time.sleep(60)
     print(stock)
     #########################
@@ -98,8 +101,8 @@ for stock in slist:
         print("Collected all data for "+stock+" datasize Calls-"+str(mainCallDF.size)+" Puts-"+str(mainPutDF.size))
         if not mainCallDF.empty:
             topNCallDF = pd.DataFrame()
-            topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest','Volume']]
-            topNCallDF.to_csv("data/"+stock+'_'+currentTime.strftime('%Y-%m-%d-%H')+"_calls.csv")
+            topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values([optionField], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest','Volume']]
+            topNCallDF.to_csv("data/"+stock+'_'+currentTime.strftime('%Y-%m-%d-%H')+optionField+"_calls.csv")
             #print(topNCallDF)
             #########################
             #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
@@ -107,8 +110,8 @@ for stock in slist:
             #########################'=
         if not mainPutDF.empty:
             topNPutDF = pd.DataFrame()
-            topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest','Volume']]
-            topNPutDF.to_csv("data/"+stock+'_'+currentTime.strftime('%Y-%m-%d-%H')+"_puts.csv")
+            topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values([optionField], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest','Volume']]
+            topNPutDF.to_csv("data/"+stock+'_'+currentTime.strftime('%Y-%m-%d-%H')+optionField+"_puts.csv")
             #print(topNPutDF)
             #########################
             #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
@@ -117,18 +120,10 @@ for stock in slist:
         topNPutDF = topNPutDF.append(topNCallDF)
         #print(topNPutDF.size)
         if not topNPutDF.empty:
-            #w avg on OI
-            wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
-            
-            #print("1")
-            #print(putWavgSet)
+          
+            wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", optionField);
             finalDF = pd.DataFrame()
             for index, value in wavgSet.items():
-                finalDF = finalDF.append({'ExpiryDate': index, 'OIStrikePrice': value}, ignore_index=True)
-
-            
-            wavgVolumeSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Volume");
-            for index, value in wavgVolumeSet.items():
                 finalDF = finalDF.append({'ExpiryDate': index, 'VolStrikePrice': value}, ignore_index=True)
 
             finalDF['Stock']=stock

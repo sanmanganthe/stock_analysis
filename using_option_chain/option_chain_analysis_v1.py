@@ -76,7 +76,8 @@ for i in range(months*4):
     except ValueError:
         pass
         #print("No option data for "+str(d))
-        
+
+   
 topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
 print(topNCallDF)
 #########################

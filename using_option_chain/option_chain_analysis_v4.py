@@ -31,17 +31,17 @@ stockListIndex = ['XLK','TQQQ','XLF','DIV','VOO','NDAQ','DOW']
 stockListTelecom = ['T','TMUS','ERIC','VZ']
 stockListRE = ['CIM','O']
 stockListEnt = ['DIS','NFLX']
-stockListSmall = ['SPCE','NIO','BYND']
+stockListSmall = ['SPCE','NIO','BYND','CTSH']
 stockListChip = ['AMD','NVDA','INTC','QCOM','MU','AMAT']
 stockListEnergy = ['VLO','XOM']
-stockListTest= ['VMW']
+stockListTest= ['BA']
 
 stockList = stockListTech+stockListBank+stockListRetail+stockListEnergy
 stockList2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
 stockList3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
 
-months=6
-nResults=20
+months=2
+nResults=30
 requestCount=0
 
 finalCompleteDF = pd.DataFrame()
@@ -58,6 +58,7 @@ for stock in slist:
     #print(financialsDF)
     #########################
     d = datetime.date.today()
+    currentTime=datetime.datetime.now()
     #monday==0
     while d.weekday() != 4:
         d += datetime.timedelta(1)
@@ -95,20 +96,46 @@ for stock in slist:
             finally:
                 d += datetime.timedelta(7)
         print("Collected all data for "+stock+" datasize Calls-"+str(mainCallDF.size)+" Puts-"+str(mainPutDF.size))
-        fullDF = pd.DataFrame()
-        fullDF = fullDF.append(mainCallDF).append(mainPutDF)
-        
-        #print(fullDF.size)
-        if not fullDF.empty:
-            fullDF.to_csv(stock+'_'+datetime.date.today().strftime('%Y-%m-%d')+".csv")
-            wavgSet=fullDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
+        if not mainCallDF.empty:
+            topNCallDF = pd.DataFrame()
+            topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest','Volume']]
+            topNCallDF.to_csv("data/"+stock+'_'+currentTime.strftime('%Y-%m-%d-%H')+"_calls.csv")
+            #print(topNCallDF)
+            #########################
+            #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
+            #print(callMeanDF)
+            #########################'=
+        if not mainPutDF.empty:
+            topNPutDF = pd.DataFrame()
+            topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','Count','ExpiryDate','Strike','Open Interest','Volume']]
+            topNPutDF.to_csv("data/"+stock+'_'+currentTime.strftime('%Y-%m-%d-%H')+"_puts.csv")
+            #print(topNPutDF)
+            #########################
+            #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
+            #print(callMeanDF)
+            #########################
+        topNPutDF = topNPutDF.append(topNCallDF)
+        #print(topNPutDF.size)
+        if not topNPutDF.empty:
+            #w avg on OI
+            wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
+            
+            #print("1")
             #print(putWavgSet)
             finalDF = pd.DataFrame()
             for index, value in wavgSet.items():
-                finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
+                finalDF = finalDF.append({'ExpiryDate': index, 'OIStrikePrice': value}, ignore_index=True)
+
+            
+            wavgVolumeSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Volume");
+            for index, value in wavgVolumeSet.items():
+                finalDF = finalDF.append({'ExpiryDate': index, 'VolStrikePrice': value}, ignore_index=True)
+
             finalDF['Stock']=stock
             finalDF['StockPrice']=stockPrice
-            finalDF['PCR']=mainPutDF.size/mainCallDF.size
+            finalDF['PCR']=topNPutDF.size/topNCallDF.size
+            finalDF['Date']=currentTime.strftime('%Y-%m-%d-%H')
+            #print("3")
             #print(finalDF.size)
             finalCompleteDF = finalCompleteDF.append(finalDF)
     except:
@@ -117,5 +144,5 @@ for stock in slist:
 #########################
 #mainCallDF.info()
 print(finalCompleteDF)
-finalCompleteDF.to_csv(stockType+'_'+datetime.date.today().strftime('%Y-%m-%d')+".csv")
+finalCompleteDF.to_csv(stockType+'_'+currentTime.strftime('%Y-%m-%d-%H')+".csv")
 #########################
