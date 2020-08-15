@@ -42,44 +42,42 @@ while d.weekday() != 4:
     d += datetime.timedelta(1)
 
 expDate=d.strftime('%Y-%m-%d')
+print(expDate)
 print(si.get_live_price(stock))
-
-#mainCallDF = op.get_calls(stock,d)
-mainCallDF = op.get_calls(stock,d)
-mainCallDF['ExpiryDate']=expDate
-mainCallDF['OptionType']='CALL'
-print(mainCallDF)
-mainCallDF.info()
-
-
-#mainPutDF = op.get_puts(stock,d)
-mainPutDF = op.get_puts(stock,d)
-mainPutDF['ExpiryDate']=d
-mainPutDF['OptionType']='PUT'
 
 
 for i in range(months*4):
-    d += datetime.timedelta(7)
     expDate=d.strftime('%Y-%m-%d')
     print(expDate)
     try:
+        mainCallDF=pd.DataFrame()
+        mainPutDF=pd.DataFrame()
         callDF = op.get_calls(stock,d)
-        print(callDF.count())
+        #print(callDF.count())
         callDF['ExpiryDate']=expDate
         callDF['OptionType']='CALL'
         mainCallDF=mainCallDF.append(callDF)
         putDF = op.get_puts(stock,d)
-        print(putDF.count())
+        #print(putDF.count())
         putDF['ExpiryDate']=expDate
         putDF['OptionType']='PUT'
-        mainPutDF=mainPutDF.append(putDF)
+        mainPutDF=mainPutDF.append(putDF)   
+        break
     except ValueError:
         pass
         #print("No option data for "+str(d))
+    finally:
+        d += datetime.timedelta(7)
 
-   
-topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
+
+print(mainCallDF)
+mainCallDF.to_csv('mainCallDF.csv')
+mainCallDF2 = mainCallDF[mainCallDF["Volume"]!='-']
+mainCallDF2.to_csv('mainCallDF2.csv')
+topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Volume"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest','Volume']]
 print(topNCallDF)
+topNCallDF.to_csv('topNCallDF.csv')
+#print(topNCallDF)
 #########################
 #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
 #print(callMeanDF)
@@ -93,14 +91,19 @@ for index, value in callWavgSet.items():
     cDF = cDF.append({'ExpiryDate': index, 'CallStrikePrice': value}, ignore_index=True)
 #print(cDF)
 
-topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Open Interest"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest']]
+print(mainPutDF)
+mainPutDF.to_csv('mainPutDF.csv')
+mainPutDF2 = mainPutDF[mainPutDF["Volume"]!='-']
+mainPutDF2.to_csv('mainPutDF2.csv')
+topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Volume"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest','Volume']]
 print(topNPutDF)
+topNPutDF.to_csv('topNPutDF.csv')
 #########################
 #callMeanDF = topNCallDF.groupby(["ExpiryDate"])['Strike'].mean();
 #print(callMeanDF)
 #########################
 
-putWavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Open Interest");
+putWavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", "Volume");
 #print(putWavgSet)
 
 pDF = pd.DataFrame()
@@ -112,7 +115,7 @@ for index, value in putWavgSet.items():
 
 putStrikePriceColumn = pDF["PutStrikePrice"]
 finalOptionChain = pd.concat([cDF,putStrikePriceColumn], axis = 1)
-print(finalOptionChain)
+#print(finalOptionChain)
 
 
 #########################
