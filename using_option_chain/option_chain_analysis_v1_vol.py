@@ -51,7 +51,7 @@ stockType="FullVol"
 
 
 slist = stockList+stockList2+stockList3
-for stock in stockListTest:
+for stock in slist:
     #time.sleep(60)
     print(stock)
     #########################
@@ -132,11 +132,12 @@ for stock in stockListTest:
             wavgSet=topNPutDF.groupby("ExpiryDate").apply(wavg, "Strike", optionField);
             finalDF = pd.DataFrame()
             for index, value in wavgSet.items():
-                finalDF = finalDF.append({'ExpiryDate': index, 'VolStrikePrice': value}, ignore_index=True)
+                finalDF = finalDF.append({'ExpiryDate': index, 'StrikePrice': value}, ignore_index=True)
 
             finalDF['Stock']=stock
             finalDF['StockPrice']=stockPrice
             finalDF['PCR']=topNPutDF.size/topNCallDF.size
+            finalDF['Field']=optionField
             finalDF['Date']=currentTime.strftime('%Y-%m-%d-%H')
             #print("3")
             #print(finalDF.size)

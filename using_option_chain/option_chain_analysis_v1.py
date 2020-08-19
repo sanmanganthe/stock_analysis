@@ -71,7 +71,7 @@ for i in range(months*4):
 
 
 print(mainCallDF)
-mainCallDF.to_csv('mainCallDF.csv')
+#mainCallDF.to_csv('mainCallDF.csv')
 mainCallDF2 = mainCallDF[mainCallDF["Volume"]!='-']
 mainCallDF2.to_csv('mainCallDF2.csv')
 topNCallDF = mainCallDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Volume"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest','Volume']]
@@ -94,7 +94,7 @@ for index, value in callWavgSet.items():
 print(mainPutDF)
 mainPutDF.to_csv('mainPutDF.csv')
 mainPutDF2 = mainPutDF[mainPutDF["Volume"]!='-']
-mainPutDF2.to_csv('mainPutDF2.csv')
+#mainPutDF2.to_csv('mainPutDF2.csv')
 topNPutDF = mainPutDF.groupby(["ExpiryDate"]).apply(lambda x: x.sort_values(["Volume"], ascending = False)).reset_index(drop=True).groupby(["ExpiryDate"]).head(nResults)[['OptionType','ExpiryDate','Strike','Open Interest','Volume']]
 print(topNPutDF)
 topNPutDF.to_csv('topNPutDF.csv')
