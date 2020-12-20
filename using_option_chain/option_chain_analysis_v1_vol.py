@@ -27,7 +27,7 @@ stockListBank = ['BAC','JPM','V']
 stockListRetail = ['AMZN','WMT','COST']
 stockListTravel = ['DAL','SAVE']
 stockListAuto = ['F','BA','GM','ABT','ABBV','JNJ','TSLA']
-stockListIndex = ['XLK','TQQQ','XLF','DIV','VOO','NDAQ','DOW']
+stockListIndex = ['XLK','TQQQ','UPRO','XLF','DIV','VOO','NDAQ','DOW']
 stockListTelecom = ['T','TMUS','ERIC','VZ']
 stockListRE = ['CIM','O']
 stockListEnt = ['DIS','NFLX']
@@ -36,11 +36,14 @@ stockListChip = ['AMD','NVDA','INTC','QCOM','MU','AMAT']
 stockListEnergy = ['VLO','XOM']
 stockListTest= ['BA']
 
+#tradelist = ['UPRO','TSLA','BAC','F']
+
 stockList = stockListTech+stockListBank+stockListRetail+stockListEnergy
 stockList2 = stockListIndex+stockListTelecom+stockListRE+stockListEnt
 stockList3 = stockListTravel+stockListAuto+stockListSmall+stockListChip
 
-months=2
+
+months=1
 nResults=30
 requestCount=0
 optionField ="Volume"
@@ -51,6 +54,7 @@ stockType="FullVol"
 
 
 slist = stockList+stockList2+stockList3
+slist = ['AAPL','MSFT','BAC','WMT','F','UPRO','IWM','SPY','AMD']
 for stock in slist:
     #time.sleep(60)
     print(stock)

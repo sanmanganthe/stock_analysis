@@ -1,0 +1,135 @@
+Type,Stock,Distribution
+U.S. Mid-Cap Growth Equity,Shopify Inc A,7.05
+U.S. Mid-Cap Growth Equity,10x Genomics Inc Ordinary Shares - Class A,5.28
+U.S. Mid-Cap Growth Equity,Zoom Video Communications Inc,5.06
+U.S. Mid-Cap Growth Equity,Spotify Technology SA,5.01
+U.S. Mid-Cap Growth Equity,Coupa Software Inc,4.94
+U.S. Mid-Cap Growth Equity,Twilio Inc A,4.94
+U.S. Mid-Cap Growth Equity,Fastly Inc,4.92
+U.S. Mid-Cap Growth Equity,Veeva Systems Inc Class A,4.80
+U.S. Mid-Cap Growth Equity,MongoDB Inc Class A,4.65
+U.S. Mid-Cap Growth Equity,Okta Inc A,4.63
+U.S. Large-Cap Growth Equity,Zoom Video Communications Inc,6.37
+U.S. Large-Cap Growth Equity,Tesla Inc,6.34
+U.S. Large-Cap Growth Equity,Amazon.com Inc,6.09
+U.S. Large-Cap Growth Equity,Zillow Group Inc C,5.93
+U.S. Large-Cap Growth Equity,Shopify Inc A,5.54
+U.S. Large-Cap Growth Equity,Square Inc A,5.16
+U.S. Large-Cap Growth Equity,NVIDIA Corp,5.10
+U.S. Large-Cap Growth Equity,The Trade Desk Inc A,5.07
+U.S. Large-Cap Growth Equity,Peloton Interactive Inc,4.60
+U.S. Large-Cap Growth Equity,Netflix Inc,4.55
+U.S. Large-Cap Growth Equity,Zoom Video Communications Inc,7.25
+U.S. Large-Cap Growth Equity,Morgan Stanley InstlLqdty TrsSecs Instl,6.88
+U.S. Large-Cap Growth Equity,Square Inc A,6.02
+U.S. Large-Cap Growth Equity,Shopify Inc A,5.60
+U.S. Large-Cap Growth Equity,Coupa Software Inc,5.54
+U.S. Large-Cap Growth Equity,Intuitive Surgical Inc,4.89
+U.S. Large-Cap Growth Equity,Veeva Systems Inc Class A,4.88
+U.S. Large-Cap Growth Equity,Amazon.com Inc,4.33
+U.S. Large-Cap Growth Equity,MongoDB Inc Class A,4.16
+U.S. Large-Cap Growth Equity,Spotify Technology SA,4.15
+U.S. Large-Cap Growth Equity,Zoom Video Communications Inc,7.25
+U.S. Large-Cap Growth Equity,Square Inc A,6.72
+U.S. Large-Cap Growth Equity,Shopify Inc A,6.29
+U.S. Large-Cap Growth Equity,Amazon.com Inc,5.48
+U.S. Large-Cap Growth Equity,Veeva Systems Inc Class A,4.94
+U.S. Large-Cap Growth Equity,Intuitive Surgical Inc,4.91
+U.S. Large-Cap Growth Equity,Twilio Inc A,4.52
+U.S. Large-Cap Growth Equity,Okta Inc A,4.46
+U.S. Large-Cap Growth Equity,Spotify Technology SA,4.37
+U.S. Large-Cap Growth Equity,Carvana Co Class A,4.19
+U.S. Large-Cap Growth Equity,Zoom Video Communications Inc,7.26
+U.S. Large-Cap Growth Equity,Square Inc A,6.63
+U.S. Large-Cap Growth Equity,Shopify Inc A,6.19
+U.S. Large-Cap Growth Equity,Amazon.com Inc,5.42
+U.S. Large-Cap Growth Equity,Veeva Systems Inc Class A,4.92
+U.S. Large-Cap Growth Equity,Intuitive Surgical Inc,4.91
+U.S. Large-Cap Growth Equity,Twilio Inc A,4.51
+U.S. Large-Cap Growth Equity,Okta Inc A,4.45
+U.S. Large-Cap Growth Equity,Spotify Technology SA,4.31
+U.S. Large-Cap Growth Equity,Carvana Co Class A,4.14
+U.S. Mid-Cap Growth Equity,Tesla Inc,45.20
+U.S. Mid-Cap Growth Equity,CoStar Group Inc,13.28
+U.S. Mid-Cap Growth Equity,IDEXX Laboratories Inc,6.60
+U.S. Mid-Cap Growth Equity,Zillow Group Inc A,5.83
+U.S. Mid-Cap Growth Equity,FactSet Research Systems Inc,4.89
+U.S. Mid-Cap Growth Equity,Space Exploration Technologies Corp.,4.82
+U.S. Large-Cap Growth Equity,Zoom Video Communications Inc,7.13
+U.S. Large-Cap Growth Equity,Square Inc A,6.29
+U.S. Large-Cap Growth Equity,Shopify Inc A,5.63
+U.S. Large-Cap Growth Equity,Amazon.com Inc,5.18
+U.S. Large-Cap Growth Equity,Intuitive Surgical Inc,4.89
+U.S. Large-Cap Blend Equity,Apple Inc,5.16
+U.S. Large-Cap Blend Equity,Microsoft Corp,4.72
+U.S. Large-Cap Blend Equity,Amazon.com Inc,3.98
+U.S. Large-Cap Blend Equity,Facebook Inc A,1.95
+U.S. Large-Cap Blend Equity,Alphabet Inc A,1.50
+U.S. Large-Cap Blend Equity,Alphabet Inc Class C,1.41
+U.S. Large-Cap Blend Equity,Berkshire Hathaway Inc Class B,1.16
+U.S. Large-Cap Blend Equity,Johnson & Johnson,1.11
+U.S. Large-Cap Blend Equity,Tesla Inc,1.07
+U.S. Large-Cap Blend Equity,Procter & Gamble Co,1.05
+Technology Sector Equity,Tesla Inc,11.03
+Technology Sector Equity,Roku Inc Class A,6.42
+Technology Sector Equity,Square Inc A,6.25
+Technology Sector Equity,Zillow Group Inc C,3.39
+Technology Sector Equity,Facebook Inc A,3.34
+Technology Sector Equity,Pinterest Inc,2.99
+Technology Sector Equity,Snap Inc Class A,2.90
+Technology Sector Equity,Spotify Technology SA,2.82
+Technology Sector Equity,Sea Ltd ADR,2.81
+Technology Sector Equity,Slack Technologies Inc Class A,2.72
+Technology Sector Equity,Apple Inc,21.61
+Technology Sector Equity,Microsoft Corp,16.70
+Technology Sector Equity,NVIDIA Corp,3.53
+Technology Sector Equity,Visa Inc Class A,3.28
+Technology Sector Equity,Mastercard Inc A,2.95
+Technology Sector Equity,Adobe Inc,2.47
+Technology Sector Equity,Salesforce.com Inc,2.39
+Technology Sector Equity,PayPal Holdings Inc,2.38
+Technology Sector Equity,Intel Corp,2.15
+Technology Sector Equity,Cisco Systems Inc,1.74
+Technology Sector Equity,Apple Inc,21.61
+Technology Sector Equity,Microsoft Corp,16.70
+Technology Sector Equity,NVIDIA Corp,3.53
+Technology Sector Equity,Visa Inc Class A,3.28
+Technology Sector Equity,Mastercard Inc A,2.95
+Technology Sector Equity,Adobe Inc,2.47
+Technology Sector Equity,Salesforce.com Inc,2.39
+Technology Sector Equity,PayPal Holdings Inc,2.38
+Technology Sector Equity,Intel Corp,2.15
+Technology Sector Equity,Cisco Systems Inc,1.74
+Technology Sector Equity,Apple Inc,23.49
+Technology Sector Equity,Microsoft Corp,20.57
+Technology Sector Equity,NVIDIA Corp,4.15
+Technology Sector Equity,Visa Inc Class A,4.11
+Technology Sector Equity,Mastercard Inc A,3.42
+Technology Sector Equity,PayPal Holdings Inc,2.93
+Technology Sector Equity,Adobe Inc,2.88
+Technology Sector Equity,Salesforce.com Inc,2.84
+Technology Sector Equity,Intel Corp,2.53
+Technology Sector Equity,Cisco Systems Inc,2.04
+Technology Sector Equity,Square Inc A,12.26
+Technology Sector Equity,MercadoLibre Inc,4.54
+Technology Sector Equity,Zillow Group Inc C,4.27
+Technology Sector Equity,Pinterest Inc,4.24
+Technology Sector Equity,Tencent Holdings Ltd ADR,4.02
+Technology Sector Equity,Sea Ltd ADR,4.00
+Technology Sector Equity,LendingTree Inc,3.88
+Technology Sector Equity,Intercontinental Exchange Inc,3.74
+Technology Sector Equity,Adyen NV,3.73
+Technology Sector Equity,Adyen NV,3.73
+Technology Sector Equity,Digital Turbine Inc,10.66
+Technology Sector Equity,Square Inc A,7.92
+Technology Sector Equity,Twilio Inc A,7.15
+Technology Sector Equity,Zillow Group Inc C,6.36
+Technology Sector Equity,OptimizeRx Corp,6.08
+Technology Sector Equity,MongoDB Inc Class A,4.98
+Technology Sector Equity,Twitter Inc,4.74
+Technology Sector Equity,First American Government Obligs X,4.14
+Technology Sector Equity,Alphabet Inc Class C,3.79
+Technology Sector Equity,JOYY Inc ADR,3.57
+Technology Sector Equity,Microsoft Corp,17.83
+Technology Sector Equity,Apple Inc,9.38
+Technology Sector Equity,Alibaba Group Holding Ltd ADR,4.75

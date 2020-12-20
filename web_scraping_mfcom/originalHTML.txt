@@ -1,0 +1,3779 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+  window.websiteProperty = "mutualfunds"; window.MPageTargets = JSON.parse('{"PriThm":"us-mid-cap-growth-equity-funds-and-etfs","ShrClass":"Individual"}');
+  window.tagList = JSON.parse("[&quot;MMGPX&quot;,&quot;U.S. Mid-Cap Growth Equity Funds and ETFs&quot;,&quot;funds&quot;]".replace(/&quot;/g, '\"'));
+  window.serverEnv = "production"
+</script>
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://mutualfunds.com/feed/" />
+<link rel="stylesheet" media="screen" href="/packs/css/mutualfunds/ticker-application-096bc9d7.chunk.css" />
+<script src="/packs/js/runtime~mutualfunds/ticker-application-5ffc5646f6f79aaac793.js"></script>
+<script src="/packs/js/vendor-6890dd33eeafd0d59407.chunk.js"></script>
+<script src="/packs/js/mutualfunds/ticker-application-62f60e13da228a1a36f0.chunk.js"></script>
+<script src="/packs/js/runtime~page-6499602d01fce3212a8c.js" async="async" defer="defer"></script>
+<script src="/packs/js/3-7181160e075e4e71fbc4.chunk.js" async="async" defer="defer"></script>
+<script src="/packs/js/vendor-6890dd33eeafd0d59407.chunk.js" async="async" defer="defer"></script>
+<script src="/packs/js/page-6d6503c01367f9af5ba0.chunk.js" async="async" defer="defer"></script>
+<!-- Piwik -->
+<script type="text/javascript" defer="defer">
+  var _paq = _paq || [];
+  _paq.push(["setCookieDomain", "*.mutualfunds.com"]);
+  _paq.push(["setDomains", ["*.mutualfunds.com"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//beacon.mitremedia.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 5]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+
+  // HotJar userId takes about five seconds to be available
+  function hotjar_piwik() {
+    if (!hotjar_userid_ready())
+      return
+    clearInterval(hotjar_piwik_check);
+    window._paq.push(["setCustomVariable", 2, "hotjar_id", window.hj.pageVisit.property.get("userId"), "visit"]);
+    window._paq.push(['trackEvent', 'Hotjar', 'loaded']);
+  }
+  function hotjar_userid_ready() {
+    return typeof hj !== 'undefined' &&
+      typeof hj.pageVisit !== 'undefined' &&
+      typeof hj.pageVisit.property !== 'undefined' &&
+      typeof hj.pageVisit.property.get("userId") == 'string'
+  }
+  var hotjar_piwik_check = setInterval(hotjar_piwik, 1000);
+
+</script>
+<noscript><p><img src="//beacon.mitremedia.org/piwik.php?idsite=5" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+<!-- Fullstory Tracking Code -->
+<script type="text/javascript" defer="defer">
+  window['_fs_debug'] = false;
+  window['_fs_host'] = 'fullstory.com';
+  window['_fs_org'] = 'KNRGQ';
+  window['_fs_namespace'] = 'FS';
+  (function(m,n,e,t,l,o,g,y){
+      if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+      g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
+      o=n.createElement(t);o.async=1;o.crossOrigin='anonymous';o.src='https://'+_fs_host+'/s/fs.js';
+      y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+      g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
+      g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+      g.consent=function(a){g("consent",!arguments.length||a)};
+      g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+      g.clearUserCookie=function(){};
+  })(window,document,window['_fs_namespace'],'script','user');
+</script>
+<!-- End of Fullstory Tracking Code -->
+
+<title>MMGPX: Morgan Stanley Variable Insurance Fund, Inc. Discovery Portfolio  - MutualFunds.com</title>
+<meta name="description" content="MMGPX Mutual Fund Guide | Performance, Holdings, Expenses & Fees, Distributions and More">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0' name='viewport'>
+<meta property="og:description">
+<meta property="og:site_name" content="MutualFunds.com">
+<meta property="og:image" content="https://mutualfunds.com/packs/media/images/mutualfunds/mutualfunds-logo-499d3ed183dbba313dd3b85de99b23f9.svg">
+<meta property="og:title" content="MutualFunds.com">
+<meta property="og:type" content="website">
+<meta property="og:url" content="MutualFunds.com">
+<meta name="twitter:description">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:domain" content="MutualFunds.com">
+<meta name="twitter:image:src" content="https://mutualfunds.com/packs/media/images/mutualfunds/mutualfunds-logo-499d3ed183dbba313dd3b85de99b23f9.svg">
+<meta name="twitter:site" content="MutualFunds.com">
+<meta name="twitter:title" content="MutualFunds.com">
+<link rel="shortcut icon" type="image/x-icon" href="/packs/media/images/mutualfunds/favicon-bdd6a8ccbeeab95be1cbd02c62f4c80c.ico" />
+<link rel="apple-touch-icon" type="image/png" href="/packs/media/images/mutualfunds/apple-touch-icon-e102290f8e29bd9fdef9d3cf6e6e4182.png" />
+<link rel="apple-touch-icon-precomposed" type="image/png" href="/packs/media/images/mutualfunds/apple-touch-icon-precomposed-e102290f8e29bd9fdef9d3cf6e6e4182.png" />
+<link rel="apple-touch-icon" type="image/png" href="/packs/media/images/mutualfunds/apple-touch-icon-76x76-d739d16d6b99c9284d14119c3be19f6b.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/png" href="/packs/media/images/mutualfunds/apple-touch-icon-120x120-e102290f8e29bd9fdef9d3cf6e6e4182.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/png" href="/packs/media/images/mutualfunds/apple-touch-icon-152x152-5cbc23ac6dda5a202de916226042f291.png" sizes="152x152" />
+<script>window.fbAsyncInit = function() {FB.init({appId: '1281443215216255',xfbml: false,version: 'v2.12'});};(function(d, s, id){var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) {return;}js = d.createElement(s); js.id = id;js.src = '//connect.facebook.net/en_US/sdk.js';fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9Z/mPclVWKmjDF6/f8qw53tnFieBCRFRm5NFO+55wj2kTVtiTxKgp0P7oEDTL+AAK4xITNuQwadRxrwvc1KcbA==" />
+
+<meta property="ROBOTS" content="NOINDEX,NOFOLLOW">
+<script>(function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:'995781', hjsv:5};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');</script>
+<div class='async-js' data-js-files='[]'></div>
+
+</head>
+<body class='t-font-gothic n-body' data-controller='setup'>
+<div class='t-fixed t-w-screen t-h-screen t-left-0 t-top-0 t-bg-shadow-overlay t-z-30 background-drop-overlay t-hidden t-z-50'></div>
+<div class='t-left-0 t-w-88 t-top-0 t-left-auto t-h-screen t-z-50 t-bg-white t-will-change-transform t-transition-transform t-translate-x-n330 t-p-0 t-flex t-flex-col t-fixed n-offpage-nav'></div>
+<div class='async-js' data-js-files='["/mutualfunds/components/offpage_nav"]'></div>
+
+<header class='n-header__mobile t-sticky t-shadow t-w-full t-bg-white t-z-40 sticky-element'>
+<div class='t-flex t-items-center t-p-3'>
+<div class='t-flex-none'>
+<button class='t-py-1 t-px-2' id='offpage-nav-reference'>
+<svg height='13px' version='1.1' viewbox='0 0 18 13' width='18px' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'>
+<g fill-rule='evenodd' fill='none' id='Nav' stroke-width='1' stroke='none'>
+<g fill='#000000' id='When-the-screen-is-scrolled' transform='translate(-29.000000, -63.000000)'>
+<g id='Group-6' transform='translate(29.000000, 63.000000)'>
+<rect height='1' id='Rectangle' rx='0.5' width='18' x='0' y='0'></rect>
+<rect height='1' id='Rectangle-Copy-4' rx='0.5' width='18' x='0' y='6'></rect>
+<rect height='1' id='Rectangle-Copy-5' rx='0.5' width='18' x='0' y='12'></rect>
+</g>
+</g>
+</g>
+</svg>
+</button>
+</div>
+<div class='t-flex-1'>
+<figure class='t-m-0 t-flex t-justify-center'>
+<a href='/'>
+<img class="t-h-6" src="/packs/media/images/mutualfunds/mutualfunds-logo-499d3ed183dbba313dd3b85de99b23f9.svg" />
+</a>
+</figure>
+</div>
+<div class='t-flex-none'>
+<button class='t-py-1 t-px-2 t-rounded n-search_bar_collapse_reference' data-collapse-target='mobile-search-collapse' type='button'>
+<svg height='17px' version='1.1' viewbox='0 0 17 17' width='17px' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'>
+<g fill-rule='evenodd' fill='none' id='Nav' stroke-width='1' stroke='none'>
+<g id='Nav---Channel-dropdown' stroke='#000000' transform='translate(-1083.000000, -62.000000)'>
+<g id='Group' transform='translate(1092.000000, 71.500000) rotate(-45.000000) translate(-1092.000000, -71.500000) translate(1085.000000, 61.000000)'>
+<circle cx='7.37867966' cy='6.79289322' id='Oval' r='6'></circle>
+<path d='M7.73223305,12.7388348 L7.73223305,19.9388348' id='Line-2' stroke-linecap='round'></path>
+</g>
+</g>
+</g>
+</svg>
+</button>
+</div>
+</div>
+<div class='t-flex t-flex-wrap t-w-full t-absolute t-justify-center t-bg-gray-700 t-z-20 n-search_bar_collapse_target' id='mobile-search-collapse'>
+<div class='t-flex t-m-2 t-flex-1'>
+<form class="t-flex t-w-full t-flex" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="text" name="q" id="mobile-search-typeahead" value="" class="typeahead t-appearance-none t-flex-1 t-py-2 t-px-3 t-text-gray-700 t-leading-tight t-text-tiny t-max-w-md t-mx-auto" autocomplete="off" spellcheck="false" placeholder="Search" data-handlebar="{{symbol}} – {{name}}" data-searchremote="/search.json?q=%QUERY" data-redirect="/search?q={{symbol}}" data-displaykey="symbol" />
+</form>
+
+<div class='async-js' data-js-files='["/mutualfunds/components/header_search"]'></div>
+
+</div>
+</div>
+</header>
+
+<div class='t-hidden header-survey' id='investor-survey'>
+<div class='t-block t-bg-blue-975'>
+<button class='btn__close float-right page--text bg-transparent text-white border-0 text-uppercase t-text-2xl t-my-1 t-mx-3 t-font-hairline'>
+<span>&times;</span>
+</button>
+
+<div class='py-4 mx-auto header-survey--container' data-survey-steps='[1]'>
+<p class='t-text-white t-text-center n-text__label'>
+Welcome to MutualFunds.com
+</p>
+<p class='t-text-white t-text-center n-text__title t-my-4'>
+Please help us personalize your experience and select the one that best describes you.
+</p>
+<div class='row header-survey--btn_group mx-3'>
+<div class='col-12 col-md text-center py-2 py-md-0'>
+<button class='header-survey--btn t-rounded t-py-1 t-text-white t-bg-blue-700 hover:t-bg-blue-800' data-answer='investor' data-name='Individual Investor'>
+Individual Investor
+<div class='fa fa-check rounded-circle bg-success p-1 d-none'></div>
+</button>
+</div>
+<div class='col-12 col-md text-center py-2 py-md-0'>
+<button class='header-survey--btn t-rounded t-py-1 t-text-white t-bg-blue-700 hover:t-bg-blue-800' data-answer='institutional' data-name='Institutional Investor'>
+Institutional Investor
+<div class='fa fa-check rounded-circle bg-success p-1 d-none'></div>
+</button>
+</div>
+<div class='col-12 col-md text-center py-2 py-md-0'>
+<button class='header-survey--btn t-rounded t-py-1 t-text-white t-bg-blue-700 hover:t-bg-blue-800' data-answer='advisor' data-name='Financial Advisor'>
+Financial Advisor
+<div class='fa fa-check rounded-circle bg-success p-1 d-none'></div>
+</button>
+</div>
+</div>
+</div>
+
+<div class='t-hidden py-4 mx-auto header-survey--container' data-survey-steps='[2]'>
+<p class='t-text-white t-text-center n-text__label'>
+Your personalized experience is almost ready.
+</p>
+<div class='t-text-center t-my-4 n-text__title t-text-white'>
+<span class='t-hidden' data-survey-personalize='investor'>
+Join other Individual Investors receiving FREE personalized market updates and research.
+</span>
+<span class='t-hidden' data-survey-personalize='institutional'>
+Join other Institutional Investors receiving FREE personalized market updates and research.
+</span>
+<span class='t-hidden' data-survey-personalize='advisor'>
+Join other Financial Advisors receiving FREE personalized market updates and research.
+</span>
+</div>
+<form action='https://mutualfunds.us8.list-manage.com/subscribe/post?u=301358abf2e195d3f69a7379f&amp;id=83e106a88d' class='lg:t-w-2/3 mx-auto py-2 py-md-0 t-w-4/5' method='post'>
+<div class='t-flex'>
+<div class='input-group flex-fill t-self-center'>
+<input class='page--input required mr-2 email form-control rounded' id='survey-email-input' name='EMAIL' placeholder='Email Address' type='email'>
+<input name='SIGNUP_LOC' type='hidden' value='investor-type'>
+<input name='INVSTRTYPE' type='hidden'>
+</div>
+<div class='input-group-append align-items-center header-survey--email-submit-block'>
+<button class='btn header-survey--btn header-survey--btn__secondary rounded py-1 px-3 hover:t-bg-blue-800' name='subscribe' type='submit'>
+Submit
+</button>
+</div>
+</div>
+<div class='t-text-center t-mt-2'>
+<a class='text-white n-text__display_xs' href='#' id='header-survey-dismiss'>Not interested</a>
+</div>
+</form>
+</div>
+
+<div class='t-hidden py-5 mx-auto header-survey--container' data-survey-steps='[3]'>
+<div data-survey-personalize='answered'>
+<p class='t-text-white t-text-center n-text__label'>Thank you!</p>
+<p class='t-text-white t-text-center t-my-4 n-text__title'>Check your email and confirm your subscription to complete your personalized experience.</p>
+</div>
+<div class='t-hidden' data-survey-personalize='dismissed'>
+<p class='t-text-white t-text-center n-text__label'>Thank you for your submission</p>
+<p class='t-text-white t-text-center t-my-4 n-text__title'>We hope you enjoy your experience</p>
+</div>
+</div>
+
+</div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+<div id='alert-container'>
+<div id='alert-dom'></div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-1" id="4a3526daf03388d4ac57237ba3491576-c"><div id="4a3526daf03388d4ac57237ba3491576" data-controller="ad-unit" data-ad-unit-id="4a3526daf03388d4ac57237ba3491576" data-ad-unit-name="MF/T-fund/equity/FP-01-A" data-ad-unit-ad-unit="FP-01-A" data-ad-unit-type="fpa" data-ad-unit-only-if="headerDropdownIsServed" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-01-A"></div></div>
+<div class="mitread--adunit__fpax t-flex t-justify-center t-items-center mitread--adunit__fp_02_ax" id="0b3939d6a40f5a2c5c9b5ceb217d077a-c"><div id="0b3939d6a40f5a2c5c9b5ceb217d077a" data-controller="ad-unit" data-ad-unit-id="0b3939d6a40f5a2c5c9b5ceb217d077a" data-ad-unit-name="MF/T-fund/equity/FP-02-AX" data-ad-unit-ad-unit="FP-02-AX" data-ad-unit-type="fpax" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-02-AX"></div></div>
+<div class='xl:t-flex t-justify-between t-items-center t-p-4 t-max-w-1200 t-mx-auto n-nav__mf t-hidden'>
+<figure class='t-m-0 t-flex-none'>
+<a href='/'>
+<img class="t-h-8" src="/packs/media/images/mutualfunds/mutualfunds-logo-499d3ed183dbba313dd3b85de99b23f9.svg" />
+</a>
+</figure>
+<div class='t-container t-flex t-mx-auto t-items-center t-flex-wrap t-self-end'>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/income-categories/'>
+Income
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/income-categories/">Income ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/income-equity-funds-and-etfs/">Income Equity</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/high-yield-bond-funds-and-etfs/">High Yield Bond</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/real-estate-funds-and-etfs/">Real Estate</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/preferred-stock-funds-and-etfs/">Preferred Stock</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/convertible-bond-funds-and-etfs/">Convertible Bond</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/conservativebalanced-allocation-funds-and-etfs/">Conservative/Balanced Allocation</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/conservative-allocation-funds-and-etfs/">Conservative Allocation</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/growth-categories/'>
+Growth
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/growth-categories/">Growth ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/growth-categories/small-cap-growth-equity-funds-and-etfs/">Small-Cap Growth</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/growth-categories/mid-cap-growth-equity-funds-and-etfs/">Mid-Cap Growth</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/growth-categories/large-cap-growth-equity-funds-and-etfs/">Large-Cap Growth</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/us-growth-equity-funds-and-etfs/">U.S. Growth</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/growth-categories/international-growth-equity-funds-and-etfs/">International Growth</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/growth-allocation-funds-and-etfs/">Growth Allocation</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="">Growth/Balanced Allocation</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/bond-categories/'>
+Bond
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/bond-categories/">Bond ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/money-market-funds-and-etfs/">Money Market</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/mortgage-funds-and-etfs/">Mortgage</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/municipal-bond-funds-and-etfs/">Municipal</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/high-yield-bond-funds-and-etfs/">High Yield</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/corporate-bond-funds-and-etfs/">Corporate</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/government-bond-funds-and-etfs/">Government</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/duration-bond-funds-and-etfs/">Duration</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/leveraged-bond-funds-and-etfs/">Leveraged</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-categories/inverse-bond-funds-and-etfs/">Inverse</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/equity-categories/'>
+Equity
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/equity-categories/">Equity ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/income-equity-funds-and-etfs/">Income</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/growth-equity-funds-and-etfs/">Growth</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/value-equity-funds-and-etfs/">Value</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/blend-equity-funds-and-etfs/">Blend</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/sector-and-industry-equity-funds-and-etfs/">Sector &amp; Industry</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/esg-equity-funds-and-etfs/">ESG</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/leveraged-equity-funds-and-etfs/">Leveraged</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/inverse-equity-funds-and-etfs/">Inverse</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-categories/long-short-equity-funds-and-etfs/">Long-Short</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/allocation-categories/'>
+Allocation
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/allocation-categories/">Allocation ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/income-funds-and-etfs/">Income</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/target-date-funds/">Target Date</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/tactical-allocation-funds-and-etfs/">Tactical</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/growth-allocation-funds-and-etfs/">Growth</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/growthbalanced-allocation-funds-and-etfs/">Growth/Balanced</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/balanced-allocation-funds-and-etfs/">Balanced</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/conservativebalanced-allocation-funds-and-etfs/">Conservative/Balanced</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/conservative-allocation-funds-and-etfs/">Conservative</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/leveraged-allocation-funds-and-etfs/">Leveraged</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/allocation-categories/inverse-allocation-funds-and-etfs/">Inverse</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/alternatives-categories/'>
+Alternatives
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/alternatives-categories/">Alternatives ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/real-estate-funds-and-etfs/">Real Estate</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/commodity-funds-and-etfs/">Commodity</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/currency-funds-and-etfs/">Currency</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/volatility-funds-and-etfs/">Volatility</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/preferred-stock-funds-and-etfs/">Preferred Stock</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/convertible-bond-funds-and-etfs/">Convertible Bond</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/alternatives-categories/diversified-alternatives-funds-and-etfs/">Diversified Alternatives</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/screener/'>
+Screener
+</a>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}'>
+Popular
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/fund-company/">Top 100 Fund Companies ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fund-company/vanguard-funds/">Vanguard</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fund-company/fidelity-investments-funds/">Fidelity Investments</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fund-company/american-funds/">American Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fund-company/t-rowe-price-funds/">T. Rowe Price</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fund-company/jpmorgan-funds/">JPMorgan</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fund-company/blackrock-funds/">BlackRock</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fund-company/dimensional-fund-advisors-funds/">Dimensional Fund Advisors</a>
+</div>
+</div>
+</div>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/funds/">Top 500 Funds ››</a>
+</p>
+<div class='t-flex t-w-full'>
+</div>
+</div>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+Article
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/education/">Mutual Fund Education</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/index-funds/">Index Fund Center</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/domestic-stock-funds/">Domestic Stock Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/international-and-global-stock-funds/">International and Global Stock Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/target-date-funds/">Target-Date Funds</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/fixed-income-funds/">Fixed-Income Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/asset-allocation/">Asset Allocation</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/specialized-funds/">Specialized Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/enhanced-index-funds/">Enhanced Index Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/actively-managed-funds/">Actively Managed Funds</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/no-load-funds/">No-Load Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/bond-funds/">Bond Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/equity-funds/">Equity Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/hybrid-funds/">Hybrid Funds</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/resources/">Resources For Mutual Fund Investors</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/q-and-a-and-interviews/">Q&amp;As and Interviews</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/lighter-side/">Lighter Side: Quizzes and More</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/taxation/">Taxation</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/expert-analysis/">Expert Analysis and Commentary</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/news/">News</a>
+</div>
+</div>
+</div>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+Advisor
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/advisor-access/">Advisor Access</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/practice-management/">Practice Management</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/portfolio-management/">Portfolio Management</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/expert-opinion/">Expert Opinion</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}' href='/geography-categories/'>
+Geography
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-flex t-flex-col t-pr-6 t-py-4'>
+<p class='n-text__subtitle t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/geography-categories/">Geography ››</a>
+</p>
+<div class='t-flex t-w-full'>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/international-funds-and-etfs/">International</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/north-america-funds-and-etfs/">North America</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/europe-funds-and-etfs/">Europe</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/asia-funds-and-etfs/">Asia</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/middle-east-funds-and-etfs/">Middle East</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/africa-funds-and-etfs/">Africa</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/latin-america-funds-and-etfs/">Latin America</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/australasia-funds-and-etfs/">Australasia</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/emerging-markets-funds-and-etfs/">Emerging Markets</a>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/developed-markets-funds-and-etfs/">Developed Markets</a>
+<a class="n-text__display_sm t-py-1 hover:t-text-black" href="/geography-categories/frontier-markets-funds-and-etfs/">Frontier Markets</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+<div class='n-nav-item__mf t-mr-4 t-items-center'>
+<a class='n-text__display_sm t-pr-1 hover:t-no-underline hover:t-text-black' data-analytics-track-click='{"category": "Navigation", "action": "click"}'>
+Channels
+</a>
+<img class="t-inline" src="/packs/media/images/mutualfunds/nav-down-f4211963ea12740606598b688e9ca2fd.svg" />
+<div class='n-nav-dropdown t-flex t-items-center t-shadow-no-top t-mt-2 t-flex-col t-overflow-hidden'>
+<div class='t-container t-flex'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/fixed-income-channel/">Fixed Income Channel</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Fixed income news, reports, video and more.
+</p>
+</div>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/municipal-bonds-channel/">Municipal Bonds Channel</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Municipal bonds news, reports, video and more.
+</p>
+</div>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/practice-management-channel/">Practice Management Channel</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Practice management news, reports, video and more.
+</p>
+</div>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/portfolio-management-channel/">Portfolio Management Channel</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Portfolio management news, reports, video and more.
+</p>
+</div>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/retirement-channel/">Retirement Channel</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Retirement news, reports, video and more.
+</p>
+</div>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/strategists-channel/">Strategists Channel</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Learn from industry thought leaders and expert market participants.
+</p>
+</div>
+</div>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/calvert-resource-channel/">Calvert’s Advisor Resource Center</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Deepen your understanding of Responsible Investing.
+</p>
+</div>
+<div class='t-bg-gray-100 t-flex t-flex-col t-h-full t-m-2 t-pl-4 t-pr-6 t-py-4'>
+<div class='t-flex'>
+<p class='n-text__display t-font-semibold t-mb-0 t-py-2'>
+<a class="hover:t-underline hover:t-text-black" href="/nyl-resource-channel/">New York Life Advisor Resources</a>
+</p>
+</div>
+<p class='n-text__display_sm t-mt-2'>
+Enhance retirement outcomes with helpful tactics.
+</p>
+</div>
+</div>
+</div>
+<div class='t-h-10 t-w-full'></div>
+</div>
+<div class='t-absolute t-bg-orange-500 t-h-1 t-hidden has-underline'></div>
+</div>
+</div>
+<div class='async-js' data-js-files='["/mutualfunds/components/desktop_nav"]'></div>
+
+<div class='t-flex t-justify-between t-flex-none t-translate-y-5 t-z-40'>
+<div class='t-flex t-items-center t-border-b-2 t-border-white t-mr-6 t-relative'>
+<a class='nav-search-dropdown' href='#'>
+<svg height='17px' version='1.1' viewbox='0 0 17 17' width='17px' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'>
+<g fill-rule='evenodd' fill='none' id='Nav' stroke-width='1' stroke='none'>
+<g id='Nav---Channel-dropdown' stroke='#000000' transform='translate(-1083.000000, -62.000000)'>
+<g id='Group' transform='translate(1092.000000, 71.500000) rotate(-45.000000) translate(-1092.000000, -71.500000) translate(1085.000000, 61.000000)'>
+<circle cx='7.37867966' cy='6.79289322' id='Oval' r='6'></circle>
+<path d='M7.73223305,12.7388348 L7.73223305,19.9388348' id='Line-2' stroke-linecap='round'></path>
+</g>
+</g>
+</g>
+</svg>
+</a>
+<div class='t-hidden nav-search-form t-absolute t-bg-white t-p-2 t-shadow-xl t-right-0 t-top-full t-w-66 t-z-10'>
+<form class="t-flex t-w-1/3 t-w-full" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="text" name="q" id="sponsored-search-typeahead" value="" class="typeahead t-appearance-none t-border t-flex-1 t-py-2 t-px-3 t-text-gray-700 t-leading-tight t-text-tiny" autocomplete="off" spellcheck="false" placeholder="Search" data-handlebar="{{symbol}} – {{name}}" data-searchremote="/search.json?q=%QUERY" data-redirect="/search?q={{symbol}}" data-displaykey="symbol" />
+<button name="button" type="submit" class="t-appearance-none t-border t-border-transparent t-absolute t-right-2 t-flex-none t-py-2 t-px-3 t-text-gray-700 t-leading-tight t-text-tiny"><svg height='17px' version='1.1' viewbox='0 0 17 17' width='17px' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'>
+<g fill-rule='evenodd' fill='none' id='Nav' stroke-width='1' stroke='none'>
+<g id='Nav---Channel-dropdown' stroke='#000000' transform='translate(-1083.000000, -62.000000)'>
+<g id='Group' transform='translate(1092.000000, 71.500000) rotate(-45.000000) translate(-1092.000000, -71.500000) translate(1085.000000, 61.000000)'>
+<circle cx='7.37867966' cy='6.79289322' id='Oval' r='6'></circle>
+<path d='M7.73223305,12.7388348 L7.73223305,19.9388348' id='Line-2' stroke-linecap='round'></path>
+</g>
+</g>
+</g>
+</svg>
+</button></form>
+
+</div>
+</div>
+<div class='async-js' data-js-files='["/mutualfunds/components/header_search"]'></div>
+
+</div>
+</div>
+<div class='async-js' data-js-files='["/mutualfunds/components/offpage_nav", "/mutualfunds/components/desktop_nav", "/mutualfunds/components/header_search"]'></div>
+
+<div class='t-fixed t-w-full t-h-full t-top-0 t-left-0 t-flex t-flex-wrap t-items-center t-justify-center t-z-40 t-will-change-opacity t-transition-250 t-transition-all t-overflow-auto t-hidden' id='survey-modals'>
+<div class='modal-overlay t-fixed t-h-full t-w-full t-top-0 t-left-0 t-bg-gray-900 t-opacity-50'></div>
+<div class='lg:t-w-2/3 modal-container t-bg-white t-mx-auto t-my-10 t-rounded t-shadow-lg t-w-5/6 t-w-max-2xl t-z-50 xl:t-w-7/12'>
+<div class='modal-content'>
+<div class='modal--header-container py-3' id='email-verified-header'>
+<div class='modal--icon__check'></div>
+<h5 class='modal-title page--text page--text__lg page--text__bold text-center ml-2'>
+You have successfully subscribed to Advisor Access. Thank you!
+</h5>
+<button aria-label='Close' class='close modal--button__close' data-dismiss='modal' type='button'></button>
+</div>
+<div class='modal-body text-center'>
+<div class='mt-2 mb-4 t-hidden' id='investor-survey-modal-question'>
+<div class='page--subtitle my-2'>
+Help us personalize your experience.
+</div>
+<div class='page--subtitle2 my-2'>
+Which type of investor describes you best?
+</div>
+<div class='my-3'>
+<button class='btn investor-btn page--button__primary-inverted page--button__primary-inverted__border mx-1' data-answer='investor' data-name='Individual Investor'>
+Individual Investor
+</button>
+<button class='btn investor-btn page--button__primary-inverted page--button__primary-inverted__border mx-1' data-answer='advisor' data-name='Financial Advisor'>
+Financial Advisor
+</button>
+<button class='btn investor-btn page--button__primary-inverted page--button__primary-inverted__border mx-1' data-answer='institutional' data-name='Institutional Investor'>
+Institutional Investor
+</button>
+</div>
+</div>
+
+<div class='mt-2 mb-4 t-hidden' id='aum-survey-modal-question'>
+<div class='page--subtitle my-3'>
+Help us personalize your experience.
+</div>
+<span class='page--text page--text__bold'>
+What is your AUM?
+</span>
+<button class='t-w-2 t-text-blue-800 t-cursor-opinter n-button_collapse_reference t-inline-flex' data-collapse-target='aum-tooltip-collapse'>
+<div class='fa fa-question-circle'></div>
+</button>
+<div class='n-button_collapse_target t-flex t-justify-center' id='aum-tooltip-collapse'>
+<div class='t-max-w-md t-py-2 t-bg-gray-200 t-border t-rounded t-text-base t-text-blue-800'>
+Knowing your investable assets will help us build and prioritize features that will suit your investment needs.
+</div>
+</div>
+<div class='col-sm-12 my-3'>
+<label class='radio--inline-container radio--button' for='opt1' id='radio'>
+<div class='radio-opt'>
+Over 10 Billion
+</div>
+<input id='opt1' name='aumType' type='radio' value='opt1'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt2'>
+<div class='radio-opt'>
+1 - 10 Billion
+</div>
+<input id='opt2' name='aumType' type='radio' value='opt2'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt3'>
+<div class='radio-opt'>
+500 Million - 1 Billion
+</div>
+<input id='opt3' name='aumType' type='radio' value='opt3'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt4'>
+<div class='radio-opt'>
+100 - 500 Million
+</div>
+<input id='opt4' name='aumType' type='radio' value='opt4'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt5'>
+<div class='radio-opt'>
+50 - 100 Million
+</div>
+<input id='opt5' name='aumType' type='radio' value='opt5'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt6'>
+<div class='radio-opt'>
+25 - 50 Million
+</div>
+<input id='opt6' name='aumType' type='radio' value='opt6'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt7'>
+<div class='radio-opt'>
+5 - 25 Million
+</div>
+<input id='opt7' name='aumType' type='radio' value='opt7'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt8'>
+<div class='radio-opt'>
+1 - 5 Million
+</div>
+<input id='opt8' name='aumType' type='radio' value='opt8'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt9'>
+<div class='radio-opt'>
+500K - 1 Million
+</div>
+<input id='opt9' name='aumType' type='radio' value='opt9'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt10'>
+<div class='radio-opt'>
+100 - 500K
+</div>
+<input id='opt10' name='aumType' type='radio' value='opt10'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt11'>
+<div class='radio-opt'>
+50 - 100K
+</div>
+<input id='opt11' name='aumType' type='radio' value='opt11'>
+<span class='radio--icon__check'></span>
+</label>
+<label class='radio--inline-container radio--button' for='opt12'>
+<div class='radio-opt'>
+Less than 50K
+</div>
+<input id='opt12' name='aumType' type='radio' value='opt12'>
+<span class='radio--icon__check'></span>
+</label>
+</div>
+<button class='btn page--button__primary page--button__primary__lg aum-submit'>
+Done
+</button>
+</div>
+
+<div class='t-my-5 t-hidden' id='survey-modal-thanks'>
+<div class='modal--icon__success mb-3 mx-auto'></div>
+<p class='page--text page--text__bold' id='thanks-personalize'>
+Congratulations on personalizing your experience.
+</p>
+<p class='page--text page--text__bold t-hidden' id='thanks-email-verified'>
+Email is verified. Thank you!
+</p>
+<button class='btn page--button__primary page--button__primary__lg okay-btn mt-3'>
+Got it
+</button>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class='async-js' data-js-files='["/components/survey_modal"]'></div>
+
+<main class='t-font-inter'>
+<div class='container sm:t-px-0'>
+<div class='ticker-header-area md:t-sticky t-z-38 n-section-screen_width t-bg-white sticky-element'>
+<div class='quickfacts t-mt-5 t-pb-3 t-container t-mx-auto'>
+<div class='row d-block'>
+<div class='col'>
+<h1 class='t-flex t-flex-col'>
+<span class='n-text__heading t-mb-1'>
+Morgan Stanley VIF Discovery I
+</span>
+</h1>
+<div class='quickfacts-details--wrapper'>
+<div class='row sticky-header sticky-element' id='quickfacts-details'>
+<div class='t-flex t-container t-flex-wrap md:t-flex-row'>
+<ul class='lg:t-mr-12 mb-0 md:t-mr-8 md:t-w-auto page--unordered-list t-mr-0 t-w-1/2'>
+<li class='n-text__label t-mb-2 t-mt-1'></li>
+<li class='n-text__display_sm t-font-semibold lg:t-text-lg lg:t-leading-normal lg:t-font-semibold'>
+MMGPX
+</li>
+</ul>
+<ul class='lg:t-mr-12 mb-0 md:t-mr-8 md:t-w-auto page--unordered-list t-mr-0 t-w-1/2'>
+<li class='n-text__label t-mb-2 t-mt-1'>Price as of: Nov 17, 2020</li>
+<li class='n-text__display_sm t-font-semibold lg:t-text-lg lg:t-leading-normal lg:t-font-semibold t-flex md:t-flex-col lg:t-flex-row'>
+$24.67
+<div class='n-text__display_xs t-pl-1 md:t-pt-1'>
+N/A
+N/A
+</div>
+</li>
+</ul>
+<ul class='lg:t-mr-12 lg:t-w-auto mb-0 md:t-mr-8 md:t-w-24 page--unordered-list t-mr-0 t-w-1/2'>
+<li class='n-text__label t-mb-2 t-mt-1'>Primary Theme</li>
+<li class='n-text__display_sm t-font-semibold lg:t-text-lg lg:t-leading-normal lg:t-font-semibold t-underline hover:t-text-blue-550'>
+<a href="/equity-categories/us-mid-cap-growth-equity-funds-and-etfs/">U.S. Mid-Cap Growth Equity</a>
+</li>
+</ul>
+<ul class='lg:t-mr-12 lg:t-w-auto mb-0 md:t-mr-8 md:t-w-24 page--unordered-list t-mr-0 t-w-1/2'>
+<li class='n-text__label t-mb-2 t-mt-1'>Fund Company</li>
+<li class='n-text__display_sm t-font-semibold lg:t-text-lg lg:t-leading-normal lg:t-font-semibold t-underline hover:t-text-blue-550'>
+<a href="/fund-company/morgan-stanley-funds/">Morgan Stanley</a>
+</li>
+</ul>
+<ul class='lg:t-mr-12 mb-0 md:t-mr-8 md:t-w-auto page--unordered-list t-mr-0 t-w-1/2'>
+<li class='n-text__label t-mb-2 t-mt-1'>Share Class</li>
+<li>
+<div class='t-inline-block t-relative'>
+<button aria-haspopup class='btn btn-sm n-button_share_class t-w-42 t-text-left t-pl-3' data-toggle='dropdown' id='dropdownMenuButton' type='button'>No Load (MMGPX)</button>
+<span class='fa fa-angle-down t-absolute t-inset-y-0 t-right-2 t-flex t-items-center'></span>
+<div aria-labelledby='dropdownMenuButton' class='dropdown-menu'>
+<a class='active dropdown-item' href='/funds/mmgpx-morgan-stanley-vif-discovery-i/'>
+No Load (MMGPX)
+<span class='badge badge-pill badge-info'>Primary</span>
+</a>
+<a class='dropdown-item' href='/funds/mmgtx-morgan-stanley-vif-discovery-ii/'>
+B (MMGTX)
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='t-flex t-justify-center t-bg-mitre-yellow-300 t-shadow-outline-bottom n-section-screen_width'>
+<section class='n-ticker-nav t-hidden md:t-flex t-container t-bg-mitre-yellow-300 t-overflow-x-scroll lg:t-overflow-hidden'>
+<div class='hover:t-bg-mitre-yellow-200 t-mr-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#snapshot' id='snapshot_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#snapshot-anchor'>Snapshot</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+<div class='hover:t-bg-mitre-yellow-200 t-mx-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#compare' id='compare_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#compare-anchor'>Compare</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+<div class='hover:t-bg-mitre-yellow-200 t-mx-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#profile' id='profile_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#profile-anchor'>Profile</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+<div class='hover:t-bg-mitre-yellow-200 t-mx-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#performance' id='performance_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#performance-anchor'>Performance</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+<div class='hover:t-bg-mitre-yellow-200 t-mx-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#holdings' id='holdings_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#holdings-anchor'>Holdings</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+<div class='hover:t-bg-mitre-yellow-200 t-mx-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#expenses' id='expenses_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#expenses-anchor'>Expenses</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+<div class='hover:t-bg-mitre-yellow-200 t-mx-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#distributions' id='distributions_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#distributions-anchor'>Distributions</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+<div class='hover:t-bg-mitre-yellow-200 t-mx-1 t-relative t-whitespace-no-wrap ticker_nav_item' data-target='#managers' id='managers_nav'>
+<div class='t-flex t-px-2'>
+<a class='t-py-2 t-text-sm t-text-black hover:t-text-black hover:t-no-underline t-whitespace-no-wrap' href='#managers-anchor'>Managers</a>
+</div>
+<div class='ticker_nav_underline t-absolute t-bg-white t-h-1 t-w-full t-bottom-0 t-hidden'></div>
+</div>
+</section>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+<div class='row t-mt-4 t-mb-2'>
+<div class='col-lg-8 t-relative'>
+<section class='snapshot'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-gray-60 t-transition-250' data-collapse-target='snapshot' data-expanded='true' type='button'>
+<span class='t-flex-1 t-text-left'>Snapshot</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-container t-mx-auto t-px-0' id='snapshot'>
+<a class='t-absolute t-left-0 t--top-220' id='snapshot-anchor'></a>
+<h2 class='grid--title'>
+MMGPX - Snapshot
+</h2>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='row'>
+<div class='col-sm-6 t-relative t-pb-5'>
+<h3 class='n-text__subtitle'>Vitals</h3>
+<ul class='grid--unstyled_list'>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>YTD Return</span>
+<span class='float-right'>92.2%</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>3 Yr Annualized Return</span>
+<span class='float-right'>47.3%</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>5 Yr Annualized Return</span>
+<span class='float-right'>32.0%</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>Net Assets</span>
+<span class='float-right'>$319 M</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>Holdings in Top 10</span>
+<span class='float-right'>44.1%</span>
+</li>
+</ul>
+<div class='t-bg-gray-80 t-mt-5'>
+<h4 class='n-text__label t-py-3 t-px-4'>52 WEEK LOW AND HIGH</h4>
+<div class='slider-indicator clearfix t-px-6 t-py-3'>
+<div class='slider-indicator--chart mx-2'>
+<div class='slider-indicator--bubble' style='left: 87.463%;'>
+<span class='page--text page--text__sm text-white'>
+$24.67
+</span>
+</div>
+<div class='slider-indicator--lines mx-0 mt-2'></div>
+<div class='page--text page--text__sm ml--3'>
+<span class='float-left'>
+$9.88
+</span>
+</div>
+<div class='page--text page--text__sm mr--3'>
+<span class='float-right'>
+$26.79
+</span>
+</div>
+</div>
+</div>
+</div>
+<hr class='t-absolute t-bottom-0 t-w-23/25'>
+</div>
+
+<div class='col-sm-6 t-relative t-pb-5 t-mt-5 md:t-mt-0'>
+<div class='grid--divider__vertical_left hidden-xs hidden-sm'></div>
+<h3 class='n-text__subtitle'>Expenses</h3>
+<div class='t-mb-6 t-mt-2'>
+<h4 class='n-text__label'>OPERATING RELATED FEES</h4>
+<ul class='grid--unstyled_list'>
+<li class='grid--text'>
+<span class='grid--text__lg'>Expense Ratio</span>
+<span class='float-right'>1.11%</span>
+</li>
+</ul>
+</div>
+<div class='t-my-6'>
+<h4 class='n-text__label'>SALES FEES</h4>
+<ul class='grid--unstyled_list'>
+<li class='grid--text'>
+<span class='grid--text__lg'>Front Load</span>
+<span class='float-right'>N/A</span>
+</li>
+<li class='grid--text'>
+<span class='grid--text__lg'>Deferred Load</span>
+<span class='float-right'>N/A</span>
+</li>
+</ul>
+</div>
+<div class='t-my-6'>
+<h4 class='n-text__label'>BROKERAGE FEES</h4>
+<ul class='grid--unstyled_list'>
+<li class='grid--text'>
+<span class='grid--text__lg'>Turnover</span>
+<span class='float-right'>101.00%</span>
+</li>
+</ul>
+</div>
+<div class='t-my-0 md:t-my-6'>
+<h4 class='n-text__label'>TRADING FEES</h4>
+<ul class='grid--unstyled_list'>
+<li class='grid--text'>
+<span class='grid--text__lg'>Max Redemption Fee</span>
+<span class='float-right'>N/A</span>
+</li>
+</ul>
+</div>
+<hr class='t-absolute t-bottom-0 t-w-23/25'>
+</div>
+
+</div>
+<div class='row'>
+<div class='col-sm-6 t-relative t-py-5'>
+<h3 class='n-text__subtitle t-mb-2'>Min Investment</h3>
+<ul class='grid--unstyled_list'>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>Standard (Taxable)</span>
+<span class='float-right'>$0</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>IRA</span>
+<span class='float-right'>N/A</span>
+</li>
+</ul>
+<hr class='t-absolute t-bottom-0 t-w-23/25'>
+</div>
+
+<div class='col-sm-6 t-relative t-py-5'>
+<div class='grid--divider__vertical_left hidden-xs hidden-sm'></div>
+<h3 class='n-text__subtitle t-mb-2'>Fund Classification</h3>
+<ul class='grid--unstyled_list'>
+<li class='t-flex grid--text t-mb-2'>
+<span class='grid--text__lg t-w-1/2'>Primary Theme</span>
+<span class='t-w-1/2'>
+<a href='/equity-categories/us-mid-cap-growth-equity-funds-and-etfs/'>
+<div class='t-underline hover:t-text-blue-550 grid--link__underline'>U.S. Mid-Cap Growth Equity</div>
+</a>
+</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>Fund Type</span>
+<span class='float-right'>Open End Mutual Fund</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>Investment Style</span>
+<span class='float-right'>Mid-Cap Growth</span>
+</li>
+</ul>
+<hr class='t-absolute t-bottom-0 t-w-23/25'>
+</div>
+
+</div>
+</div>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+<div class='col-lg-4 t-mb-8 xl:t-mb-0'>
+<div class="mitread--adunit__npa t-flex t-justify-center t-mt-4 t-items-center xl:t-items-start" id="329a4f8ed93d7e90f30f5fe710753110-c"><div id="329a4f8ed93d7e90f30f5fe710753110" data-controller="ad-unit" data-ad-unit-id="329a4f8ed93d7e90f30f5fe710753110" data-ad-unit-name="MF/T-fund/equity/NP-01-A" data-ad-unit-ad-unit="NP-01-A" data-ad-unit-type="npa" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/NP-01-A"></div></div>
+</div>
+</div>
+<section class='compare t-mt-8 xl:t-mt-0 t-mb-16'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-mitre-yellow-200 t-transition-250' data-collapse-target='compare' data-expanded='true' type='button'>
+<span class='t-flex-1 t-text-left'>Compare</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-px-0' id='compare'>
+<a class='t-absolute t-left-0 t--top-220' id='compare-anchor'></a>
+<div class='n-section-screen_width t-flex t-flex-col t-relative' data-collection-key='CollectionFunds' data-controller='sticky table ' data-default-sort-by='desc' data-default-sort-key='NetAssetValue' data-disable-fade-query='(max-width: 767px)' data-filter-url='/api/dividend/filter-config/' data-table-key='MfTicker-mutual_fund-CompareFundList' data-theme=''>
+<div class='t-bg-white t-w-full t-sticky t-z-37' data-disable-sticky-query='(max-width: 640px)' data-sticky-index='0' data-target='sticky.stuck sticky.fadeTrigger'>
+<div class='t-container m-page-filter-header-container'>
+<div class='m-page-filter-header'>
+<p class='m-page-filter-header-title'>
+Compare MMGPX to Popular U.S. Mid-Cap Growth Equity Funds and ETFs
+</p>
+</div>
+<div class='t-flex md:t-hidden t-self-center'>
+<a class='m-page-export-button' data-action='click->cta-modal#showModal' data-controller='cta-modal' data-modal-key='TableDownload' data-modal-location='table' data-modal-url='/api/dividend/cta-content/' data-table-key='MfTicker-mutual_fund-CompareFundList' href='#'>
+<svg class='t-ml-2' fill='none' height='40' viewbox='0 0 40 40' width='40' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='20' cy='20' fill='#363F4B' r='20'></circle>
+<path d='M29.0742 23V27C29.0742 27.5304 28.8635 28.0391 28.4884 28.4142C28.1134 28.7893 27.6047 29 27.0742 29H13.0742C12.5438 29 12.0351 28.7893 11.66 28.4142C11.2849 28.0391 11.0742 27.5304 11.0742 27V23' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' stroke='white'></path>
+<path d='M15.0742 18L20.0742 23L25.0742 18' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' stroke='white'></path>
+<path d='M20.0742 23V11' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' stroke='white'></path>
+</svg>
+</a>
+</div>
+<div class='t-flex t-mt-4' data-target='sticky.fadeIn'>
+</div>
+</div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='t-bg-white t-w-full t-sticky t-z-37' data-controller='tabs' data-default-tab-key='TblTabDivFundsOverviewMutualfund' data-disable-sticky-query='(max-width: 640px)' data-sticky-index='1' data-table-key='MfTicker-mutual_fund-CompareFundList' data-target='sticky.stuck'>
+<div class='t-container m-table-tabs-container'>
+<div class='m-table-tabs'>
+<div class='m-table-tabs-tab' data-action='click->tabs#switchTab' data-tab-key='TblTabDivFundsOverviewMutualfund' data-target='tabs.tab'>
+<p class='m-table-tabs-text'>
+Overview
+</p>
+</div>
+<div class='m-table-tabs-tab' data-action='click->tabs#switchTab' data-tab-key='TblTabDivFundsIncomeProfileMutualfund' data-target='tabs.tab'>
+<p class='m-table-tabs-text'>
+Income Profile
+</p>
+</div>
+<div class='m-table-tabs-tab' data-action='click->tabs#switchTab' data-tab-key='TblTabDivFundsIncomeRiskMutualfund' data-target='tabs.tab'>
+<p class='m-table-tabs-text'>
+Income Risk
+</p>
+</div>
+<div class='m-table-tabs-tab' data-action='click->tabs#switchTab' data-tab-key='TblTabDivFundsReturnsProfileMutualfund' data-target='tabs.tab'>
+<p class='m-table-tabs-text'>
+Returns Profile
+</p>
+</div>
+<div class='m-table-tabs-tab' data-action='click->tabs#switchTab' data-tab-key='TblTabDivFundsAllocations' data-target='tabs.tab'>
+<p class='m-table-tabs-text'>
+Allocations
+</p>
+</div>
+<div class='m-table-tabs-tab' data-action='click->tabs#switchTab' data-tab-key='TblTabDivFundsExpenses' data-target='tabs.tab'>
+<p class='m-table-tabs-text'>
+Expenses
+</p>
+</div>
+<div class='m-table-tabs-tab' data-action='click->tabs#switchTab' data-tab-key='TblTabDivFundsAbout' data-target='tabs.tab'>
+<p class='m-table-tabs-text'>
+About
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class='m-table' data-default-filters='[{"filterKey":"PrimaryThemeName","value":"U.S. Mid-Cap Growth Equity Funds and ETFs"}]' data-table-collection-key='CollectionFunds' data-table-key='MfTicker-mutual_fund-CompareFundList' data-target='table.mTable' data-theme=''>
+<div class='m-table-header-row-container' data-target='table.stickyRow table.headerContainer'>
+<div class='m-table-scrollable-row-container' data-target='table.scrollSync'>
+<div class='m-table-header-row' data-target='table.container'>
+<div class='m-table-empty-cell' data-cell-dimension='4%' data-table-header-column-index='0' data-target='table.cell table.headerCell'></div>
+<div class='m-table-body-cell m-table-header-cell' data-cell-dimension='20%' data-table-header-column-index='1' data-target='table.cell table.headerCell'>
+<button class='m-table-header-row-heading' data-action='table#sort' data-column-key='Name'>
+<p class='t-m-0'>
+<span>
+Name
+</span>
+</p>
+</button>
+</div>
+<div class='m-table-body-cell m-table-header-cell' data-cell-dimension='14%' data-table-header-column-index='2' data-target='table.cell table.headerCell'>
+<button class='m-table-header-row-heading' data-action='table#sort' data-column-key='PriceCurrentChangePercent'>
+<p class='t-m-0'>
+<span>
+Price
+</span>
+</p>
+</button>
+</div>
+<div class='m-table-body-cell m-table-header-cell' data-cell-dimension='14%' data-table-header-column-index='3' data-target='table.cell table.headerCell'>
+<button class='m-table-header-row-heading' data-action='table#sort' data-column-key='NetAssetValue'>
+<p class='t-m-0'>
+<span>
+Net Assets
+</span>
+</p>
+</button>
+</div>
+<div class='m-table-body-cell m-table-header-cell' data-cell-dimension='14%' data-table-header-column-index='4' data-target='table.cell table.headerCell'>
+<button class='m-table-header-row-heading' data-action='table#sort' data-column-key='DividendYieldCurrent'>
+<p class='t-m-0'>
+<span>
+LTM YIELD &amp; DIVIDEND
+</span>
+</p>
+</button>
+</div>
+<div class='m-table-body-cell m-table-header-cell' data-cell-dimension='14%' data-table-header-column-index='5' data-target='table.cell table.headerCell'>
+<button class='m-table-header-row-heading' data-action='table#sort' data-column-key='ReturnsTotalYTD'>
+<p class='t-m-0'>
+<span>
+YTD
+</span>
+</p>
+</button>
+</div>
+<div class='m-table-body-cell m-table-header-cell' data-cell-dimension='13%' data-table-header-column-index='6' data-target='table.cell table.headerCell'>
+<button class='m-table-header-row-heading' data-action='table#sort' data-column-key='ExpensesRatioGross'>
+<p class='t-m-0'>
+<span>
+Exp Ratio
+</span>
+</p>
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class='m-table-body-container'>
+<div class="mitread--adunit__srax t-flex t-justify-center t-items-center" id="cec8a6ea3d2e109fbcf3b430792ead62-c"><div id="cec8a6ea3d2e109fbcf3b430792ead62" data-controller="ad-unit" data-ad-unit-id="cec8a6ea3d2e109fbcf3b430792ead62" data-ad-unit-name="MF/T-fund/equity/SR-01-AX" data-ad-unit-ad-unit="SR-01-AX" data-ad-unit-type="srax" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/SR-01-AX"></div>
+<div class="mitread--adunit__srax t-flex t-justify-center t-items-center" id="c127449d1da84f6a9d793e38864e4303-c"><div id="c127449d1da84f6a9d793e38864e4303" data-controller="ad-unit" data-ad-unit-id="c127449d1da84f6a9d793e38864e4303" data-ad-unit-name="MF/T-fund/equity/SR-02-AX" data-ad-unit-ad-unit="SR-02-AX" data-ad-unit-type="srax" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/SR-02-AX"></div>
+<div class='m-table-sponsored-publisher-placeholder t-hidden'></div>
+<div class='t-hidden' data-controller='table-sponsor-row' data-target='table.stickyAnchor'></div>
+<div class='m-table-body' data-target='table.bodyContainer'>
+<div class='m-table-body-row-container m-table-row' data-action='mouseenter->table#showHoveredRow mouseleave->table#exitHoveredRow' data-table-row-index='0' data-target='table.row' data-uuid='PRNHX**mutual_fund'>
+<div class='m-table-scrollable-row-container' data-target='table.scrollSync'>
+<div class='m-table-body-row' data-target='table.container'>
+<div class='m-table-body-cell__sticky' data-cell-dimension='4%' data-table-column-index='0' data-target='table.cell'>
+<button data-checkbox-state='false' data-target='table.toggleStickyCheckbox'></button>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='20%' data-table-column-index='1' data-target='table.cell'>
+<a class="m-table-body-link-text" href="/funds/prnhx-t-rowe-price-new-horizons/">T. Rowe Price New Horizons Fund</a><p class="m-table-body-subtext"><span>Fund</span></p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='2' data-target='table.cell'>
+<p class="m-table-body-text">$86.67</p><p class="m-table-body-subtext-increaser">+0.59%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='3' data-target='table.cell'>
+<p class="m-table-body-text">$34.01 B</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='4' data-target='table.cell'>
+<p class="m-table-body-text">-</p><p class="m-table-body-subtext">$0.00</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='5' data-target='table.cell'>
+<p class="m-table-body-text">45.98%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='13%' data-table-column-index='6' data-target='table.cell'>
+<p class="m-table-body-text">0.76%</p>
+</div>
+</div>
+</div>
+</div>
+<div class='m-table-body-row-container m-table-row' data-action='mouseenter->table#showHoveredRow mouseleave->table#exitHoveredRow' data-table-row-index='1' data-target='table.row' data-uuid='RPMGX**mutual_fund'>
+<div class='m-table-scrollable-row-container' data-target='table.scrollSync'>
+<div class='m-table-body-row' data-target='table.container'>
+<div class='m-table-body-cell__sticky' data-cell-dimension='4%' data-table-column-index='0' data-target='table.cell'>
+<button data-checkbox-state='false' data-target='table.toggleStickyCheckbox'></button>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='20%' data-table-column-index='1' data-target='table.cell'>
+<a class="m-table-body-link-text" href="/funds/rpmgx-t-rowe-price-mid-cap-growth/">T. Rowe Price Mid-Cap Growth Fund</a><p class="m-table-body-subtext"><span>Fund</span></p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='2' data-target='table.cell'>
+<p class="m-table-body-text">$111.27</p><p class="m-table-body-subtext-decreaser">-0.27%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='3' data-target='table.cell'>
+<p class="m-table-body-text">$33.25 B</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='4' data-target='table.cell'>
+<p class="m-table-body-text">-</p><p class="m-table-body-subtext">$0.00</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='5' data-target='table.cell'>
+<p class="m-table-body-text">16.72%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='13%' data-table-column-index='6' data-target='table.cell'>
+<p class="m-table-body-text">0.74%</p>
+</div>
+</div>
+</div>
+</div>
+<div class='m-table-body-row-container m-table-row' data-action='mouseenter->table#showHoveredRow mouseleave->table#exitHoveredRow' data-table-row-index='2' data-target='table.row' data-uuid='JANEX**mutual_fund'>
+<div class='m-table-scrollable-row-container' data-target='table.scrollSync'>
+<div class='m-table-body-row' data-target='table.container'>
+<div class='m-table-body-cell__sticky' data-cell-dimension='4%' data-table-column-index='0' data-target='table.cell'>
+<button data-checkbox-state='false' data-target='table.toggleStickyCheckbox'></button>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='20%' data-table-column-index='1' data-target='table.cell'>
+<a class="m-table-body-link-text" href="/funds/janex-janus-henderson-enterprise-d/">Janus Henderson Enterprise Fund</a><p class="m-table-body-subtext"><span>Fund</span></p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='2' data-target='table.cell'>
+<p class="m-table-body-text">$159.78</p><p class="m-table-body-subtext-decreaser">-0.14%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='3' data-target='table.cell'>
+<p class="m-table-body-text">$19.75 B</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='4' data-target='table.cell'>
+<p class="m-table-body-text">0.10%</p><p class="m-table-body-subtext">$0.15</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='5' data-target='table.cell'>
+<p class="m-table-body-text">12.69%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='13%' data-table-column-index='6' data-target='table.cell'>
+<p class="m-table-body-text">0.81%</p>
+</div>
+</div>
+</div>
+</div>
+<div class='m-table-body-row-container m-table-row' data-action='mouseenter->table#showHoveredRow mouseleave->table#exitHoveredRow' data-table-row-index='3' data-target='table.row' data-uuid='PMBMX**mutual_fund'>
+<div class='m-table-scrollable-row-container' data-target='table.scrollSync'>
+<div class='m-table-body-row' data-target='table.container'>
+<div class='m-table-body-cell__sticky' data-cell-dimension='4%' data-table-column-index='0' data-target='table.cell'>
+<button data-checkbox-state='false' data-target='table.toggleStickyCheckbox'></button>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='20%' data-table-column-index='1' data-target='table.cell'>
+<a class="m-table-body-link-text" href="/funds/pmbmx-principal-midcap-r3/">Principal MidCap Fund</a><p class="m-table-body-subtext"><span>Fund</span></p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='2' data-target='table.cell'>
+<p class="m-table-body-text">$33.08</p><p class="m-table-body-subtext-decreaser">0.00%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='3' data-target='table.cell'>
+<p class="m-table-body-text">$18.81 B</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='4' data-target='table.cell'>
+<p class="m-table-body-text">-</p><p class="m-table-body-subtext">$0.00</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='5' data-target='table.cell'>
+<p class="m-table-body-text">12.75%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='13%' data-table-column-index='6' data-target='table.cell'>
+<p class="m-table-body-text"></p>
+</div>
+</div>
+</div>
+</div>
+<div class='m-table-body-row-container m-table-row' data-action='mouseenter->table#showHoveredRow mouseleave->table#exitHoveredRow' data-table-row-index='4' data-target='table.row' data-uuid='VOT**etf'>
+<div class='m-table-scrollable-row-container' data-target='table.scrollSync'>
+<div class='m-table-body-row' data-target='table.container'>
+<div class='m-table-body-cell__sticky' data-cell-dimension='4%' data-table-column-index='0' data-target='table.cell'>
+<button data-checkbox-state='false' data-target='table.toggleStickyCheckbox'></button>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='20%' data-table-column-index='1' data-target='table.cell'>
+<a class="m-table-body-link-text" href="/etfs/vot-vanguard-mid-cap-growth-etf/">Vanguard Mid-Cap Growth Index Fund</a><p class="m-table-body-subtext"><span>VOT</span> | <span>ETF</span></p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='2' data-target='table.cell'>
+<p class="m-table-body-text">$194.26</p><p class="m-table-body-subtext-decreaser">-1.11%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='3' data-target='table.cell'>
+<p class="m-table-body-text">$17.40 B</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='4' data-target='table.cell'>
+<p class="m-table-body-text">0.53%</p><p class="m-table-body-subtext">$1.05</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='14%' data-table-column-index='5' data-target='table.cell'>
+<p class="m-table-body-text">24.17%</p>
+</div>
+<div class='m-table-body-cell' data-cell-dimension='13%' data-table-column-index='6' data-target='table.cell'>
+<p class="m-table-body-text">0.07%</p>
+</div>
+</div>
+</div>
+</div>
+<div class='m-table-row' data-controller='table-pagination' data-table-key='MfTicker-mutual_fund-CompareFundList' data-table-pagination-current-page='1' data-table-pagination-total-pages='43'>
+<div class='t-flex'>
+<div class='m-table-pagination-button-container'>
+<button class='m-table-pagination-button' data-action='click->table-pagination#prevPage' data-target='table-pagination.leftArrow'>
+<svg fill='none' height='14' viewbox='0 0 8 14' width='8' xmlns='http://www.w3.org/2000/svg'>
+<path d='M7 1L1 7L7 13' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' stroke='currentColor'></path>
+</svg>
+</button>
+</div>
+<div class='m-table-pagination-button-container m-table-pagination-page-container'>
+<button class='m-table-pagination-page-button' data-action='click->table-pagination#select' data-target='table-pagination.first'></button>
+<button class='m-table-pagination-page-button' data-action='click->table-pagination#select' data-target='table-pagination.prev'>
+...
+</button>
+<button class='m-table-pagination-page-button' data-action='click->table-pagination#select' data-target='table-pagination.page'></button>
+<button class='m-table-pagination-page-button' data-action='click->table-pagination#select' data-target='table-pagination.page table-pagination.currentPage'></button>
+<button class='m-table-pagination-page-button' data-action='click->table-pagination#select' data-target='table-pagination.page'></button>
+<button class='m-table-pagination-page-button' data-action='click->table-pagination#select' data-target='table-pagination.next'>
+...
+</button>
+<button class='m-table-pagination-page-button' data-action='click->table-pagination#select' data-target='table-pagination.last'></button>
+</div>
+<div class='m-table-pagination-button-container'>
+<button class='m-table-pagination-button' data-action='click->table-pagination#nextPage' data-target='table-pagination.rightArrow'>
+<svg fill='none' height='14' viewbox='0 0 8 14' width='8' xmlns='http://www.w3.org/2000/svg'>
+<path d='M1 13L7 7L1 1' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' stroke='currentColor'></path>
+</svg>
+</button>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+</section>
+<div class='row t-mt-4 t-mb-2'>
+<div class='col-lg-8 t-relative'>
+<section class='profile sm:t-mb-0'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-gray-60 t-transition-250' data-collapse-target='profile' data-expanded='false' type='button'>
+<span class='t-flex-1 t-text-left'>Profile</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-container t-mx-auto t-px-0' id='profile'>
+<a class='t-absolute t-left-0 t--top-220' id='profile-anchor'></a>
+<h2 class='grid--title'>
+MMGPX - Profile
+</h2>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='row'>
+<div class='col-sm-6 t-pt-5 t-pb-3'>
+<h3 class='n-text__subtitle t-mb-2'>Distributions</h3>
+<ul class='grid--unstyled_list'>
+<li class='grid--text t-mb-2'>
+<span class='grid--text__lg'>YTD Total Return</span>
+<span class='float-right'>92.2%</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>3 Yr Annualized Total Return</span>
+<span class='float-right'>47.3%</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>5 Yr Annualized Total Return</span>
+<span class='float-right'>32.0%</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>Capital Gain Distribution Frequency</span>
+<span class='float-right'>Annually</span>
+</li>
+<li class='grid--text t-my-2'>
+<span class='grid--text__lg'>Net Income Ratio</span>
+<span class='float-right'>-0.49%</span>
+</li>
+</ul>
+<span class='n-text__label'>DIVIDENDS</span>
+<ul class='grid--unstyled_list'>
+<li class='grid--text t-mb-2'>
+<span class='grid--text__lg'>Dividend Yield</span>
+<span class='float-right'>0.0%</span>
+</li>
+<li class='grid--text md:t-my-2 t-mt-2 t-mb-8'>
+<span class='grid--text__lg'>Dividend Distribution Frequency</span>
+<span class='float-right'>Annually</span>
+</li>
+</ul>
+<hr class='d-sm-none'>
+</div>
+
+<div class='col-sm-6 t-pt-5 t-pb-3'>
+<div class='grid--divider__vertical_left hidden-xs hidden-sm'></div>
+<h3 class='n-text__subtitle t-mb-2'>Fund Details</h3>
+<ul class='grid--unstyled_list'>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Legal Name</div>
+<div class='float-right t-text-right t-w-1/2'>Morgan Stanley Variable Insurance Fund, Inc. Discovery Portfolio</div>
+</li>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Fund Family Name</div>
+<div class='float-right t-text-right t-w-1/2'>Morgan Stanley</div>
+</li>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Inception Date</div>
+<div class='float-right t-text-right t-w-1/2'>Oct 18, 1999</div>
+</li>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Shares Outstanding</div>
+<div class='float-right t-text-right t-w-1/2'>N/A</div>
+</li>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Share Class</div>
+<div class='float-right t-text-right t-w-1/2'>No Load</div>
+</li>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Currency</div>
+<div class='float-right t-text-right t-w-1/2'>USD</div>
+</li>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Domiciled Country</div>
+<div class='float-right t-text-right t-w-1/2'>United States</div>
+</li>
+<li class='grid--text t-pb-2 t-flex'>
+<div class='grid--text__lg t-w-1/2'>Manager</div>
+<div class='float-right t-text-right t-w-1/2'>
+David Cohen
+</div>
+</li>
+</ul>
+</div>
+<div class='col-sm-12 t-mb-12 md:t-mb-0'>
+<hr class='t-mt-4 t-mb-6 md:t-my-6'>
+<h3 class='n-text__subtitle t-my-2'>Fund Description</h3>
+<div class='grid--text'>
+<p>
+The fund invests primarily in established and emerging companies, with capitalizations within the range of companies included in the Russell Midcap® Growth Index. It may invest up to 25% of the fund&#39;s net assets in foreign securities, including emerging market securities classified as American Depositary Receipts, Global Depositary Receipts, American Depositary Shares or Global Depositary Shares, foreign U.S. dollar-denominated securities.
+</p>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+<div class='col-lg-4 t-mb-4'>
+<div class="mitread--adunit__npa t-flex t-justify-center t-mt-4 t-items-center xl:t-items-start" id="27f2aa338ed1cc704e49b1ca9d9542de-c"><div id="27f2aa338ed1cc704e49b1ca9d9542de" data-controller="ad-unit" data-ad-unit-id="27f2aa338ed1cc704e49b1ca9d9542de" data-ad-unit-name="MF/T-fund/equity/NP-02-A" data-ad-unit-ad-unit="NP-02-A" data-ad-unit-type="npa" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/NP-02-A"></div></div>
+</div>
+</div>
+<hr class='t-my-12 t-border-black t-hidden md:t-block'>
+<section class='performance t-mb-2'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-gray-60 t-transition-250' data-collapse-target='performance' data-expanded='false' type='button'>
+<span class='t-flex-1 t-text-left'>Performance</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-container t-mx-auto t-px-0' id='performance'>
+<a class='t-absolute t-left-0 t--top-220' id='performance-anchor'></a>
+<div class='t-px-0'>
+<h2 class='grid--title'>
+MMGPX - Performance
+</h2>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='row t-mb-16'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2'>Return Ranking - Trailing</h3>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th class='t-p-3 n-text__table_heading'>Period</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Return</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>YTD</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>92.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-71.7%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>2268.4%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>2.80%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>1 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>114.6%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-14.4%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>114.6%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>0.16%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>3 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>47.3%*</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-3.5%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>47.4%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>0.34%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>5 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>32.0%*</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-1.0%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>37.5%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>0.36%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>10 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>18.7%*</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>4.3%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>20.6%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>1.57%</td>
+</tr>
+
+</tbody>
+</table>
+<p class='n-text__label'>* Annualized</p>
+</div>
+</div>
+
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-2" id="7b96feb0b31633aabf1aafaea9359668-c"><div id="7b96feb0b31633aabf1aafaea9359668" data-controller="ad-unit" data-ad-unit-id="7b96feb0b31633aabf1aafaea9359668" data-ad-unit-name="MF/T-fund/equity/FP-03-A" data-ad-unit-ad-unit="FP-03-A" data-ad-unit-type="fpa" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-03-A"></div></div>
+<div class='row t-mb-16'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2'>Return Ranking - Calendar</h3>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th class='t-p-3 n-text__table_heading'>Period</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Return</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2019</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>21.8%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-50.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>44.9%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>67.91%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2018</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>-11.5%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-70.5%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>9.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>34.57%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2017</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>N/A</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-21.1%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>84.9%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>N/A</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2016</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>N/A</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-61.7%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>39.8%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>N/A</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2015</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>N/A</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-54.0%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>12.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>N/A</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='row t-mb-16'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2'>Total Return Ranking - Trailing</h3>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th class='t-p-3 n-text__table_heading'>Period</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Return</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>YTD</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>92.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-71.9%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>2268.4%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>2.80%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>1 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>114.6%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-18.9%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>114.6%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>0.16%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>3 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>47.3%*</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-4.7%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>47.4%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>0.34%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>5 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>32.0%*</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-1.0%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>37.5%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>0.36%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>10 Yr</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>18.7%*</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>4.3%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>20.6%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>1.57%</td>
+</tr>
+
+</tbody>
+</table>
+<p class='n-text__label'>* Annualized</p>
+</div>
+</div>
+
+<div class='row t-mb-16'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2'>Total Return Ranking - Calendar</h3>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th class='t-p-3 n-text__table_heading'>Period</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Return</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2019</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>21.8%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-50.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>44.9%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>67.91%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2018</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>10.9%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-51.7%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>12.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>0.53%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2017</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>N/A</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-7.0%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>84.9%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>N/A</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2016</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>N/A</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-61.7%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>39.8%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>N/A</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Period'>2015</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Return'>N/A</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>-54.0%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>12.2%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Rank in Category (%)'>N/A</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='row'>
+<div class='col'>
+<h3 class='grid--subtitle'>NAV & Total Return History</h3>
+<div class='slider_indicator clearfix'></div>
+<div class='slider_indicator__chart'>
+<div id="nav-total-return-history"><script type="text/javascript">if ('$' in window) {
+        $.getJSON('/api/funds/performance_history_chart/mmgpx-morgan-stanley-vif-discovery-i', function(data){
+          if ('generateChart' in window) {
+            window.generateChart('#nav-total-return-history', data, {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"type":"line","zoomType":"x"},"rangeSelector":{"buttons":[{"count":1,"text":"1m","type":"month"},{"count":3,"text":"3m","type":"month"},{"count":6,"text":"6m","type":"month"},{"count":1,"text":"1y","type":"year"},{"count":5,"text":"5y","type":"year"},{"text":"All","type":"all"}],"selected":3,"inputEditDateFormat":"%m-%d-%Y"},"legend":{"align":"center","enabled":true,"title":{"text":"Legend \u003cspan style=\"font-size: 9px; color: #666; font-weight: normal\"\u003e(Click to\n                  show / hide lines)\u003c/span\u003e","style":{"fontStyle":"italic"}}},"yAxis":[{"labels":{"format":""},"title":{"text":"","style":{"color":"#666666"}}},{"labels":{"format":""},"opposite":true,"title":{"text":"","style":{"color":"#666666"}}}],"series":[{"data":null,"name":"","yAxis":0,"lineWidth":1,"turboThreshold":100000},{"data":null,"name":"","yAxis":1,"lineWidth":1,"turboThreshold":100000}]});
+          } else {
+            window.EventManager.on('generate_chart_loaded', () => {
+              window.generateChart('#nav-total-return-history', data, {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"type":"line","zoomType":"x"},"rangeSelector":{"buttons":[{"count":1,"text":"1m","type":"month"},{"count":3,"text":"3m","type":"month"},{"count":6,"text":"6m","type":"month"},{"count":1,"text":"1y","type":"year"},{"count":5,"text":"5y","type":"year"},{"text":"All","type":"all"}],"selected":3,"inputEditDateFormat":"%m-%d-%Y"},"legend":{"align":"center","enabled":true,"title":{"text":"Legend \u003cspan style=\"font-size: 9px; color: #666; font-weight: normal\"\u003e(Click to\n                  show / hide lines)\u003c/span\u003e","style":{"fontStyle":"italic"}}},"yAxis":[{"labels":{"format":""},"title":{"text":"","style":{"color":"#666666"}}},{"labels":{"format":""},"opposite":true,"title":{"text":"","style":{"color":"#666666"}}}],"series":[{"data":null,"name":"","yAxis":0,"lineWidth":1,"turboThreshold":100000},{"data":null,"name":"","yAxis":1,"lineWidth":1,"turboThreshold":100000}]});
+            })
+          }
+        });
+      } else {
+        window.EventManager.on('jquery_loaded', () => {
+          $.getJSON('/api/funds/performance_history_chart/mmgpx-morgan-stanley-vif-discovery-i', function(data){
+            if ('generateChart' in window) {
+              window.generateChart('#nav-total-return-history', data, {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"type":"line","zoomType":"x"},"rangeSelector":{"buttons":[{"count":1,"text":"1m","type":"month"},{"count":3,"text":"3m","type":"month"},{"count":6,"text":"6m","type":"month"},{"count":1,"text":"1y","type":"year"},{"count":5,"text":"5y","type":"year"},{"text":"All","type":"all"}],"selected":3,"inputEditDateFormat":"%m-%d-%Y"},"legend":{"align":"center","enabled":true,"title":{"text":"Legend \u003cspan style=\"font-size: 9px; color: #666; font-weight: normal\"\u003e(Click to\n                  show / hide lines)\u003c/span\u003e","style":{"fontStyle":"italic"}}},"yAxis":[{"labels":{"format":""},"title":{"text":"","style":{"color":"#666666"}}},{"labels":{"format":""},"opposite":true,"title":{"text":"","style":{"color":"#666666"}}}],"series":[{"data":null,"name":"","yAxis":0,"lineWidth":1,"turboThreshold":100000},{"data":null,"name":"","yAxis":1,"lineWidth":1,"turboThreshold":100000}]});
+            } else {
+              window.EventManager.on('generate_chart_loaded', () => {
+                window.generateChart('#nav-total-return-history', data, {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"type":"line","zoomType":"x"},"rangeSelector":{"buttons":[{"count":1,"text":"1m","type":"month"},{"count":3,"text":"3m","type":"month"},{"count":6,"text":"6m","type":"month"},{"count":1,"text":"1y","type":"year"},{"count":5,"text":"5y","type":"year"},{"text":"All","type":"all"}],"selected":3,"inputEditDateFormat":"%m-%d-%Y"},"legend":{"align":"center","enabled":true,"title":{"text":"Legend \u003cspan style=\"font-size: 9px; color: #666; font-weight: normal\"\u003e(Click to\n                  show / hide lines)\u003c/span\u003e","style":{"fontStyle":"italic"}}},"yAxis":[{"labels":{"format":""},"title":{"text":"","style":{"color":"#666666"}}},{"labels":{"format":""},"opposite":true,"title":{"text":"","style":{"color":"#666666"}}}],"series":[{"data":null,"name":"","yAxis":0,"lineWidth":1,"turboThreshold":100000},{"data":null,"name":"","yAxis":1,"lineWidth":1,"turboThreshold":100000}]});
+              })
+            }
+          });
+        })
+      }</script></div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+<hr class='t-my-12 t-border-black t-hidden md:t-block'>
+<section class='holdings t-mb-2'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-gray-60 t-transition-250' data-collapse-target='holdings' data-expanded='false' type='button'>
+<span class='t-flex-1 t-text-left'>Holdings</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-container t-mx-auto t-px-0' id='holdings'>
+<a class='t-absolute t-left-0 t--top-220' id='holdings-anchor'></a>
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-2" id="cd8c852d858517e1641d93f3c755a2a8-c"><div id="cd8c852d858517e1641d93f3c755a2a8" data-controller="ad-unit" data-ad-unit-id="cd8c852d858517e1641d93f3c755a2a8" data-ad-unit-name="MF/T-fund/equity/FP-04-A" data-ad-unit-ad-unit="FP-04-A" data-ad-unit-type="fpa" data-ad-unit-devices="m" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-04-A"></div></div>
+<div class='t-px-0'>
+<h2 class='grid--title'>
+MMGPX - Holdings
+</h2>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-2" id="9c35ba9a6f3ea119bdb30d9bac926cff-c"><div id="9c35ba9a6f3ea119bdb30d9bac926cff" data-controller="ad-unit" data-ad-unit-id="9c35ba9a6f3ea119bdb30d9bac926cff" data-ad-unit-name="MF/T-fund/equity/FP-04-A" data-ad-unit-ad-unit="FP-04-A" data-ad-unit-type="fpa" data-ad-unit-devices="t,dt" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-04-A"></div></div>
+<div class='row'>
+<div class='col-lg-8 t-mb-8 md:t-mb-16 lg:t-mb-0'>
+<h3 class='n-text__subtitle t-my-2'>Concentration Analysis</h3>
+<div class='t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table t-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX</th>
+<th class='t-p-3 n-text__table_heading'>Category Low</th>
+<th class='t-p-3 n-text__table_heading'>Category High</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX % Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>Net Assets</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>319 M</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>919 K</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>34 B</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank'>70.16%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>Number of Holdings</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>59</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>13</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>2566</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank'>74.76%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>Net Assets in Top 10</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>143 M</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return Low'>181 K</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>7.69 B</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank'>61.00%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Weighting of Top 10
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>
+44.07%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+3.3%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+94.2%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank'>
+14.45%
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='col-lg-4 col-md-6 lg:t-border-l md:t-border-0 lg:t-pb-3 md:t-pb-0 t-border-gray-75 t-mb-8 md:t-mb-16 lg:t-mb-0'>
+<div class='grid--divider__vertical_left hidden-xs hidden-sm'></div>
+<h3 class='n-text__subtitle t-my-2'>Top 10 Holdings</h3>
+<ol>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Shopify Inc A</span>
+<span class='float-right'>7.05%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>10x Genomics Inc Ordinary Shares - Class A</span>
+<span class='float-right'>5.28%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Zoom Video Communications Inc</span>
+<span class='float-right'>5.06%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Spotify Technology SA</span>
+<span class='float-right'>5.01%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Coupa Software Inc</span>
+<span class='float-right'>4.94%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Twilio Inc A</span>
+<span class='float-right'>4.94%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Fastly Inc</span>
+<span class='float-right'>4.92%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Veeva Systems Inc Class A</span>
+<span class='float-right'>4.80%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>MongoDB Inc Class A</span>
+<span class='float-right'>4.65%</span>
+</li>
+<li class='n-text__display_sm t-p-3 even:t-bg-white odd:t-bg-gray-65'>
+<span>Okta Inc A</span>
+<span class='float-right'>4.63%</span>
+</li>
+</ol>
+</div>
+
+</div>
+<div class='row holdings-row t-mb-6'>
+<div class='col-sm-12 t-my-4'>
+<h3 class='n-text__subtitle'>Asset Allocation</h3>
+</div>
+<div class='col-lg-4 t-self-center'>
+<div id='holding-chart-asset'>
+<div class='slider_indicator clearfix'>
+<div class='slider_indicator__chart'>
+<script type="text/javascript">if ('$' in window) {
+        if ('generateChart' in window) {
+          $('.holdings-row').each(function(index, element){
+            placeholder = $('#holding-chart-asset');
+            window.generateChart(placeholder, [["Stocks", 97.03], ["Preferred Stocks", 1.42], ["Cash", 1.28], ["Other", 0.27], ["Convertible Bonds", 0.0], ["Bonds", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+          });
+        } else {
+          EventManager.on('generate_chart_loaded', () => {
+            $('.holdings-row').each(function(index, element){
+              placeholder = $('#holding-chart-asset');
+              window.generateChart(placeholder, [["Stocks", 97.03], ["Preferred Stocks", 1.42], ["Cash", 1.28], ["Other", 0.27], ["Convertible Bonds", 0.0], ["Bonds", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+            });
+          })
+        }
+      } else {
+        EventManager.on('jquery_loaded', () => {
+          if ('generateChart' in window) {
+            $('.holdings-row').each(function(index, element){
+              placeholder = $('#holding-chart-asset');
+              window.generateChart(placeholder, [["Stocks", 97.03], ["Preferred Stocks", 1.42], ["Cash", 1.28], ["Other", 0.27], ["Convertible Bonds", 0.0], ["Bonds", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+            });
+          } else {
+            EventManager.on('generate_chart_loaded', () => {
+              $('.holdings-row').each(function(index, element){
+                placeholder = $('#holding-chart-asset');
+                window.generateChart(placeholder, [["Stocks", 97.03], ["Preferred Stocks", 1.42], ["Cash", 1.28], ["Other", 0.27], ["Convertible Bonds", 0.0], ["Bonds", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+              });
+            })
+          }
+        })
+      }</script>
+</div>
+</div>
+</div>
+</div>
+
+<div class='col-lg-8 t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table t-table' data-chart-series='[["Stocks", 97.03], ["Preferred Stocks", 1.42], ["Cash", 1.28], ["Other", 0.27], ["Convertible Bonds", 0.0], ["Bonds", 0.0]]'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>Weighting</th>
+<th class='t-p-3 n-text__table_heading'>Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Return High</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX % Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Stocks
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>97.03%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>23.73%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>139.77%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>75.24%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Preferred Stocks
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>1.42%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>1.64%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>0.49%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Cash
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>1.28%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>-55.75%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>39.68%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>52.59%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Other
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.27%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>-41.95%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>75.09%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>12.62%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Convertible Bonds
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>1.20%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>32.36%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Bonds
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>16.44%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>33.98%</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='row holdings-row t-mb-6'>
+<div class='col-sm-12 t-my-4'>
+<h3 class='n-text__subtitle'>Stock Sector Breakdown</h3>
+</div>
+<div class='col-lg-4 t-self-center'>
+<div id='holding-stock-sector'>
+<div class='slider_indicator clearfix'>
+<div class='slider_indicator__chart'>
+<script type="text/javascript">if ('$' in window) {
+        if ('generateChart' in window) {
+          $('.holdings-row').each(function(index, element){
+            placeholder = $('#holding-stock-sector');
+            window.generateChart(placeholder, [["Technology", 39.04], ["Healthcare", 23.2], ["Communication Services", 22.1], ["Consumer Cyclical", 15.4], ["Basic Materials", 0.14], ["Energy", 0.13], ["Utilities", 0.0], ["Real Estate", 0.0], ["Industrials", 0.0], ["Financial Services", 0.0], ["Consumer Defense", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+          });
+        } else {
+          EventManager.on('generate_chart_loaded', () => {
+            $('.holdings-row').each(function(index, element){
+              placeholder = $('#holding-stock-sector');
+              window.generateChart(placeholder, [["Technology", 39.04], ["Healthcare", 23.2], ["Communication Services", 22.1], ["Consumer Cyclical", 15.4], ["Basic Materials", 0.14], ["Energy", 0.13], ["Utilities", 0.0], ["Real Estate", 0.0], ["Industrials", 0.0], ["Financial Services", 0.0], ["Consumer Defense", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+            });
+          })
+        }
+      } else {
+        EventManager.on('jquery_loaded', () => {
+          if ('generateChart' in window) {
+            $('.holdings-row').each(function(index, element){
+              placeholder = $('#holding-stock-sector');
+              window.generateChart(placeholder, [["Technology", 39.04], ["Healthcare", 23.2], ["Communication Services", 22.1], ["Consumer Cyclical", 15.4], ["Basic Materials", 0.14], ["Energy", 0.13], ["Utilities", 0.0], ["Real Estate", 0.0], ["Industrials", 0.0], ["Financial Services", 0.0], ["Consumer Defense", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+            });
+          } else {
+            EventManager.on('generate_chart_loaded', () => {
+              $('.holdings-row').each(function(index, element){
+                placeholder = $('#holding-stock-sector');
+                window.generateChart(placeholder, [["Technology", 39.04], ["Healthcare", 23.2], ["Communication Services", 22.1], ["Consumer Cyclical", 15.4], ["Basic Materials", 0.14], ["Energy", 0.13], ["Utilities", 0.0], ["Real Estate", 0.0], ["Industrials", 0.0], ["Financial Services", 0.0], ["Consumer Defense", 0.0]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+              });
+            })
+          }
+        })
+      }</script>
+</div>
+</div>
+</div>
+</div>
+
+<div class='col-lg-8 t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table t-table' data-chart-series='[["Technology", 39.04], ["Healthcare", 23.2], ["Communication Services", 22.1], ["Consumer Cyclical", 15.4], ["Basic Materials", 0.14], ["Energy", 0.13], ["Utilities", 0.0], ["Real Estate", 0.0], ["Industrials", 0.0], ["Financial Services", 0.0], ["Consumer Defense", 0.0]]'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>Weighting</th>
+<th class='t-p-3 n-text__table_heading'>Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Return High</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX % Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Technology
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>39.04%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>59.48%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>4.53%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Healthcare
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>23.20%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>39.13%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>33.17%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Communication Services
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>22.10%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>22.10%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>0.32%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Consumer Cyclical
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>15.40%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>65.22%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>32.85%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Basic Materials
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.14%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>17.56%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>68.61%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Energy
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.13%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>60.50%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>35.44%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Utilities
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>5.37%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>45.47%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Real Estate
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>14.36%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>88.35%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Industrials
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>43.94%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>98.71%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Financial Services
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>40.21%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>97.73%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Consumer Defense
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>15.89%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>91.42%</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='row holdings-row t-mb-6'>
+<div class='col-sm-12 t-my-4'>
+<h3 class='n-text__subtitle'>Stock Geographic Breakdown</h3>
+</div>
+<div class='col-lg-4 t-self-center'>
+<div id='holding-stock-geographic'>
+<div class='slider_indicator clearfix'>
+<div class='slider_indicator__chart'>
+<script type="text/javascript">if ('$' in window) {
+        if ('generateChart' in window) {
+          $('.holdings-row').each(function(index, element){
+            placeholder = $('#holding-stock-geographic');
+            window.generateChart(placeholder, [["US", 93.85], ["Non US", 3.18]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+          });
+        } else {
+          EventManager.on('generate_chart_loaded', () => {
+            $('.holdings-row').each(function(index, element){
+              placeholder = $('#holding-stock-geographic');
+              window.generateChart(placeholder, [["US", 93.85], ["Non US", 3.18]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+            });
+          })
+        }
+      } else {
+        EventManager.on('jquery_loaded', () => {
+          if ('generateChart' in window) {
+            $('.holdings-row').each(function(index, element){
+              placeholder = $('#holding-stock-geographic');
+              window.generateChart(placeholder, [["US", 93.85], ["Non US", 3.18]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+            });
+          } else {
+            EventManager.on('generate_chart_loaded', () => {
+              $('.holdings-row').each(function(index, element){
+                placeholder = $('#holding-stock-geographic');
+                window.generateChart(placeholder, [["US", 93.85], ["Non US", 3.18]], {"title":{"text":""},"tooltip":{"formatter":""},"credits":{"enabled":false},"chart":{"height":200,"type":"pie"},"colors":["#058DC7","#50B432","#ED561B","#DDDF00","#24CBE5","#64E572","#FF9655","#FFF263","#6AF9C4","#F5DA81","#BEF781","#A9F5D0","#81BEF7","#DA81F5","#F7819F"],"legend":{"enabled":false},"plotArea":{"shadow":null,"borderWidth":null,"backgroundColor":null},"plotOptions":{"pie":{"allowPointSelect":true,"cursor":"pointer","dataLabels":{"enabled":false},"showInLegend":true}},"series":[{"data":null,"name":"","size":140}]})
+              });
+            })
+          }
+        })
+      }</script>
+</div>
+</div>
+</div>
+</div>
+
+<div class='col-lg-8 t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table holdings-table t-table' data-chart-series='[["US", 93.85], ["Non US", 3.18]]'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>Weighting</th>
+<th class='t-p-3 n-text__table_heading'>Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Return High</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX % Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+US
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>93.85%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>23.51%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>139.77%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>51.46%</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label t-flex t-w-42'>
+<div class='table--row-label-legend t-self-center'></div>
+Non US
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Weighting'>3.18%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>0.00%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>31.43%</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>62.94%</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+<section class='expenses t-mb-2'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-gray-60 t-transition-250' data-collapse-target='expenses' data-expanded='false' type='button'>
+<span class='t-flex-1 t-text-left'>Expenses</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-container t-mx-auto t-px-0' id='expenses'>
+<a class='t-absolute t-left-0 t--top-220' id='expenses-anchor'></a>
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-2" id="1fad8ab902b2a6515947b4fa7b9b547c-c"><div id="1fad8ab902b2a6515947b4fa7b9b547c" data-controller="ad-unit" data-ad-unit-id="1fad8ab902b2a6515947b4fa7b9b547c" data-ad-unit-name="MF/T-fund/equity/FP-05-A" data-ad-unit-ad-unit="FP-05-A" data-ad-unit-type="fpa" data-ad-unit-devices="m" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-05-A"></div></div>
+<div class='t-px-0'>
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-2" id="8dbd1a2096dc6077252e9abb3a0c943c-c"><div id="8dbd1a2096dc6077252e9abb3a0c943c" data-controller="ad-unit" data-ad-unit-id="8dbd1a2096dc6077252e9abb3a0c943c" data-ad-unit-name="MF/T-fund/equity/FP-05-A" data-ad-unit-ad-unit="FP-05-A" data-ad-unit-type="fpa" data-ad-unit-devices="t,dt" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-05-A"></div></div>
+<h2 class='grid--title'>
+MMGPX - Expenses
+</h2>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='row t-mb-8'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2'>Operational Fees</h3>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Fees (% of AUM)</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Expense Ratio
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+1.11%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+0.05%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+27.43%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+51.44%
+</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Management Fee
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+0.75%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+0.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+1.50%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+50.57%
+</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+12b-1 Fee
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+N/A
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+0.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+1.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+N/A
+</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Administrative Fee
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+0.08%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+0.01%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+0.40%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+33.64%
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='row t-mb-8'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2'>Sales Fees</h3>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Fees (% of AUM)</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Front Load
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+N/A
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+2.50%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+5.75%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+N/A
+</td>
+</tr>
+
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Deferred Load
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+N/A
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+1.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+5.50%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+N/A
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='row t-mb-8'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2'>Trading Fees</h3>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Fees (% of AUM)</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Max Redemption Fee
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+N/A
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+0.20%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+2.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+N/A
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='row'>
+<div class='col'>
+<h3 class='n-text__subtitle t-my-2Turnover'>Related Fees</h3>
+</div>
+</div>
+<div class='row'>
+<div class='col'>
+<p class='lg:t-w-3/5 n-text__display_sm t-mb-3 t-mt-2 t-w-full'>Turnover provides investors a proxy for the trading fees incurred by mutual fund managers who frequently adjust position allocations. Higher turnover means higher trading fees.</p>
+<table class='t-w-full table-responsive d-lg-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX Fees (% of AUM)</th>
+<th class='t-p-3 n-text__table_heading'>Category Return Low</th>
+<th class='t-p-3 n-text__table_heading'>Category Return High</th>
+<th class='t-p-3 n-text__table_heading'>Rank in Category (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class='odd:t-bg-white even:t-bg-gray-65'>
+<th class='t-p-3 table--row_label'>
+Turnover
+</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Fees (% of AUM)'>
+101.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+1.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Return High'>
+457.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX Rank in Category'>
+88.76%
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+<section class='distributions t-mb-2'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-gray-60 t-transition-250' data-collapse-target='distributions' data-expanded='false' type='button'>
+<span class='t-flex-1 t-text-left'>Distributions</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-container t-mx-auto t-px-0' id='distributions'>
+<a class='t-absolute t-left-0 t--top-220' id='distributions-anchor'></a>
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-2" id="44282218d0ecc2d819ba230042d0b3d3-c"><div id="44282218d0ecc2d819ba230042d0b3d3" data-controller="ad-unit" data-ad-unit-id="44282218d0ecc2d819ba230042d0b3d3" data-ad-unit-name="MF/T-fund/equity/FP-06-A" data-ad-unit-ad-unit="FP-06-A" data-ad-unit-type="fpa" data-ad-unit-devices="m" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-06-A"></div></div>
+<div class='t-px-0'>
+<h2 class='grid--title'>
+MMGPX - Distributions
+</h2>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-2" id="de5097c8aeabe2923709ecb66eab06e5-c"><div id="de5097c8aeabe2923709ecb66eab06e5" data-controller="ad-unit" data-ad-unit-id="de5097c8aeabe2923709ecb66eab06e5" data-ad-unit-name="MF/T-fund/equity/FP-06-A" data-ad-unit-ad-unit="FP-06-A" data-ad-unit-type="fpa" data-ad-unit-devices="t,dt" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-06-A"></div></div>
+<div class='row'>
+<div class='col-lg-8 md:t-border-0 lg:t-border-r lg:t-border-gray-75'>
+<div class='distributions--dividend_yields t-mb-6'>
+<h3 class='n-text__subtitle t-my-3'>Dividend Yield Analysis</h3>
+<div class='t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-xl-table t-table'>
+<thead class='t-bg-gray-60'>
+<tr>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX</th>
+<th class='t-p-3 n-text__table_heading'>Category Low</th>
+<th class='t-p-3 n-text__table_heading'>Category High</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX % Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class='t-p-3 table--row_label t-w-44'>Dividend Yield</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>
+0.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+0.00%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>
+33.64%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>
+36.94%
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='distributions--dividend_distribution t-mb-6'>
+<h3 class='n-text__subtitle t-my-3'>Dividend Distribution Analysis</h3>
+<div class='t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table t-table'>
+<thead class='t-bg-gray-60'>
+<tr class='active'>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX</th>
+<th class='t-p-3 n-text__table_heading'>Category Low</th>
+<th class='t-p-3 n-text__table_heading'>Category High</th>
+<th class='t-p-3 n-text__table_heading'>Category Mod</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class='t-p-3 table--row_label t-w-44'>Dividend Distribution Frequency</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>
+Annually
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+Annually
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>
+Annually
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Mode'>
+Annually
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='distributions--net-income-ratio t-mb-6'>
+<h3 class='n-text__subtitle t-my-3'>Net Income Ratio Analysis</h3>
+<div class='t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table t-table'>
+<thead class='t-bg-gray-60'>
+<tr class='active'>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX</th>
+<th class='t-p-3 n-text__table_heading'>Category Low</th>
+<th class='t-p-3 n-text__table_heading'>Category High</th>
+<th class='t-p-3 n-text__table_heading'>MMGPX % Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class='t-p-3 table--row_label t-w-44'>Net Income Ratio</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>
+-0.49%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+-2.48%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>
+1.52%
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX % Rank'>
+63.49%
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class='distributions--capital-gain'>
+<h3 class='n-text__subtitle t-my-3'>Capital Gain Distribution Analysis</h3>
+<div class='t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table t-table'>
+<thead class='t-bg-gray-60'>
+<tr class='active'>
+<th></th>
+<th class='t-p-3 n-text__table_heading'>MMGPX</th>
+<th class='t-p-3 n-text__table_heading'>Category Low</th>
+<th class='t-p-3 n-text__table_heading'>Category High</th>
+<th class='t-p-3 n-text__table_heading'>Capital Mode</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class='t-p-3 table--row_label t-w-44'>Capital Gain Distribution Frequency</th>
+<td class='t-p-3 table--cell_text t-text-left' data-th='MMGPX'>
+Annually
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+Annually
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>
+Annually
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Catgeory Mode'>
+Annually
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+<div class='col-lg-4 col-md-6'>
+<div class='distributions--dividend-payout-history'>
+<h3 class='n-text__subtitle t-my-3'>Dividend Payout History</h3>
+<table class='expandable t-w-full table-responsive d-md-table t-table'>
+<thead class='t-bg-gray-60'>
+<th class='t-p-3 n-text__table_heading'>Date</th>
+<th class='t-p-3 n-text__table_heading'>Amount</th>
+</thead>
+<tbody>
+</tbody>
+</table>
+<a class="t-text-blue-550 t-text-tiny t-float-right t-mt-3 btn-expand" href="/funds/mmgpx-morgan-stanley-vif-discovery-i/">View More +</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+<hr class='t-my-12 t-border-black t-hidden md:t-block'>
+<section class='managers t-mb-2'>
+<div class='t-flex t-w-screen t--mx-4'>
+<button class='n-ticker_button_collapse_reference t-bg-gray-60 t-transition-250' data-collapse-target='managers' data-expanded='false' type='button'>
+<span class='t-flex-1 t-text-left'>Fund Manager Analysis</span>
+<svg class='t-fill-current t-h-4 t-w-4 t-transition-250 t--rotate-90 t-self-center' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</button>
+</div>
+<div class='n-ticker_button_collapse_target n-ticker_button_collapse_target_bottom_shrink t-relative t-container t-mx-auto t-px-0' id='managers'>
+<a class='t-absolute t-left-0 t--top-220' id='managers-anchor'></a>
+<div class='row'>
+<div class='col-lg-8'>
+<h2 class='grid--title'>
+MMGPX - Fund Manager Analysis
+</h2>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='managers--list'>
+<h3 class='n-text__subtitle t-my-3'>Managers</h3>
+<div class='managers--list--manager t-bg-gray-55 t-mb-4 t-p-6'>
+<h3 class='n-text__subtitle'>
+David Cohen
+</h3>
+<hr class='t-border-gray-75'>
+<div class='row mt-3'>
+<div class='col-4'>
+<p class='n-text__label'>
+Start Date
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure Rank
+</p>
+</div>
+</div>
+<div class='row t-mt-1'>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+Apr 30, 2003
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+17.52
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+17.5%
+</p>
+</div>
+</div>
+<div class='row mt-3'>
+<div class='col'>
+<p class='n-text__display_sm'>
+Dave Cohen is an investor for the Counterpoint Global team. He joined Morgan Stanley in 1993 and has 31 years of investment experience. Dave joined the team as an investor in 1999. Prior to joining the firm, Dave was a senior fund accountant at Alliance Capital. Previously, he was a fund accountant at Natwest and Wall Street Trust. Dave received a B.S. summa cum laude in management from Pace University.
+</p>
+</div>
+</div>
+</div>
+
+<div class='managers--list--manager t-bg-gray-55 t-mb-4 t-p-6'>
+<h3 class='n-text__subtitle'>
+Dennis Lynch
+</h3>
+<hr class='t-border-gray-75'>
+<div class='row mt-3'>
+<div class='col-4'>
+<p class='n-text__label'>
+Start Date
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure Rank
+</p>
+</div>
+</div>
+<div class='row t-mt-1'>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+Apr 30, 2003
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+17.52
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+17.5%
+</p>
+</div>
+</div>
+<div class='row mt-3'>
+<div class='col'>
+<p class='n-text__display_sm'>
+Dennis is the Head of the Counterpoint Global team at Morgan Stanley Investment Management. He joined Morgan Stanley in 1998 and has 24 years of investment experience. Prior to joining the firm, he worked as a sell-side analyst for J.P. Morgan Securities. Dennis received a B.A. in political science from Hamilton College and an M.B.A. with honors in finance from Columbia University.
+</p>
+</div>
+</div>
+</div>
+
+<div class='managers--list--manager t-bg-gray-55 t-mb-4 t-p-6'>
+<h3 class='n-text__subtitle'>
+Sandeep (Sam) Chainani
+</h3>
+<hr class='t-border-gray-75'>
+<div class='row mt-3'>
+<div class='col-4'>
+<p class='n-text__label'>
+Start Date
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure Rank
+</p>
+</div>
+</div>
+<div class='row t-mt-1'>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+Jun 30, 2004
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+16.35
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+16.4%
+</p>
+</div>
+</div>
+<div class='row mt-3'>
+<div class='col'>
+<p class='n-text__display_sm'>
+Sam Chainani is an investor for the Counterpoint Global team. He joined Morgan Stanley in 1996 and has 23 years of investment experience. Sam joined the team as an investor in 2000. Previously, he was a strategy specialist for our Inception and Discovery strategies. Sam received a B.S. in management with a concentration in finance from Binghamton University. He holds the Chartered Financial Analyst designation.
+</p>
+</div>
+</div>
+</div>
+
+<div class='managers--list--manager t-bg-gray-55 t-mb-4 t-p-6'>
+<h3 class='n-text__subtitle'>
+Alexander Norton
+</h3>
+<hr class='t-border-gray-75'>
+<div class='row mt-3'>
+<div class='col-4'>
+<p class='n-text__label'>
+Start Date
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure Rank
+</p>
+</div>
+</div>
+<div class='row t-mt-1'>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+Jul 31, 2005
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+15.26
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+15.3%
+</p>
+</div>
+</div>
+<div class='row mt-3'>
+<div class='col'>
+<p class='n-text__display_sm'>
+Alexander Norton is an investor for the Counterpoint Global team. He joined Morgan Stanley in 2000 and has 24 years of investment experience. Prior to joining the firm, Alex was an associate in equity derivative sales and later an associate in equity research at Donaldson, Lufkin &amp; Jenrette. Previously, he was a bond broker with Cantor Fitzgerald. Alex received a B.A. in history from the University of Pennsylvania and an M.B.A. in finance from Columbia Business School.
+</p>
+</div>
+</div>
+</div>
+
+<div class='managers--list--manager t-bg-gray-55 t-mb-4 t-p-6'>
+<h3 class='n-text__subtitle'>
+Jason Yeung
+</h3>
+<hr class='t-border-gray-75'>
+<div class='row mt-3'>
+<div class='col-4'>
+<p class='n-text__label'>
+Start Date
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure Rank
+</p>
+</div>
+</div>
+<div class='row t-mt-1'>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+Sep 30, 2007
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+13.1
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+13.1%
+</p>
+</div>
+</div>
+<div class='row mt-3'>
+<div class='col'>
+<p class='n-text__display_sm'>
+Jason Yeung is an investor for the Counterpoint Global team. He joined Morgan Stanley in 2002 and has 22 years of investment experience. Jason joined the team in 2004 as an investor. Previously, he was a member of the U.S. Research Group, working closely with the Counterpoint Global team. Prior to joining the firm, Jason was a senior research analyst at Ramius Capital Group. Previously, he was an equity research associate at Deutsche Bank. Jason received a B.A., Phi Beta Kappa, in international relations from Johns Hopkins University and an M. Phil. in international relations from the University of Cambridge. He holds the Chartered Financial Analyst designation.
+</p>
+</div>
+</div>
+</div>
+
+<div class='managers--list--manager t-bg-gray-55 t-mb-4 t-p-6'>
+<h3 class='n-text__subtitle'>
+Armistead Nash
+</h3>
+<hr class='t-border-gray-75'>
+<div class='row mt-3'>
+<div class='col-4'>
+<p class='n-text__label'>
+Start Date
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__label'>
+Tenure Rank
+</p>
+</div>
+</div>
+<div class='row t-mt-1'>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+Sep 30, 2008
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+12.09
+</p>
+</div>
+<div class='col-4'>
+<p class='n-text__display_sm t-font-semibold'>
+12.1%
+</p>
+</div>
+</div>
+<div class='row mt-3'>
+<div class='col'>
+<p class='n-text__display_sm'>
+Armistead Nash is an investor for the Counterpoint Global team. He joined Morgan Stanley in 2002 and has 19 years of investment experience. Armistead joined the team in 2004 as an investor. Previously, he was a member of the U.S. Research Group, working closely with the Counterpoint Global team. Prior to joining the firm, Armistead was an associate in investment product development at BlackRock Financial Management. Previously, he was a research analyst in high-yield research at KEA Capital. Armistead received a B.A. in history from the University of Virginia and an M.B.A. from the University of Virginia&#39;s Darden School of Business Administration.
+</p>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class='managers-analysis t-my-8'>
+<h3 class='n-text__subtitle t-my-3'>Tenure Analysis</h3>
+<div class='t-overflow-x-scroll'>
+<table class='t-w-full table-responsive d-lg-table t-table'>
+<thead class='t-bg-gray-60'>
+<tr class='active'>
+<th class='t-p-3 n-text__table_heading'>Category Low</th>
+<th class='t-p-3 n-text__table_heading'>Category High</th>
+<th class='t-p-3 n-text__table_heading'>Category Average</th>
+<th class='t-p-3 n-text__table_heading'>Category Mode</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Low'>
+0.06
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category High'>
+34.72
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Average'>
+8.21
+</td>
+<td class='t-p-3 table--cell_text t-text-left' data-th='Category Mode'>
+0.67
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
+<div class='col-lg-4'>
+<div class="mitread--adunit__npa t-flex t-justify-center t-items-center" id="c7b5d92693660585394d1f05cf7bb35d-c"><div id="c7b5d92693660585394d1f05cf7bb35d" data-controller="ad-unit" data-ad-unit-id="c7b5d92693660585394d1f05cf7bb35d" data-ad-unit-name="MF/T-fund/equity/NP-09-A" data-ad-unit-ad-unit="NP-09-A" data-ad-unit-type="npa" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/NP-09-A"></div></div>
+</div>
+</div>
+</div>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+
+</main>
+<div class='t-font-inter t-antialiased' data-additional-note='The information you provide will help a licensed annuity agent personalize your free consultation.' data-api-urls-show='https://lead.dividend.com/api/lead_show/' data-api-urls-start='https://lead.dividend.com/api/lead_start/' data-api-urls-step='https://lead.dividend.com/api/lead_step/' data-ashley-content='Take our survey to qualify for a free consultation from a licensed annuity agent near you.' data-ashley-did-you-know-facts='According to a 2020 Dividend.com study, over 50% of dividend investors use Income Annuities to help safeguard their retirement portfolio.' data-chatbox-key='annuity-questionaire-mf' data-inverted-area-header='You&#39;re one step closer to receiving a free consultation which will tell you how an income annuity can help with retirement planning.' id='multistep-chat-box'></div>
+<div class='async-js' data-js-files='["/components/chat_box_v2"]'></div>
+
+<footer class='n-footer t-bg-gray-800'>
+<div class='t-flex t-container t-mx-auto t-py-8 t-flex-col'>
+<div class='t-flex t-flex-row t-justify-between t-items-center t-w-full t-pb-4 t-border-b t-border-gray-450'>
+<div class='t-flex-1'>
+<a href='/'>
+<img class="t-h-6" src="/packs/media/images/mutualfunds/mutualfunds-logo-white-da9e6d9d1597fdf78064e2bbe3ceedaf.svg" />
+</a>
+</div>
+<section class='t-flex t-text-white t-self-center'>
+<div class='t-flex t-z-10 social-module' data-module-type='link' data-style-type='flat'>
+
+<div class='t-w-full t-h-6 t-flex-inline-block t-leading-loose btn-group'>
+<button class='facebook hover:t-bg-gray-800 t-bg-gray-800 t-cursor-pointer t-flex t-h-6 t-items-center t-justify-center t-mx-1 t-pull-right t-rounded-full t-text-center t-text-tiny t-w-6' data-description='Ticker Template' data-title='Ticker Template' data-url='https://mutualfunds.com/funds/mmgpx-morgan-stanley-vif-discovery-i/'>
+<a class='t-text-gray-700 t-p-0 t-leading-loose t-flex'>
+<i class='fa fa-facebook t-text-white'></i>
+</a>
+</button>
+
+<button class='hover:t-bg-gray-800 t-bg-gray-800 t-cursor-pointer t-flex t-h-6 t-items-center t-justify-center t-mx-1 t-pull-right t-rounded-full t-text-center t-text-tiny t-w-6 twitter' data-description='Ticker Template' data-title='Ticker Template' data-url='https://mutualfunds.com/funds/mmgpx-morgan-stanley-vif-discovery-i/'>
+<a class='t-text-gray-700 t-p-0 t-leading-loose t-flex'>
+<i class='fa fa-twitter t-text-white'></i>
+</a>
+</button>
+
+<button class='hover:t-bg-gray-800 linkedin t-bg-gray-800 t-cursor-pointer t-flex t-h-6 t-items-center t-justify-center t-mx-1 t-pull-right t-rounded-full t-text-center t-text-tiny t-w-6' data-description='Ticker Template' data-title='Ticker Template' data-url='https://mutualfunds.com/funds/mmgpx-morgan-stanley-vif-discovery-i/'>
+<a class='t-text-gray-700 t-p-0 t-leading-loose t-flex'>
+<i class='fa fa-linkedin t-text-white'></i>
+</a>
+</button>
+
+</div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+</section>
+</div>
+<div class='t-flex t-flex-wrap t-flex-col sm:t-hidden lg:t-flex lg:t-flex-row'>
+<div class='lg:t-mr-16 t-flex t-flex-1 t-flex-col t-text-white'>
+<div class='t-flex t-flex-col t-mt-8'>
+<h6 class='n-text__display_sm t-mb-2'>
+MutualFunds.com Newsletter
+</h6>
+<section class='t-flex t-flex-col t-text-white'>
+<p class='t-text-sm t-font-author t-mb-2'>Receive email updates about best performers, news, CE accredited webcasts and more.</p>
+<a href='/advisor-access/'>
+<button class='t-border t-border-white t-w-full t-h-8 hover:t-text-gray-800 hover:t-bg-white'>
+<p class='t-text-sm t-text-center'>Sign Up for Advisor Access</p>
+</button>
+</a>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+</div>
+<div class='t-flex t-flex-1 t-flex-col t-text-white'>
+<div class='t-flex t-flex-col t-mt-8'>
+<h6 class='n-text__display_sm t-mb-2'>
+Explore MutualFunds.com
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/domestic-stock-funds/'>
+Domestic Stock Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/international-and-global-stock-funds/'>
+Global Stock Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/specialized-funds/'>
+Specialized Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/enhanced-index-funds/'>
+Enhanced Index Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/load-funds/'>
+Load Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/money-market-funds/'>
+Money Market Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/index-funds/'>
+Index Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/actively-managed-funds/'>
+Actively Managed Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/no-load-funds/'>
+No-Load Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/bond-funds/'>
+Bond Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/equity-funds/'>
+Equity Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/hybrid-funds/'>
+Hybrid Funds
+</a>
+</div>
+</div>
+<div class='lg:t-mr-16 t-flex t-flex-1 t-flex-col t-text-white'>
+<div class='t-flex t-flex-col t-mt-8'>
+<h6 class='n-text__display_sm t-mb-2'>
+Education
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/resources/tips-every-mutual-fund-investor-should-know/'>
+25 Tips Every Mutual Fund Investor Should Know
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/questions-to-ask-when-buying-mutual-funds/'>
+7 Questions to Ask When Buying a Mutual Fund
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/complete-guide-to-mutual-fund-expenses/'>
+Complete Guide to Mutual Fund Expenses
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/mutual-funds-brief-history/'>
+A Brief History of Mutual Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/what-is-a-mutual-fund/'>
+What Is a Mutual Fund?
+</a>
+</div>
+<div class='t-flex t-flex-col t-mb-8 t-mt-8'>
+<h6 class='n-text__display_sm t-mb-2'>
+Free Newsletters
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://www.dividend.com/newsletter/'>
+Dividend.com Daily Dispatch
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://etfdb.com/newsletter/'>
+ETFdb.com Daily Roundup
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://mutualfunds.com/dispatch/'>
+MutualFunds.com Daily Dispatch
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://www.municipalbonds.com/newsletter/'>
+MunicipalBonds.com Newsletter
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://commodityhq.com/newsletter/'>
+CommodityHQ.com Newsletter
+</a>
+</div>
+</div>
+<div class='lg:t-flex-none t-flex t-flex-1 t-flex-col t-text-white'>
+<div class='t-flex t-flex-col t-mt-8'>
+<h6 class='n-text__display_sm t-mb-2'>
+Help &amp; Info
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/contact/'>
+Contact us
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/authors/'>
+About us
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/sitemap-index.xml/'>
+Sitemap
+</a>
+</div>
+<div class='t-flex t-flex-col t-mb-8 t-mt-8'>
+<h6 class='n-text__display_sm t-mb-2'>
+Legal
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/privacy-terms/'>
+Privacy Policy
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/privacy-terms/'>
+Terms of Use
+</a>
+</div>
+</div>
+</div>
+<div class='t-hidden t-flex-wrap sm:t-flex sm:t-flex-row sm:t-mt-8 lg:t-hidden'>
+<div class='t-flex t-flex-col t-text-white t-flex-1 t-mr-14'>
+<div class='t-flex t-flex-col t-h-40'>
+<h6 class='n-text__display_sm t-mb-2'>
+MutualFunds.com Newsletter
+</h6>
+<section class='t-flex t-flex-col t-text-white'>
+<p class='t-text-sm t-font-author t-mb-2'>Receive email updates about best performers, news, CE accredited webcasts and more.</p>
+<a href='/advisor-access/'>
+<button class='t-border t-border-white t-w-full t-h-8 hover:t-text-gray-800 hover:t-bg-white'>
+<p class='t-text-sm t-text-center'>Sign Up for Advisor Access</p>
+</button>
+</a>
+</section>
+<div class='async-js' data-js-files='[]'></div>
+
+</div>
+<div class='t-flex t-flex-col t-h-40'>
+<h6 class='n-text__display_sm t-mb-2'>
+Explore MutualFunds.com
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/domestic-stock-funds/'>
+Domestic Stock Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/international-and-global-stock-funds/'>
+Global Stock Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/specialized-funds/'>
+Specialized Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/enhanced-index-funds/'>
+Enhanced Index Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/load-funds/'>
+Load Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/money-market-funds/'>
+Money Market Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/index-funds/'>
+Index Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/actively-managed-funds/'>
+Actively Managed Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/no-load-funds/'>
+No-Load Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/bond-funds/'>
+Bond Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/equity-funds/'>
+Equity Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/hybrid-funds/'>
+Hybrid Funds
+</a>
+</div>
+</div>
+<div class='t-flex t-flex-col t-text-white t-flex-1'>
+<div class='t-flex t-flex-col t-mb-6'>
+<h6 class='n-text__display_sm t-mb-2'>
+Education
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/resources/tips-every-mutual-fund-investor-should-know/'>
+25 Tips Every Mutual Fund Investor Should Know
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/questions-to-ask-when-buying-mutual-funds/'>
+7 Questions to Ask When Buying a Mutual Fund
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/complete-guide-to-mutual-fund-expenses/'>
+Complete Guide to Mutual Fund Expenses
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/mutual-funds-brief-history/'>
+A Brief History of Mutual Funds
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/education/what-is-a-mutual-fund/'>
+What Is a Mutual Fund?
+</a>
+</div>
+<div class='t-flex t-flex-col t-mb-6'>
+<h6 class='n-text__display_sm t-mb-2'>
+Free Newsletters
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://www.dividend.com/newsletter/'>
+Dividend.com Daily Dispatch
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://etfdb.com/newsletter/'>
+ETFdb.com Daily Roundup
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://mutualfunds.com/dispatch/'>
+MutualFunds.com Daily Dispatch
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://www.municipalbonds.com/newsletter/'>
+MunicipalBonds.com Newsletter
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='https://commodityhq.com/newsletter/'>
+CommodityHQ.com Newsletter
+</a>
+</div>
+<div class='t-flex t-flex-col t-mb-6'>
+<h6 class='n-text__display_sm t-mb-2'>
+Help &amp; Info
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/contact/'>
+Contact us
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/authors/'>
+About us
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/sitemap-index.xml/'>
+Sitemap
+</a>
+</div>
+<div class='t-flex t-flex-col t-mb-6'>
+<h6 class='n-text__display_sm t-mb-2'>
+Legal
+</h6>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/privacy-terms/'>
+Privacy Policy
+</a>
+<a class='n-text__display_sm t-opacity-60 hover:t-text-white' href='/privacy-terms/'>
+Terms of Use
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class='t-w-full t-bg-gray-900 t-py-6'>
+<div class='t-container t-mx-auto t-flex t-flex-col sm:t-items-center sm:t-flex-row sm:t-justify-between'>
+<figure class='t-flex t-flex-1 t-mb-4 sm:t-mb-0'>
+<a href='http://mitremedia.com' rel='nofollow' target='_blank'>
+<img class="t-h-6" src="/packs/media/images/mutualfunds/mitremedia-logo-footer-9d8f857826be9b4c9752da11dbfed366.png" />
+</a>
+</figure>
+<div class='t-flex t-flex-1 t-flex-row t-justify-between lg:t-flex-none'>
+<p class='t-text-white t-text-sm lg:t-mr-12'>
+<a target="_blank" rel="nofollow" href="http://mitremedia.com/#partner">Advertise With Us</a>
+</p>
+<div class='t-flex-none'>
+<p class='t-text-white t-text-sm'>
+&copy;
+2020
+<a target="_blank" rel="nofollow" href="http://mitremedia.com">Mitre Media</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+</footer>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='t-fixed t-w-full t-h-full t-top-0 t-left-0 t-flex t-flex-wrap t-items-center t-justify-center t-z-50 t-will-change-opacity t-transition-250 t-transition-all t-overflow-auto t-hidden' data-controller='modal' id='interstitial'>
+<div class='modal-overlay t-fixed t-h-full t-w-full t-top-0 t-left-0 t-bg-gray-900 t-opacity-50'></div>
+<div class='modal-container t-bg-white t-mx-auto t-rounded t-shadow-lg t-z-50 t-my-10'>
+<div class='modal-content t-py-4 t-px-6'>
+<div class='t-flex t-justify-between t-items-center'>
+<h4 class='t-text-2xl t-font-bold t-leading-normal t-text-blue-800 t-text-center'>
+Advertisement
+</h4>
+<div class='modal-close t-cursor-pointer t-z-50' data-action='click->modal#closeModal'>
+<span class='t-fill-current t-text-gray-500 t-text-md'>&times;</span>
+</div>
+</div>
+<div class='t-h-px t-bg-gray-400 t-w-full'></div>
+<div class='t-flex t-my-2 t-items-center t-justify-center'>
+<div class="mitread--adunit__oa t-flex t-flex-end" id="2af10d5fe481c31f526637aad0ba9db9-c"><div id="2af10d5fe481c31f526637aad0ba9db9" data-controller="ad-unit" data-ad-unit-id="2af10d5fe481c31f526637aad0ba9db9" data-ad-unit-name="MF/T-fund/equity/O-01-A" data-ad-unit-ad-unit="O-01-A" data-ad-unit-type="oa" data-ad-unit-only-if="enterInterstitialHasNotBeenServed" data-ad-unit-is-native="false" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/O-01-A"></div></div>
+</div>
+<div class='t-flex t-justify-end t-pt-2'>
+<button class='modal-close t-px-4 t-h-8 t-bg-white t-border t-rounded t-text-gray-800 hover:t-bg-gray-200' data-action='click->modal#closeModal'>
+Close
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='exit-interstitial-with-ads t-fixed t-w-full t-h-full t-top-0 t-left-0 t-flex t-flex-wrap t-items-center t-justify-center t-z-2000 t-will-change-opacity t-transition-250 t-transition-all t-overflow-auto t-hidden' data-controller='modal' id='exit-interstitial'>
+<div class='modal-overlay t-fixed t-h-full t-w-full t-top-0 t-left-0 t-bg-gray-900 t-opacity-50'></div>
+<div class='modal-container t-bg-white t-mx-auto t-rounded t-shadow-lg t-z-2050 t-my-10'>
+<div class='modal-content t-py-4 t-text-left t-px-6'>
+<div class='t-flex t-justify-between t-items-center'>
+<h4 class='t-text-2xl t-font-bold t-leading-normal t-text-blue-800 t-text-center'>
+Wait! Do you know all the important aspects of mutual funds?
+</h4>
+<div class='modal-close t-cursor-pointer t-z-2050' data-action='click->modal#closeModal'>
+<span class='t-fill-current t-text-gray-500 t-text-md'>&times;</span>
+</div>
+</div>
+<div class='t-h-px t-bg-gray-400 t-w-full'></div>
+<div class='t-flex t-my-2'>
+<div class='t-flex t-flex-col t-flex-1'>
+<div class="mitread--adunit__oa t-flex t-flex-end" id="e0590d421162f549923f844043adb8e4-c"><div id="e0590d421162f549923f844043adb8e4" data-controller="ad-unit" data-ad-unit-id="e0590d421162f549923f844043adb8e4" data-ad-unit-name="MF/T-fund/equity/O-02-A" data-ad-unit-ad-unit="O-02-A" data-ad-unit-type="oa" data-ad-unit-only-if="exitInterstitialHasNotBeenServed" data-ad-unit-is-native="false" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/O-02-A"></div></div>
+</div>
+</div>
+<div class='t-flex t-justify-end t-pt-2'>
+<button class='modal-close close t-px-4 t-h-8 t-bg-white t-border t-rounded t-text-gray-800 hover:t-bg-gray-200' data-action='click->modal#closeModal'>
+Close
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class='exit-interstitial-without-ads t-fixed t-w-full t-h-full t-top-0 t-left-0 t-flex t-flex-wrap t-items-center t-justify-center t-z-2000 t-will-change-opacity t-transition-250 t-transition-all t-overflow-auto t-hidden' data-controller='modal' id='exit-interstitial-without-ad'>
+<div class='modal-container t-bg-white t-rounded t-shadow-lg t-z-2050'>
+<div class='modal-content t-border-none t-rounded-none t-bg-cover t-bg-center t-w-screen t-h-screen t-relatvie t-justify-center' style='background-image: url(https://s3.amazonaws.com/assets.mutualfunds.com/fundamentals/images/client+channels/exit-interstitial/exit-interstitial.png)'>
+<div class='t-absolute t-right-0 t-top-0'>
+<button class='modal-close t-bg-transparent t-text-white t-border-0 t-uppercase t-py-2 t-px-6' data-action='click->modal#closeModal'>
+<span class='t-text-7xl t-font-hairline'>&times;</span>
+</button>
+</div>
+<div class='t-flex t-justify-center'>
+<div class='t-py-10 t-px-6 t-bg-white t-my-16 t-w-108'>
+<div class='align-middle container-fluid d-inline-block'>
+<div class='row t-text-center t-justify-center'>
+<div class='t-mb-4 t-flex t-justify-center'>
+<img class="mf-logo my-2 t-w-17/20" alt="MutualFunds.com Logo" src="/packs/media/images/mutualfunds/mutualfunds-logo-499d3ed183dbba313dd3b85de99b23f9.svg" />
+</div>
+<h2 class='t-text-2xl t-font-bold t-leading-md t-pb-2'>
+Free Advisor Access newsletter emailed to you.
+</h2>
+</div>
+<div class='row t-text-center'>
+<h4 class='n-text__display_sm t-pt-2'>
+Receive free and exclusive email updates for financial advisors about best performers, news, CE accredited webcasts and more.
+</h4>
+</div>
+<div class='row'>
+<div class='page--content__fullsize'>
+<div class='t-hidden'>
+<hr class='t-my-4 t-border-black t-opacity-50 t-hidden md:t-block lg:t-hidden'>
+<div class='email-update'></div>
+<summary class='n-section-summary md:t-border-none t--mb-2 t-border-black'>
+<h2 class='n-text__subtitle'>Sign up for Advisor Access</h2>
+</summary>
+<p class='n-text__display_sm'>Receive email updates about best performers, news, CE accredited webcasts and more.</p>
+</div>
+<form class='email-subscription-form'>
+<div class='t-my-2'>
+<div class='empty-email invalid-feedback'>Please Enter Your Email</div>
+<input class='newsletter-email-input page--input t-mr-2 form-control t-my-2 n-input_subscribe t-placeholder-gray-500' name='EMAIL' placeholder='Enter Email Address' type='email' value=''>
+<div class='t-relative'>
+<div class='empty-advisor-type invalid-feedback'>Please Select Your Advisor Type</div>
+<select class='newsletter-advisor-type-input form-control n-input_dropdown required btn t-text-gray-500 t-border-none t-outline-none t-text-sm t-bg-white hover:t-bg-gray-75 hover:t-text-gray-500 t-text-left' name='INVSTRTYPE'>
+<option disabled hidden label='Select Advisor Type' selected>Select Advisor Type</option>
+<optgroup data-advisor_type='advisor' label='Advisor'>
+<option data-advisor_type='advisor' label='Wirehouse' value='Wirehouse'>Wirehouse</option>
+<option data-advisor_type='advisor' label='Independent RIA' value='Independent RIA'>Independent RIA</option>
+<option data-advisor_type='advisor' label='Independent Broker Dealer' value='Independent Broker Dealer'>Independent Broker Dealer</option>
+<option data-advisor_type='advisor' label='Independent Insurance Agent' value='Independent Insurance Agent'>Independent Insurance Agent</option>
+</optgroup>
+<optgroup data-advisor_type='institutional' label='Institutional'>
+<option data-advisor_type='institutional' label='Venture Capital' value='Venture Capital'>Venture Capital</option>
+<option data-advisor_type='institutional' label='Private Equity' value='Private Equity'>Private Equity</option>
+<option data-advisor_type='institutional' label='Mutual Fund' value='Mutual Fund'>Mutual Fund</option>
+<option data-advisor_type='institutional' label='ETF Issuer' value='ETF Issuer'>ETF Issuer</option>
+<option data-advisor_type='institutional' label='Hedge Fund' value='Hedge Fund'>Hedge Fund</option>
+<option data-advisor_type='institutional' label='Real Estate' value='Real Estate'>Real Estate</option>
+<option data-advisor_type='institutional' label='Family Office' value='Family Office'>Family Office</option>
+<option data-advisor_type='institutional' label='Bank' value='Bank'>Bank</option>
+<option data-advisor_type='institutional' label='Corporate' value='Corporate'>Corporate</option>
+<option data-advisor_type='institutional' label='Government' value='Government'>Government</option>
+<option data-advisor_type='institutional' label='Securities Brokerage' value='Securities Brokerage'>Securities Brokerage</option>
+<option data-advisor_type='institutional' label='Sovereign Wealth Fund' value='Sovereign Wealth Fund'>Sovereign Wealth Fund</option>
+<option data-advisor_type='institutional' label='Pension Fund' value='Pension Fund'>Pension Fund</option>
+<option data-advisor_type='institutional' label='Endowment Fund' value='Endowment Fund'>Endowment Fund</option>
+</optgroup>
+<option data-advisor_type='investor' label='Individual Investors' value=' '>Individual Investors</option>
+<option data-advisor_type='other' label='Other' value=' '>Other</option>
+</select>
+<div class='t-pointer-events-none t-absolute t-inset-y-0 t-right-0 t-flex t-items-center t-px-2 t-text-gray-700'>
+<svg class='t-fill-current t-h-4 t-w-4' viewBox='0 0 20 20'>
+<path d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'></path>
+</svg>
+</div>
+</div>
+<button class='subscribe-button btn n-button_subscribe md:t-h-10 lg:t-h-auto' name='subscribe' type='submit' value='Subscribe'>
+Receive Exclusive Content
+</button>
+</div>
+</form>
+<div class='t-mb-4'></div>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='async-js' data-js-files='["/components/email_subscribe"]'></div>
+
+</div>
+<p class='t-text-3xs t-font-normal t-leading-normal t-text-center'>
+Disclaimer: By registering, you agree to share your data with MutualFunds.com and opt-in to receiving occasional communications about projects and events. The contents of this form are subject to the MutualFunds.com
+<a class='hover:t-underline' href='/privacy-terms/'>
+Privacy Policy.
+</a>
+You can unsubscribe at any time.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='async-js' data-js-files='[]'></div>
+
+<div class='sticky_footer n-ads-sticky-footer' data-controller='modal' id='sticky_footer'>
+<div class='sticky_footer--close_btn n-ads-sticky-footer--close_btn' data-action='click->modal#closeModal'>
+X
+</div>
+<div class="mitread--adunit__fpa t-flex t-justify-center t-items-center t-my-1" id="be841e80006ce7b7b977cacfc7e436dc-c"><div id="be841e80006ce7b7b977cacfc7e436dc" data-controller="ad-unit" data-ad-unit-id="be841e80006ce7b7b977cacfc7e436dc" data-ad-unit-name="MF/T-fund/equity/FP-10-A" data-ad-unit-ad-unit="FP-10-A" data-ad-unit-type="fpa" data-ad-unit-only-if="stickyFooterHasNotBeenServed" data-ad-unit-is-native="true" data-ad-unit-kfp="true"></div>
+<div data-controller="ad-position" data-ad-position-id="/2143012/MF/T-fund/equity/FP-10-A"></div></div>
+</div>
+
+<div class='async-js' data-js-files='[]'></div>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2300449460226990');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=2300449460226990&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+
+<script src="/packs/js/runtime~foot-4e1aa4736b1f0532e702.js"></script>
+<script src="/packs/js/1-8210b22628ddff8fead6.chunk.js"></script>
+<script src="/packs/js/vendor-6890dd33eeafd0d59407.chunk.js"></script>
+<script src="/packs/js/foot-a5c7facd5d1dea38df50.chunk.js"></script>
+</body>
+</html>
